@@ -1,7 +1,7 @@
 import fs from "fs";
 import path from "path";
 
-const fetchUrl = "https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=zh-CN";
+const fetchUrl = "https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US";
 const baseUrl = "https://www.bing.com";
 
 async function fetchImageInfo(url: string) {
@@ -43,12 +43,25 @@ async function writeImageInfo(imageInfo: ImageInfo) {
 
   // If the imageInfo is already in the csv, do nothing.
   if (!imageInfos.find((x) => x.enddate === enddate)) {
-    imageInfos.push({enddate, title, copyright} as any);
+    imageInfos.push({ enddate, title, copyright } as any);
     jsonStr = JSON.stringify(imageInfos, null, 2);
     fs.writeFileSync(jsonPath, jsonStr);
 
     console.info(`Image info of ${enddate} has been written.`);
   }
+
+  // Update README.md
+  const templatePath = path.join(__dirname, "template.md");
+  const readmePath = path.join(__dirname, "README.md");
+  let readmeStr = fs.readFileSync(templatePath, "utf8");
+  readmeStr += `\n\n![${title}](./archive/${enddate}.jpg)\n\n`;
+  readmeStr += `### List of Included Wallpapers\n\n`;
+  readmeStr += `|date|title|copyright|\n|---|---|---|\n`;
+  imageInfos.sort((a, b) => ~~b.enddate - ~~a.enddate);
+  imageInfos.forEach((x) => {
+    readmeStr += `|${x.enddate}|${x.title}|${x.copyright}|\n`;
+  });
+  fs.writeFileSync(readmePath, readmeStr);
 }
 
 async function main() {
