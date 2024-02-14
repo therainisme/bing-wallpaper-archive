@@ -31,7 +31,7 @@ jobs:
       run: yarn install
 
     - name: Fetch bing wallpeper
-      run: ts-node main.ts
+      run: yarn fetch
 
     - name: Update archive
       run: |
