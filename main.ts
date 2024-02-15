@@ -1,7 +1,7 @@
 import fs from "fs";
 import path from "path";
 
-const fetchUrl = "https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US";
+const fetchUrl = "https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-gb";
 const baseUrl = "https://www.bing.com";
 
 async function fetchImageInfo(url: string) {
