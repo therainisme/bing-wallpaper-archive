@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![Taking a breather](./archive/20240218.jpg)
+![Vibrant colours all year round!](./archive/20240219.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240219|Vibrant colours all year round!|Puerto de la Cruz, Tenerife, Spain (© Marco Bottigelli/Getty Images)|
 |20240218|Taking a breather|Sperm whale pod surfacing, Dominica (© Franco Banfi/Minden Pictures)|
 |20240217|Where the past comes to life|Whitby Abbey, North Yorkshire, England (© Kev Hill/Moment/Getty Images)|
 |20240216|Dapper in the desert|Female pyrrhuloxia, Texas, USA (© outtakes/Getty Images)|
