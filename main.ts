@@ -1,8 +1,9 @@
 import fs from "fs";
 import path from "path";
 
-const fetchUrl = "https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-gb";
-const baseUrl = "https://www.bing.com";
+const fetchUrl = "https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=zh-CN";
+const urlprefix = "https://www.bing.com";
+const urlsuffix = "_UHD.jpg";
 
 async function fetchImageInfo(url: string) {
   const response = await fetch(url);
@@ -11,6 +12,7 @@ async function fetchImageInfo(url: string) {
     console.error("No bing wallpaper found");
     return;
   }
+  images[0].startdate = ~~images[0].startdate + 1;
   return images[0];
 }
 
@@ -22,14 +24,14 @@ async function fetchImageBuffer(url: string) {
 
 interface ImageInfo {
   title: string;
-  url: string;
+  urlbase: string;
   copyright: string;
   startdate: string;
 };
 
 async function writeImageBuffer(imageInfo: ImageInfo) {
-  const { url, startdate } = imageInfo;
-  const buffer = await fetchImageBuffer(baseUrl + url);
+  const { urlbase, startdate } = imageInfo;
+  const buffer = await fetchImageBuffer(urlprefix + urlbase + urlsuffix);
 
   // It can work without checking for duplication.
   fs.writeFileSync(path.join(__dirname, "archive", `${startdate}.jpg`), new DataView(buffer));
