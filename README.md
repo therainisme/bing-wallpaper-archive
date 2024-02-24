@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![Where eagles dance](./archive/20240223.jpg)
+![Whispers of spring](./archive/20240224.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240224|Whispers of spring|Almond trees in full bloom, California, USA (© Jeffrey Lewis/Tandem Stills + Motion)|
 |20240223|Where eagles dance|Haghartsin Monastery, Dilijan National Park, Armenia (© Alexey Kharitonov/Shutterstock)|
 |20240222|A veritable palette of boxes|Bathing boxes at Brighton Beach, Melbourne, Victoria, Australia (© Prasit photo/Getty Images)|
 |20240221|A natural oxymoron|Firefall at Horsetail Fall, Yosemite National Park, California, USA (© Gregory B Cuvelier/Shutterstock)|
