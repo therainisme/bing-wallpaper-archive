@@ -2,20 +2,20 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![Whispers of spring](./archive/20240224.jpg)
+![点亮一盏明灯，愿您万事顺意！](./archive/20240224.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
-|20240224|Whispers of spring|Almond trees in full bloom, California, USA (© Jeffrey Lewis/Tandem Stills + Motion)|
-|20240223|Where eagles dance|Haghartsin Monastery, Dilijan National Park, Armenia (© Alexey Kharitonov/Shutterstock)|
-|20240222|A veritable palette of boxes|Bathing boxes at Brighton Beach, Melbourne, Victoria, Australia (© Prasit photo/Getty Images)|
-|20240221|A natural oxymoron|Firefall at Horsetail Fall, Yosemite National Park, California, USA (© Gregory B Cuvelier/Shutterstock)|
-|20240220|A park for the people|Kinder Scout, Peak District National Park, England (© john finney photography/Getty Images)|
-|20240219|Vibrant colours all year round!|Puerto de la Cruz, Tenerife, Spain (© Marco Bottigelli/Getty Images)|
-|20240218|Taking a breather|Sperm whale pod surfacing, Dominica (© Franco Banfi/Minden Pictures)|
-|20240217|Where the past comes to life|Whitby Abbey, North Yorkshire, England (© Kev Hill/Moment/Getty Images)|
-|20240216|Dapper in the desert|Female pyrrhuloxia, Texas, USA (© outtakes/Getty Images)|
-|20240215|Happy Hippo Day!|Hippopotamus mother and calf, South Luangwa National Park, Zambia (© Nature Picture Library/Alamy)|
-|20240214|Better together|Red-crowned crane bowing to his mate in Hokkaido, Japan (© Steve Bloom Images/Alamy)|
+|20240224|点亮一盏明灯，愿您万事顺意！|锦里街上悬挂的红色中国灯笼，成都，中国四川省 (© Philippe LEJEANVRE/Getty images)|
+|20240223|老鹰起舞的地方|Haghartsin修道院，迪利扬国家公园，亚美尼亚 (© Alexey Kharitonov/Shutterstock)|
+|20240222|名副其实的“调色板盒子”|布莱顿海滩的彩虹小屋，墨尔本，维多利亚州，澳大利亚 (© Prasit photo/Getty Images)|
+|20240221|一个天然的矛盾体|火瀑布，优胜美地国家公园，加利福尼亚州，美国 (© Gregory B Cuvelier/Shutterstock)|
+|20240220|一个供市民休闲娱乐的公园|Kinder Scout，峰区国家公园，英国 (© john finney photography/Getty Images)|
+|20240219|一年四季都有鲜艳的色彩!|鸟瞰克鲁斯港色彩斑斓的房屋，特内里费岛，西班牙 (© Marco Bottigelli/Getty Images)|
+|20240218|来一口新鲜空气|抹香鲸浮出水面，多米尼克 (© Franco Banfi/Minden Pictures)|
+|20240217|自然奇景|多洛米蒂山的布莱耶斯湖，南蒂罗尔，意大利 (© Marco Bottigelli/Getty Images)|
+|20240216|让每只鸟都有价值|一只雌性灰额主红雀栖息在德克萨斯州一株多刺仙人掌上，美国 (© outtakes/Getty Images)|
+|20240215|河马日快乐！|河马妈妈和小河马，南卢安瓜国家公园，赞比亚 (© Nature Picture Library/Alamy Stock Photo)|
+|20240214|更好地在一起|丹顶鹤向伴侣鞠躬，北海道，日本 (© Steve Bloom Images/Alamy Stock Photo)|
