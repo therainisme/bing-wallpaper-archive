@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![点亮一盏明灯，愿您万事顺意！](./archive/20240224.jpg)
+![薄雾笼罩](./archive/20240225.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240225|薄雾笼罩|考伊琴山谷的薄雾，温哥华岛，加拿大不列颠哥伦比亚省 (© Kevin Oke/Alamy)|
 |20240224|点亮一盏明灯，愿您万事顺意！|锦里街上悬挂的红色中国灯笼，成都，中国四川省 (© Philippe LEJEANVRE/Getty images)|
 |20240223|老鹰起舞的地方|Haghartsin修道院，迪利扬国家公园，亚美尼亚 (© Alexey Kharitonov/Shutterstock)|
 |20240222|名副其实的“调色板盒子”|布莱顿海滩的彩虹小屋，墨尔本，维多利亚州，澳大利亚 (© Prasit photo/Getty Images)|
