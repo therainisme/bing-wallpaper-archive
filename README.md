@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![在冰天雪地里玩耍](./archive/20240227.jpg)
+![随波逐流](./archive/20240228.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240228|随波逐流|班堡城堡，诺森伯兰郡，英格兰 (© Blackbeck/Getty Images)|
 |20240227|在冰天雪地里玩耍|玩耍的北极熊幼崽，卡克托维克，阿拉斯加州，美国 (© Piriya Photography/Getty Images)|
 |20240226|深不见底的鸿沟|大峡谷国家公园，亚利桑那州，美国 (© Jeremy Janus/Getty Images)|
 |20240225|薄雾笼罩|考伊琴山谷的薄雾，温哥华岛，加拿大不列颠哥伦比亚省 (© Kevin Oke/Alamy)|
