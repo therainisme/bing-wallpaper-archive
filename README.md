@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![多过一天](./archive/20240229.jpg)
+![蝶舞翩跹](./archive/20240230.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240230|蝶舞翩跹|德国草地上的蝴蝶 (© Albert Fertl/Getty Images)|
 |20240229|多过一天|欧亚红松鼠 (© Westend61/Getty Images)|
 |20240228|随波逐流|班堡城堡，诺森伯兰郡，英格兰 (© Blackbeck/Getty Images)|
 |20240227|在冰天雪地里玩耍|玩耍的北极熊幼崽，卡克托维克，阿拉斯加州，美国 (© Piriya Photography/Getty Images)|
