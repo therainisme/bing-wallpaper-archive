@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![蝶舞翩跹](./archive/20240230.jpg)
+![西西里岛的风光](./archive/20240302.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240302|西西里岛的风光|莫迪卡，西西里岛，意大利 (© Sandro Bisaro/Getty Images)|
 |20240230|蝶舞翩跹|德国草地上的蝴蝶 (© Albert Fertl/Getty Images)|
 |20240229|多过一天|欧亚红松鼠 (© Westend61/Getty Images)|
 |20240228|随波逐流|班堡城堡，诺森伯兰郡，英格兰 (© Blackbeck/Getty Images)|
