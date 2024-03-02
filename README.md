@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![西西里岛的风光](./archive/20240302.jpg)
+![一位浑身斑点的杂技演员](./archive/20240303.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240303|一位浑身斑点的杂技演员|树上的豹子，克鲁格国家公园，南非 (© Tonino De Marco/Minden Pictures)|
 |20240302|西西里岛的风光|莫迪卡，西西里岛，意大利 (© Sandro Bisaro/Getty Images)|
 |20240230|蝶舞翩跹|德国草地上的蝴蝶 (© Albert Fertl/Getty Images)|
 |20240229|多过一天|欧亚红松鼠 (© Westend61/Getty Images)|
