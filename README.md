@@ -10,7 +10,7 @@ Use Github Action to automatically crawl bing daily wallpaper.
 |---|---|---|
 |20240303|一位浑身斑点的杂技演员|树上的豹子，克鲁格国家公园，南非 (© Tonino De Marco/Minden Pictures)|
 |20240302|西西里岛的风光|莫迪卡，西西里岛，意大利 (© Sandro Bisaro/Getty Images)|
-|20240230|蝶舞翩跹|德国草地上的蝴蝶 (© Albert Fertl/Getty Images)|
+|20240301|蝶舞翩跹|德国草地上的蝴蝶 (© Albert Fertl/Getty Images)|
 |20240229|多过一天|欧亚红松鼠 (© Westend61/Getty Images)|
 |20240228|随波逐流|班堡城堡，诺森伯兰郡，英格兰 (© Blackbeck/Getty Images)|
 |20240227|在冰天雪地里玩耍|玩耍的北极熊幼崽，卡克托维克，阿拉斯加州，美国 (© Piriya Photography/Getty Images)|
