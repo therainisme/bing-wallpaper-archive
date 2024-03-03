@@ -12,7 +12,9 @@ async function fetchImageInfo(url: string) {
     console.error("No bing wallpaper found");
     return;
   }
-  images[0].startdate = ~~images[0].startdate + 1;
+  
+  // UTC+8
+  images[0].startdate = ~~images[0].enddate;
   return images[0];
 }
 
@@ -27,6 +29,7 @@ interface ImageInfo {
   urlbase: string;
   copyright: string;
   startdate: string;
+  enddate: string;
 };
 
 async function writeImageBuffer(imageInfo: ImageInfo) {
