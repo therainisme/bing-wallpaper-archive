@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![一位浑身斑点的杂技演员](./archive/20240303.jpg)
+![睡美人](./archive/20240304.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240304|睡美人|从蒙特维多看到的阿雷纳尔火山,哥斯达黎加 (© Lukas Bischoff/Getty Images)|
 |20240303|一位浑身斑点的杂技演员|树上的豹子，克鲁格国家公园，南非 (© Tonino De Marco/Minden Pictures)|
 |20240302|西西里岛的风光|莫迪卡，西西里岛，意大利 (© Sandro Bisaro/Getty Images)|
 |20240301|蝶舞翩跹|德国草地上的蝴蝶 (© Albert Fertl/Getty Images)|
