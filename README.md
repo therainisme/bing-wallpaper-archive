@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![陷入循环之中？](./archive/20240305.jpg)
+![尽情地嬉戏玩水吧！](./archive/20240306.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240306|尽情地嬉戏玩水吧！|Wahclella Falls，哥伦比亚河峡谷，俄勒冈州，美国 (© Eric Vogt/Tandem Stills + Motion)|
 |20240305|陷入循环之中？|曼谷的交通圈和高速公路，泰国 (© Avigator Fortuner/Shutterstock)|
 |20240304|睡美人|从蒙特维多看到的阿雷纳尔火山,哥斯达黎加 (© Lukas Bischoff/Getty Images)|
 |20240303|一位浑身斑点的杂技演员|树上的豹子，克鲁格国家公园，南非 (© Tonino De Marco/Minden Pictures)|
