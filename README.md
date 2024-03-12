@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![峡谷的守护者](./archive/20240312.jpg)
+![鸟瞰](./archive/20240313.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240313|鸟瞰|小红鹳飞越马加迪湖,肯尼亚 (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)|
 |20240312|峡谷的守护者|布莱斯峡谷国家公园，犹他州，美国 (© Jim Patterson/Tandem Stills + Motion)|
 |20240311|醉人的山峦|Prosecco山丘，科内利亚诺和瓦尔多比亚德内，威内托大区，意大利 (© Richard T. Nowitz/Getty Images)|
 |20240310|是时候调整时间了|圣哈辛托大厦的机械钟，博蒙特，美国德克萨斯州 (© Richard T. Nowitz/Getty Images)|
