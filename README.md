@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![一个π](./archive/20240314.jpg)
+![一抹春色](./archive/20240315.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240315|一抹春色|安沙波利哥沙漠州立公园，美国加利福尼亚州 (© Stephen Matera/Tandem Stills + Motion)|
 |20240314|一个π|Wat Phra Ngam，大城府历史公园，泰国 (© boonchai wedmakawand/Alamy Stock Photo)|
 |20240313|鸟瞰|小红鹳飞越马加迪湖,肯尼亚 (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)|
 |20240312|峡谷的守护者|布莱斯峡谷国家公园，犹他州，美国 (© Jim Patterson/Tandem Stills + Motion)|
