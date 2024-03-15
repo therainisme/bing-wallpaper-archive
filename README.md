@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![一抹春色](./archive/20240315.jpg)
+![被竹子包围了](./archive/20240316.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240316|被竹子包围了|正在吃竹子的大熊猫，中国成都 (© Suzi Eszterhas/Minden Pictures)|
 |20240315|一抹春色|安沙波利哥沙漠州立公园，美国加利福尼亚州 (© Stephen Matera/Tandem Stills + Motion)|
 |20240314|一个π|Wat Phra Ngam，大城府历史公园，泰国 (© boonchai wedmakawand/Alamy Stock Photo)|
 |20240313|鸟瞰|小红鹳飞越马加迪湖,肯尼亚 (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)|
