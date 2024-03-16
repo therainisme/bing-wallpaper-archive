@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![被竹子包围了](./archive/20240316.jpg)
+![今天，让我们穿绿衣裳吧！](./archive/20240317.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240317|今天，让我们穿绿衣裳吧！|圣菲尼安湾，凯里郡，爱尔兰 (© Atlantide Phototravel/Getty Images)|
 |20240316|被竹子包围了|正在吃竹子的大熊猫，中国成都 (© Suzi Eszterhas/Minden Pictures)|
 |20240315|一抹春色|安沙波利哥沙漠州立公园，美国加利福尼亚州 (© Stephen Matera/Tandem Stills + Motion)|
 |20240314|一个π|Wat Phra Ngam，大城府历史公园，泰国 (© boonchai wedmakawand/Alamy Stock Photo)|
