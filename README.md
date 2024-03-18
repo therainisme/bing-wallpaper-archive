@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![温柔的“沙丘巨人”](./archive/20240318.jpg)
+![春日私语](./archive/20240319.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240319|春日私语|盛开的扁桃树, 加利福尼亚州，美国 (© Jeffrey Lewis/Tandem Stills + Motion)|
 |20240318|温柔的“沙丘巨人”|大象岩，古城欧拉，沙特阿拉伯 (© Lubo Ivanko/Shutterstock)|
 |20240317|今天，让我们穿绿衣裳吧！|圣菲尼安湾，凯里郡，爱尔兰 (© Atlantide Phototravel/Getty Images)|
 |20240316|被竹子包围了|正在吃竹子的大熊猫，中国成都 (© Suzi Eszterhas/Minden Pictures)|
