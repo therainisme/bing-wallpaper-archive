@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![春日私语](./archive/20240319.jpg)
+![粉嫩的春日美景](./archive/20240320.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240320|粉嫩的春日美景|鸟瞰春日盛开的樱花，中国 (© outcast85/Getty images)|
 |20240319|春日私语|盛开的扁桃树, 加利福尼亚州，美国 (© Jeffrey Lewis/Tandem Stills + Motion)|
 |20240318|温柔的“沙丘巨人”|大象岩，古城欧拉，沙特阿拉伯 (© Lubo Ivanko/Shutterstock)|
 |20240317|今天，让我们穿绿衣裳吧！|圣菲尼安湾，凯里郡，爱尔兰 (© Atlantide Phototravel/Getty Images)|
