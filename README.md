@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![森林多美好呀！](./archive/20240321.jpg)
+![我们在庆祝“水”？](./archive/20240322.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240322|我们在庆祝“水”？|蓝泉，蒂怀霍步道，新西兰 (© Ian Beattie/Alamy Stock Photo)|
 |20240321|森林多美好呀！|布恩迪国家公园，乌干达 (© Art Wolfe/DanitaDelimont.com)|
 |20240320|粉嫩的春日美景|鸟瞰春日盛开的樱花，中国 (© outcast85/Getty images)|
 |20240319|春日私语|盛开的扁桃树, 加利福尼亚州，美国 (© Jeffrey Lewis/Tandem Stills + Motion)|
