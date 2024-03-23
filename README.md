@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![造雾](./archive/20240323.jpg)
+![你能挪过去一点吗?](./archive/20240324.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240324|你能挪过去一点吗?|樱花树枝上的灰胸绣眼鸟，韩国 (© TigerSeo/Getty Images)|
 |20240323|造雾|巴西亚马逊上空巨大的砧状云 (© NASA)|
 |20240322|我们在庆祝“水”？|蓝泉，蒂怀霍步道，新西兰 (© Ian Beattie/Alamy Stock Photo)|
 |20240321|森林多美好呀！|布恩迪国家公园，乌干达 (© Art Wolfe/DanitaDelimont.com)|
