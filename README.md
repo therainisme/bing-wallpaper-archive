@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![春意盎然](./archive/20240325.jpg)
+![潮汐探戈](./archive/20240326.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240326|潮汐探戈|海水从古老的珊瑚礁上倾泻而下，杭莱，越南 (© Thang Tat Nguyen/Getty Images)|
 |20240325|春意盎然|弗雷泽河谷的郁金香田，阿伯兹福德，不列颠哥伦比亚省，加拿大 (© LeonU/Getty Images)|
 |20240324|你能挪过去一点吗?|樱花树枝上的灰胸绣眼鸟，韩国 (© TigerSeo/Getty Images)|
 |20240323|造雾|巴西亚马逊上空巨大的砧状云 (© NASA)|
