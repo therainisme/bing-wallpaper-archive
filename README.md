@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![戏剧成为关注的焦点](./archive/20240327.jpg)
+![花香满径](./archive/20240328.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240328|花香满径|上海的樱花，中国 (© Yaorusheng/Getty Images)|
 |20240327|戏剧成为关注的焦点|布宜诺斯艾利斯哥伦布剧院，阿根廷 (© Wei Hao Ho/Alamy Stock Photo)|
 |20240326|潮汐探戈|海水从古老的珊瑚礁上倾泻而下，杭莱，越南 (© Thang Tat Nguyen/Getty Images)|
 |20240325|春意盎然|弗雷泽河谷的郁金香田，阿伯兹福德，不列颠哥伦比亚省，加拿大 (© LeonU/Getty Images)|
