@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![花香满径](./archive/20240328.jpg)
+![潮涨潮落，灯火通明](./archive/20240329.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240329|潮涨潮落，灯火通明|日落时的南斯塔克灯塔，霍利希德，威尔士，英国 (© mariotlr/Getty Images)|
 |20240328|花香满径|上海的樱花，中国 (© Yaorusheng/Getty Images)|
 |20240327|戏剧成为关注的焦点|布宜诺斯艾利斯哥伦布剧院，阿根廷 (© Wei Hao Ho/Alamy Stock Photo)|
 |20240326|潮汐探戈|海水从古老的珊瑚礁上倾泻而下，杭莱，越南 (© Thang Tat Nguyen/Getty Images)|
