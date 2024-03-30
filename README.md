@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![来自“颠倒世界”的问候](./archive/20240330.jpg)
+![纯洁与优雅的象征](./archive/20240331.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240331|纯洁与优雅的象征|潘塔纳尔湿地的大白鹭，巴西 (© Geraldi Corsi/Getty Images)|
 |20240330|来自“颠倒世界”的问候|睡在号角树上的褐喉树懒，哥斯达黎加 (© Juan Carlos Vindas/Getty Images)|
 |20240329|潮涨潮落，灯火通明|日落时的南斯塔克灯塔，霍利希德，威尔士，英国 (© mariotlr/Getty Images)|
 |20240328|花香满径|上海的樱花，中国 (© Yaorusheng/Getty Images)|
