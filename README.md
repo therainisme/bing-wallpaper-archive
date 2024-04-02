@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![一缕阳光下的林地](./archive/20240402.jpg)
+![希望彩虹留在这里](./archive/20240403.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240403|希望彩虹留在这里|At-Bashy地区的彩虹，Kakshaal Too山脉，纳伦省，吉尔吉斯斯坦 (© Emad aljumah/Getty Images)|
 |20240402|一缕阳光下的林地|日德兰半岛的山毛榉树和野生海葵 ，丹麦 (© Nick Brundle Photography/Getty Images)|
 |20240401|岌岌可危的冰川|勃朗峰上的冰海，夏慕尼，法国 (© Hagenmuller Jean-François/Hemis/Alamy)|
 |20240331|纯洁与优雅的象征|潘塔纳尔湿地的大白鹭，巴西 (© Geraldi Corsi/Getty Images)|
