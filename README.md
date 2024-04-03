@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![希望彩虹留在这里](./archive/20240403.jpg)
+![沼泽地上的漫游者](./archive/20240404.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240404|沼泽地上的漫游者|红驴羚群穿越奥卡万戈三角洲的沼泽平原，博茨瓦纳 (© Ibrahim Suha Derbent/Getty Images)|
 |20240403|希望彩虹留在这里|At-Bashy地区的彩虹，Kakshaal Too山脉，纳伦省，吉尔吉斯斯坦 (© Emad aljumah/Getty Images)|
 |20240402|一缕阳光下的林地|日德兰半岛的山毛榉树和野生海葵 ，丹麦 (© Nick Brundle Photography/Getty Images)|
 |20240401|岌岌可危的冰川|勃朗峰上的冰海，夏慕尼，法国 (© Hagenmuller Jean-François/Hemis/Alamy)|
