@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![潜入碧海](./archive/20240405.jpg)
+![皇家景观](./archive/20240406.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240406|皇家景观|姬路城，姫路，兵库县，日本 (© Julian Elliott Photography/Getty Images)|
 |20240405|潜入碧海|从国际空间站拍摄的巴哈马群岛 (© NASA)|
 |20240404|沼泽地上的漫游者|红驴羚群穿越奥卡万戈三角洲的沼泽平原，博茨瓦纳 (© Ibrahim Suha Derbent/Getty Images)|
 |20240403|希望彩虹留在这里|At-Bashy地区的彩虹，Kakshaal Too山脉，纳伦省，吉尔吉斯斯坦 (© Emad aljumah/Getty Images)|
