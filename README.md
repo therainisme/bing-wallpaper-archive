@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![看，我是树枝整理师！](./archive/20240407.jpg)
+![闻闻春天的气息](./archive/20240408.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240408|闻闻春天的气息|欧洲刺猬在长满蒲公英的花园里，巴特德里堡，德国 (© Oksana Schmidt/Getty Images)|
 |20240407|看，我是树枝整理师！|奇迹湖附近池塘里的北美海狸，德纳里国家公园，阿拉斯加州，美国 (© Paul Souders/Getty Images)|
 |20240406|皇家景观|姬路城，姫路，兵库县，日本 (© Julian Elliott Photography/Getty Images)|
 |20240405|潜入碧海|从国际空间站拍摄的巴哈马群岛 (© NASA)|
