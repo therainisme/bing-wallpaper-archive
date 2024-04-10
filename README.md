@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![猫头鹰在你身边！](./archive/20240410.jpg)
+![把梦想变成现实！](./archive/20240411.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240411|把梦想变成现实！|丘伦梅鲁瀑布鸟瞰图，委内瑞拉 (© AirPano LLC/Amazing Aerial Agency)|
 |20240410|猫头鹰在你身边！|洞穴附近的穴小鸮雏鸟，怀俄明州，美国 (© Danita Delimont/Getty Images)|
 |20240409|踮起脚尖，穿过郁金香|郁金香田，斯卡吉特山谷，华盛顿州，美国 (© Claudia Cooper/Getty Images)|
 |20240408|闻闻春天的气息|欧洲刺猬在长满蒲公英的花园里，巴特德里堡，德国 (© Oksana Schmidt/Getty Images)|
