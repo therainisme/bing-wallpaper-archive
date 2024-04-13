@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![花开正满枝](./archive/20240413.jpg)
+![岩石保龄球](./archive/20240414.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240414|岩石保龄球|保龄球海滩的日落，门多西诺县，加利福尼亚，美国 (© Melo Qiao/Getty Images)|
 |20240413|花开正满枝|春天的苹果树，德国 (© Smileus/Getty Images)|
 |20240412|一座天然拱门|拱门国家公园，犹他州，美国 (© Anthony Heflin/Shutterstock)|
 |20240411|把梦想变成现实！|丘伦梅鲁瀑布鸟瞰图，委内瑞拉 (© AirPano LLC/Amazing Aerial Agency)|
