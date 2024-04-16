@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![灯光，相机，纽约！](./archive/20240416.jpg)
+![我是不是睡得太久了？](./archive/20240417.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240417|我是不是睡得太久了？|春天的美洲黑熊幼崽，仙纳度国家公园，弗吉尼亚州，美国 (© Scott Suriano/Getty Images)|
 |20240416|灯光，相机，纽约！|暮色中的曼哈顿下城联合广场，纽约，美国 (© Sean Pavone/Getty Images)|
 |20240415|介于文艺复兴与独创性之间|香波城堡，中央-卢瓦尔河谷大区，法国 (© Susanne Kremer/eStock Photo)|
 |20240414|岩石保龄球|保龄球海滩的日落，门多西诺县，加利福尼亚，美国 (© Melo Qiao/Getty Images)|
