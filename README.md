@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![历史的轮回](./archive/20240419.jpg)
+![保存，保护，享受！](./archive/20240420.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240420|保存，保护，享受！|日出时分的大棱镜泉，美国怀俄明州黄石国家公园 (© XIN WANG/Getty Images)|
 |20240419|历史的轮回|布罗德加环，奥克尼岛，苏格兰 (© Paul Williams - FunkyStock/Getty Images)|
 |20240418|名誉之墙|中世纪城墙，阿维拉，西班牙 (© Scott Suriano/Getty Images)|
 |20240417|我是不是睡得太久了？|春天的美洲黑熊幼崽，仙纳度国家公园，弗吉尼亚州，美国 (© Scott Suriano/Getty Images)|
