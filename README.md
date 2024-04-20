@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![保存，保护，享受！](./archive/20240420.jpg)
+![未选择的路](./archive/20240421.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240421|未选择的路|Cades Cove ，大雾山国家公园，田纳西州，美国 (© Richard Bernabe/Shutterstock)|
 |20240420|保存，保护，享受！|日出时分的大棱镜泉，美国怀俄明州黄石国家公园 (© XIN WANG/Getty Images)|
 |20240419|历史的轮回|布罗德加环，奥克尼岛，苏格兰 (© Paul Williams - FunkyStock/Getty Images)|
 |20240418|名誉之墙|中世纪城墙，阿维拉，西班牙 (© Scott Suriano/Getty Images)|
