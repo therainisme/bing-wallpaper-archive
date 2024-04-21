@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![未选择的路](./archive/20240421.jpg)
+![我们在庆祝什么?](./archive/20240422.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240422|我们在庆祝什么?|绿海龟，圣地亚哥，加利福尼亚，美国 (© Ralph Pace/Minden Pictures)|
 |20240421|未选择的路|Cades Cove ，大雾山国家公园，田纳西州，美国 (© Richard Bernabe/Shutterstock)|
 |20240420|保存，保护，享受！|日出时分的大棱镜泉，美国怀俄明州黄石国家公园 (© XIN WANG/Getty Images)|
 |20240419|历史的轮回|布罗德加环，奥克尼岛，苏格兰 (© Paul Williams - FunkyStock/Getty Images)|
