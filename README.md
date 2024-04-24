@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![嘿，今天长势如何？](./archive/20240424.jpg)
+![很高兴在这里见到你们！](./archive/20240425.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240425|很高兴在这里见到你们！|南极洲冰山上的阿德利企鹅 (© Patrick J. Endres/Getty Images)|
 |20240424|嘿，今天长势如何？|盛开的白延龄草，安大略省，加拿大 (© Jun Zhang/Getty Images)|
 |20240423|预订已满！|三一学院图书馆，都柏林，爱尔兰 (© Lukas Bischoff/Getty Images)|
 |20240422|我们在庆祝什么?|绿海龟，圣地亚哥，加利福尼亚，美国 (© Ralph Pace/Minden Pictures)|
