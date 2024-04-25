@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![很高兴在这里见到你们！](./archive/20240425.jpg)
+![这棵树是个快乐的家伙！](./archive/20240426.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240426|这棵树是个快乐的家伙！|卡拉洛奇树，又名生命之树，卡拉洛奇海滩，奥林匹克国家公园，华盛顿州，美国 (© Abbie Warnock-Matthews/Shutterstock)|
 |20240425|很高兴在这里见到你们！|南极洲冰山上的阿德利企鹅 (© Patrick J. Endres/Getty Images)|
 |20240424|嘿，今天长势如何？|盛开的白延龄草，安大略省，加拿大 (© Jun Zhang/Getty Images)|
 |20240423|预订已满！|三一学院图书馆，都柏林，爱尔兰 (© Lukas Bischoff/Getty Images)|
