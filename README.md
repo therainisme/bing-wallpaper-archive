@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![观鸟的时间到了！](./archive/20240427.jpg)
+![去公园走走吧！](./archive/20240428.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240428|去公园走走吧！|瓜达卢佩山脉国家公园日出时的埃尔卡皮坦山，德克萨斯州，美国 (© Adam Mowery/Tandem Stills + Motion)|
 |20240427|观鸟的时间到了！|澳大利亚花园里的白种安氏蜂鸟，加州大学圣克鲁兹分校植物园，加利福尼亚州，美国 (© yhelfman/Getty Images)|
 |20240426|这棵树是个快乐的家伙！|卡拉洛奇树，又名生命之树，卡拉洛奇海滩，奥林匹克国家公园，华盛顿州，美国 (© Abbie Warnock-Matthews/Shutterstock)|
 |20240425|很高兴在这里见到你们！|南极洲冰山上的阿德利企鹅 (© Patrick J. Endres/Getty Images)|
