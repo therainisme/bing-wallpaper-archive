@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![“草原大喵”的完美速度](./archive/20240430.jpg)
+![夏威夷的花环节](./archive/20240501.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240501|夏威夷的花环节|夏威夷花环 (© Jotika Pun/Shutterstock)|
 |20240430|“草原大喵”的完美速度|清晨雨中的猎豹，恩杜图平原，恩戈罗恩戈罗保护区，坦桑尼亚 (© Paul Souders/Getty Images)|
 |20240429|被保存得很好的古建筑|福建土楼，福建省历史文化遗产建筑，中国 (© Hongjie Han/Getty Images)|
 |20240428|去公园走走吧！|瓜达卢佩山脉国家公园日出时的埃尔卡皮坦山，德克萨斯州，美国 (© Adam Mowery/Tandem Stills + Motion)|
