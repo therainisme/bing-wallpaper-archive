@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![最热的地方也有凉爽之处](./archive/20240503.jpg)
+![愿原力与你同在！](./archive/20240504.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240504|愿原力与你同在！|斯凯利格·迈克尔岛上一座古老修道院的废墟，爱尔兰 (© MNStudio/Getty Images)|
 |20240503|最热的地方也有凉爽之处|春天盛开的沙漠毒菊，索诺拉沙漠，亚利桑那州 (© Charles Harker/Getty Images)|
 |20240502|“月球一日游”|蓝龙熔岩流，月球陨石坑国家纪念碑和保护区，爱达荷州，美国 (© Alan Majchrowicz/Getty Images)|
 |20240501|夏威夷的花环节|夏威夷花环 (© Jotika Pun/Shutterstock)|
