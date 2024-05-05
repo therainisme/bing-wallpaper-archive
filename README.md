@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![为墨西哥干杯!](./archive/20240505.jpg)
+![峰区一瞥](./archive/20240506.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240506|峰区一瞥|罗奇斯山脊，英格兰峰区 (© George W Johnson/Getty Images)|
 |20240505|为墨西哥干杯!|圣米格尔德阿连德的柱廊，瓜那华托州，墨西哥 (© Mint Images/Getty Images)|
 |20240504|愿原力与你同在！|斯凯利格·迈克尔岛上一座古老修道院的废墟，爱尔兰 (© MNStudio/Getty Images)|
 |20240503|最热的地方也有凉爽之处|春天盛开的沙漠毒菊，索诺拉沙漠，亚利桑那州 (© Charles Harker/Getty Images)|
