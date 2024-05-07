@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![水影里的小黄鸭](./archive/20240507.jpg)
+![海港景色](./archive/20240508.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240508|海港景色|伊夫堡，马赛，法国 (© Sergii Figurnyi/Alamy)|
 |20240507|水影里的小黄鸭|一只小鸭子在水草地上游泳，萨福克郡，英国 (© Nick Hurst/Getty Images)|
 |20240506|峰区一瞥|罗奇斯山脊，英格兰峰区 (© George W Johnson/Getty Images)|
 |20240505|为墨西哥干杯!|圣米格尔德阿连德的柱廊，瓜那华托州，墨西哥 (© Mint Images/Getty Images)|
