@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![岛屿在召唤！](./archive/20240510.jpg)
+![小蓝鸟一路顺风](./archive/20240511.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240511|小蓝鸟一路顺风|树枝上栖息的靛蓝彩鹀，德克萨斯州 (© Jeff R Clow/Getty Images)|
 |20240510|岛屿在召唤！|米苏尔岛，拉贾安帕群岛，印度尼西亚 (© Giordano Cipriani/Getty Images)|
 |20240509|恣意绽放的郁金香|埃米尔甘公园的郁金香，伊斯坦布尔，土耳其 (© Ozbalci/Getty Images)|
 |20240508|海港景色|伊夫堡，马赛，法国 (© Sergii Figurnyi/Alamy)|
