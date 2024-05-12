@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![放牧和饲养](./archive/20240512.jpg)
+![鱼眼视角](./archive/20240513.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240513|鱼眼视角|鱼河大峡谷，纳米比亚 (© R. M. Nunes/Getty Images)|
 |20240512|放牧和饲养|潘帕省草原上的雌性原驼和它新出生的宝宝，阿根廷 (© Gabriel Rojo/Minden Pictures)|
 |20240511|小蓝鸟一路顺风|树枝上栖息的靛蓝彩鹀，德克萨斯州 (© Jeff R Clow/Getty Images)|
 |20240510|岛屿在召唤！|米苏尔岛，拉贾安帕群岛，印度尼西亚 (© Giordano Cipriani/Getty Images)|
