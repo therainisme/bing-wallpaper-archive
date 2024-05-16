@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![这片水域里有很多故事！](./archive/20240516.jpg)
+![今天不是无关紧要的一天](./archive/20240517.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240517|今天不是无关紧要的一天|塔兰吉雷国家公园的非洲象家族，坦桑尼亚 (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)|
 |20240516|这片水域里有很多故事！|维戈的兰德大桥，西班牙 (© Julio Conde/Getty Images)|
 |20240515|迷失在蓝色的美丽国度|焦特布尔蓝色之城，印度 (© cinoby/Getty Images)|
 |20240514|“深渊”探险|通往大房间的走道，卡尔斯巴德洞穴国家公园，新墨西哥州 (© Doug Meek/Getty Images)|
