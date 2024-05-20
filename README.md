@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![我简直不敢相信！](./archive/20240520.jpg)
+![充满茶香的一天](./archive/20240521.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240521|充满茶香的一天|卡梅隆高地茶园，马拉西亚 (© alex cheong/Getty Images)|
 |20240520|我简直不敢相信！|蜜蜂照料蜂巢 (© Simun Ascic/Alamy Stock Photo)|
 |20240519|历史与大海的交汇处|韦尔纳扎村，五渔村，利古里亚，意大利 (© Roberto Moiola/Sysaworld/Getty Images)|
 |20240518|流浪者未必都是迷路人|破碎群岛，环太平洋国家公园保护区，不列颠哥伦比亚省温哥华岛，加拿大 (© Ron Watts/Design Pics/Getty Images)|
