@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![深入了解生物多样性](./archive/20240522.jpg)
+![寻找一个“庇护所”](./archive/20240523.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240523|寻找一个“庇护所”|印度星龟，斯里兰卡 (© Robin Chittenden/Minden Pictures)|
 |20240522|深入了解生物多样性|塔斯马尼亚高山黄桉（假少花桉），费尔德山国家公园，塔斯马尼亚州，澳大利亚 (© Ignacio Palacios/Getty Images)|
 |20240521|充满茶香的一天|卡梅隆高地茶园，马拉西亚 (© alex cheong/Getty Images)|
 |20240520|我简直不敢相信！|蜜蜂照料蜂巢 (© Simun Ascic/Alamy Stock Photo)|
