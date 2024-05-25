@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![沙丘守护者](./archive/20240525.jpg)
+![野性与自由](./archive/20240526.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240526|野性与自由|香根和羽扇豆，梅索谷，北喀斯喀特，华盛顿州，美国 (© Alan Majchrowicz/Getty Images)|
 |20240525|沙丘守护者|阿伊特本哈杜，摩洛哥 (© Grant Faint/Getty Images)|
 |20240524|一路到顶峰|阿尼斯克洛峡谷，奥德萨和佩尔迪多山国家公园，韦斯卡，西班牙 (© Marisa Estivill/Shutterstock)|
 |20240523|寻找一个“庇护所”|印度星龟，斯里兰卡 (© Robin Chittenden/Minden Pictures)|
