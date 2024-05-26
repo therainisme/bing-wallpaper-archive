@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![野性与自由](./archive/20240526.jpg)
+![我们去乘船吧！](./archive/20240527.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240527|我们去乘船吧！|塞斯特里莱万特的沉默湾，利古里亚大区，意大利 (© StevanZZ/Getty Images)|
 |20240526|野性与自由|香根和羽扇豆，梅索谷，北喀斯喀特，华盛顿州，美国 (© Alan Majchrowicz/Getty Images)|
 |20240525|沙丘守护者|阿伊特本哈杜，摩洛哥 (© Grant Faint/Getty Images)|
 |20240524|一路到顶峰|阿尼斯克洛峡谷，奥德萨和佩尔迪多山国家公园，韦斯卡，西班牙 (© Marisa Estivill/Shutterstock)|
