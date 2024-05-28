@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![屹立于世界之巅](./archive/20240528.jpg)
+![水獭在看什么？](./archive/20240529.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240529|水獭在看什么？|青春期的欧洲水獭，斯佩尔维湖，苏格兰姆尔斯岛 (© Neil Henderson/Alamy Stock Photo)|
 |20240528|屹立于世界之巅|罗萨诺修道院，迈泰奥拉，色萨利 ，希腊 (© Marius Roman/Getty Images)|
 |20240527|我们去乘船吧！|塞斯特里莱万特的沉默湾，利古里亚大区，意大利 (© StevanZZ/Getty Images)|
 |20240526|野性与自由|香根和羽扇豆，梅索谷，北喀斯喀特，华盛顿州，美国 (© Alan Majchrowicz/Getty Images)|
