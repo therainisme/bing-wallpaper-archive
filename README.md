@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![带你游花园](./archive/20240601.jpg)
+![黑夜中的一盏明灯](./archive/20240602.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240602|黑夜中的一盏明灯|普卢马纳克的灯塔，阿摩尔滨海省，法国 (© Christian Handl/Getty Images)|
 |20240601|带你游花园|帝王棕榈树，里约热内卢植物园，巴西 (© Marcia Silva de Mendonca/Getty Images)|
 |20240531|绿意盎然的宜人之地|冈纳塞德，斯韦尔代尔，约克郡谷地国家公园，英格兰 (© Derek Croucher/Alamy Stock Photo)|
 |20240530|欢迎来到大沼泽地|一片斜纹松和锯齿草大沼泽地国家公园，佛罗里达州，美国 (© Jonathan Gewirtz/Tandem Stills + Motion)|
