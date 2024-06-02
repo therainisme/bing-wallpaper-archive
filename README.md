@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![黑夜中的一盏明灯](./archive/20240602.jpg)
+![一起骑车去兜风吧](./archive/20240603.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240603|一起骑车去兜风吧|哥本哈根的自行车，丹麦 (© Alphotographic/Getty Images)|
 |20240602|黑夜中的一盏明灯|普卢马纳克的灯塔，阿摩尔滨海省，法国 (© Christian Handl/Getty Images)|
 |20240601|带你游花园|帝王棕榈树，里约热内卢植物园，巴西 (© Marcia Silva de Mendonca/Getty Images)|
 |20240531|绿意盎然的宜人之地|冈纳塞德，斯韦尔代尔，约克郡谷地国家公园，英格兰 (© Derek Croucher/Alamy Stock Photo)|
