@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![物以类聚](./archive/20240604.jpg)
+![世界环境日快乐！](./archive/20240605.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240605|世界环境日快乐！|马达加斯加的马苏阿拉国家公园 (© Dennis van de Water/Shutterstock)|
 |20240604|物以类聚|黑胸蜂虎，巴迪亚国家公园，尼泊尔 (© PACO COMO/Shutterstock)|
 |20240603|一起骑车去兜风吧|哥本哈根的自行车，丹麦 (© Alphotographic/Getty Images)|
 |20240602|黑夜中的一盏明灯|普卢马纳克的灯塔，阿摩尔滨海省，法国 (© Christian Handl/Getty Images)|
