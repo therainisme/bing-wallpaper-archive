@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![世界环境日快乐！](./archive/20240605.jpg)
+![有趣的野生动物!](./archive/20240606.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240606|有趣的野生动物!|蓬德高鸟类公园的大红鹳，卡玛格，法国 (© Yann Guichaoua-Photos/Getty Images)|
 |20240605|世界环境日快乐！|马达加斯加的马苏阿拉国家公园 (© Dennis van de Water/Shutterstock)|
 |20240604|物以类聚|黑胸蜂虎，巴迪亚国家公园，尼泊尔 (© PACO COMO/Shutterstock)|
 |20240603|一起骑车去兜风吧|哥本哈根的自行车，丹麦 (© Alphotographic/Getty Images)|
