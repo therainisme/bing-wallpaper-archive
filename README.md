@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![希望的浪潮](./archive/20240607.jpg)
+![河流的交汇](./archive/20240608.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240608|河流的交汇|复活节溪和基利克河的交汇处，北极之门国家公园，阿拉斯加州，美国 (© Patrick J. Endres/Getty Images)|
 |20240607|希望的浪潮|座头鲸家族，荷兰港，阿拉斯加州 (© Jude Newkirk/Amazing Aerial Agency)|
 |20240606|有趣的野生动物!|蓬德高鸟类公园的大红鹳，卡玛格，法国 (© Yann Guichaoua-Photos/Getty Images)|
 |20240605|世界环境日快乐！|马达加斯加的马苏阿拉国家公园 (© Dennis van de Water/Shutterstock)|
