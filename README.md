@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![这些羚羊是真正的珍宝](./archive/20240611.jpg)
+![星光盛宴](./archive/20240612.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240612|星光盛宴|大弯国家公园上空的银河，得克萨斯州，美国 (© wisanuboonrawd/Adobe Stock)|
 |20240611|这些羚羊是真正的珍宝|热带稀树草原上的南非剑羚，博茨瓦纳大草原 (© Karine Aigner/Tandem Stills + Motion)|
 |20240610|比赛将在这里开始！|龙舟池日出，集美区，厦门，中国 (© outcast85/Getty images)|
 |20240609|令人窒息的寂静|巴尔德纳斯雷亚尔斯自然公园，巴德纳斯，纳瓦拉，西班牙 (© Aliaume Chapelle/Tandem Stills + Motion)|
