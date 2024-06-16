@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![这位父亲棋高一着](./archive/20240616.jpg)
+![传播花粉](./archive/20240617.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240617|传播花粉|绿顶辉蜂鸟与巨型蓟，穆埃尔特山，哥斯达黎加 (© adrian hepworth/Alamy Stock Photo)|
 |20240616|这位父亲棋高一着|赤狐父子，华盛顿，美国 (© Chase Dekker/Minden Pictures)|
 |20240615|有志者事竟成|在纳扎雷冲浪的冲浪者，葡萄牙 (© Rui Caria/Getty Images)|
 |20240614|孤独，但不寂寞|佩姬湾灯塔，新斯科舍省，加拿大 (© Pugalenthi/Getty Images)|
