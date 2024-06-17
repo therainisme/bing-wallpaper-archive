@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![传播花粉](./archive/20240617.jpg)
+![鲁冰花盛放的夏季](./archive/20240618.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240618|鲁冰花盛放的夏季|日出时的羽扇豆田和教堂，斯奈山半岛，冰岛 (© Matteo Colombo/Getty Images)|
 |20240617|传播花粉|绿顶辉蜂鸟与巨型蓟，穆埃尔特山，哥斯达黎加 (© adrian hepworth/Alamy Stock Photo)|
 |20240616|这位父亲棋高一着|赤狐父子，华盛顿，美国 (© Chase Dekker/Minden Pictures)|
 |20240615|有志者事竟成|在纳扎雷冲浪的冲浪者，葡萄牙 (© Rui Caria/Getty Images)|
