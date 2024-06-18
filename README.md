@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![鲁冰花盛放的夏季](./archive/20240618.jpg)
+![一座历史古迹](./archive/20240619.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240619|一座历史古迹|库克斯港的水塔，德国 (© Andreas Vogel/Alamy)|
 |20240618|鲁冰花盛放的夏季|日出时的羽扇豆田和教堂，斯奈山半岛，冰岛 (© Matteo Colombo/Getty Images)|
 |20240617|传播花粉|绿顶辉蜂鸟与巨型蓟，穆埃尔特山，哥斯达黎加 (© adrian hepworth/Alamy Stock Photo)|
 |20240616|这位父亲棋高一着|赤狐父子，华盛顿，美国 (© Chase Dekker/Minden Pictures)|
