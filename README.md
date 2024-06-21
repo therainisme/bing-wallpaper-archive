@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![清凉的湖水](./archive/20240621.jpg)
+![迷失在迷雾之中](./archive/20240622.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240622|迷失在迷雾之中|亚马逊雨林，巴西 (© Claus Meyer/plainpicture)|
 |20240621|清凉的湖水|蓝色水面上的渔船航拍图，郴州市，湖南省，中国 (© Haitong Yu/Getty images)|
 |20240620|夏天的脚步近了|科基诺，古代巨石观测站，北马其顿 (© stoimilov/Shutterstock)|
 |20240619|一座历史古迹|库克斯港的水塔，德国 (© Andreas Vogel/Alamy)|
