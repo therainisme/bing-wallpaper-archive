@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![让人心旷神怡的美景](./archive/20240624.jpg)
+![拍出炫酷照片的好地方](./archive/20240625.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240625|拍出炫酷照片的好地方|火浪岩层，火焰谷州立公园，内华达州，美国 (© Clint Losee/Tandem Stills + Motion)|
 |20240624|让人心旷神怡的美景|克里穆图的火山口湖，弗洛勒斯岛，印度尼西亚 (© Shane P. White/Minden Pictures)|
 |20240623|漆黑的夜晚，城市的灯光|达卡环形交叉路口的鸟瞰图，孟加拉国 (© Azim Khan Ronnie/Amazing Aerial Agency)|
 |20240622|迷失在迷雾之中|亚马逊雨林，巴西 (© Claus Meyer/plainpicture)|
