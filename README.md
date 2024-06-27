@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![“甜蜜的”穹顶](./archive/20240627.jpg)
+![最具加勒比海风情的海岛](./archive/20240628.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240628|最具加勒比海风情的海岛|诺曼底海岸的绍塞群岛，法国 (© Tuul & Bruno Morandi/Getty Images)|
 |20240627|“甜蜜的”穹顶|黄昏时分的圣母百花大教堂，佛罗伦萨，意大利 (© Elena Pueyo/Getty Images)|
 |20240626|美丽的条纹小鱼！|考氏鳍竺鲷与海葵，蓝碧海峡，北苏拉威西，印度尼西亚 (© Constantinos Petrinos/NPL/Minden Pictures)|
 |20240625|拍出炫酷照片的好地方|火浪岩层，火焰谷州立公园，内华达州，美国 (© Clint Losee/Tandem Stills + Motion)|
