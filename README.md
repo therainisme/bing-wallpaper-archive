@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![你不会忘记它的！](./archive/20240630.jpg)
+![为加拿大干杯](./archive/20240701.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240701|为加拿大干杯|菲斯加德灯塔，埃斯奎莫尔特港，科尔伍德，不列颠哥伦比亚省，加拿大 (© davemantel/Getty Images)|
 |20240630|你不会忘记它的！|乌布寺庙的石雕,巴厘岛,印度尼西亚 (© R. Schönebaum/plainpicture)|
 |20240629|只见树木，不见森林|宁哈根的山毛榉林，梅克伦堡-前波美拉尼亚州，德国 (© Martin Ruegner/Getty Images)|
 |20240628|最具加勒比海风情的海岛|诺曼底海岸的绍塞群岛，法国 (© Tuul & Bruno Morandi/Getty Images)|
