@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![等等，谁在那儿？](./archive/20240703.jpg)
+![风景如画的白色小镇](./archive/20240704.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240704|风景如画的白色小镇|扎哈拉德拉谢拉，安达卢西亚，西班牙 (© Francesco Carovillano/eStock Photo)|
 |20240703|等等，谁在那儿？|猫鼬家族 (© anetapics/Shutterstock)|
 |20240702|昔日城市的“灵魂”|意大利卡，桑蒂蓬塞的一座古罗马城市，塞维利亚，安达卢西亚，西班牙 (© Moses Palermo/Amazing Aerial Agency)|
 |20240701|为加拿大干杯|菲斯加德灯塔，埃斯奎莫尔特港，科尔伍德，不列颠哥伦比亚省，加拿大 (© davemantel/Getty Images)|
