@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![风景如画的白色小镇](./archive/20240704.jpg)
+![邂逅美丽海岸线](./archive/20240705.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240705|邂逅美丽海岸线|丹翠雨林的诺亚海滩，昆士兰州，澳大利亚 (© bjeayes/Getty Images)|
 |20240704|风景如画的白色小镇|扎哈拉德拉谢拉，安达卢西亚，西班牙 (© Francesco Carovillano/eStock Photo)|
 |20240703|等等，谁在那儿？|猫鼬家族 (© anetapics/Shutterstock)|
 |20240702|昔日城市的“灵魂”|意大利卡，桑蒂蓬塞的一座古罗马城市，塞维利亚，安达卢西亚，西班牙 (© Moses Palermo/Amazing Aerial Agency)|
