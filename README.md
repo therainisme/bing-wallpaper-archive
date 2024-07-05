@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![邂逅美丽海岸线](./archive/20240705.jpg)
+![让我们扬帆起航！](./archive/20240706.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240706|让我们扬帆起航！|从康威河眺望康威城堡，威尔士 (© David Chapman/Alamy Stock Photo)|
 |20240705|邂逅美丽海岸线|丹翠雨林的诺亚海滩，昆士兰州，澳大利亚 (© bjeayes/Getty Images)|
 |20240704|风景如画的白色小镇|扎哈拉德拉谢拉，安达卢西亚，西班牙 (© Francesco Carovillano/eStock Photo)|
 |20240703|等等，谁在那儿？|猫鼬家族 (© anetapics/Shutterstock)|
