@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![阳光下的梯田](./archive/20240707.jpg)
+![一剂抗氧化剂](./archive/20240708.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240708|一剂抗氧化剂|野生蓝莓 (© Baac3nes/Getty Images)|
 |20240707|阳光下的梯田|越南安沛省木仓寨的水稻梯田 (© Kiatanan Sugsompian/Getty Images)|
 |20240706|让我们扬帆起航！|从康威河眺望康威城堡，威尔士 (© David Chapman/Alamy Stock Photo)|
 |20240705|邂逅美丽海岸线|丹翠雨林的诺亚海滩，昆士兰州，澳大利亚 (© bjeayes/Getty Images)|
