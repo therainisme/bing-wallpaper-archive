@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![一剂抗氧化剂](./archive/20240708.jpg)
+![千仞高壁](./archive/20240709.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240709|千仞高壁|阿根廷拉里奥哈省塔兰帕亚国家公园 (© Gonzalo Azumendi/Getty Images)|
 |20240708|一剂抗氧化剂|野生蓝莓 (© Baac3nes/Getty Images)|
 |20240707|阳光下的梯田|越南安沛省木仓寨的水稻梯田 (© Kiatanan Sugsompian/Getty Images)|
 |20240706|让我们扬帆起航！|从康威河眺望康威城堡，威尔士 (© David Chapman/Alamy Stock Photo)|
