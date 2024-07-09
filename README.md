@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![千仞高壁](./archive/20240709.jpg)
+![感恩的巨嘴鸟](./archive/20240710.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240710|感恩的巨嘴鸟|领簇舌巨嘴鸟，哥斯达黎加 (© Juan Carlos Vindas/Getty Images)|
 |20240709|千仞高壁|阿根廷拉里奥哈省塔兰帕亚国家公园 (© Gonzalo Azumendi/Getty Images)|
 |20240708|一剂抗氧化剂|野生蓝莓 (© Baac3nes/Getty Images)|
 |20240707|阳光下的梯田|越南安沛省木仓寨的水稻梯田 (© Kiatanan Sugsompian/Getty Images)|
