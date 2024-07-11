@@ -8,6 +8,7 @@ Use Github Action to automatically crawl bing daily wallpaper.
 
 |date|title|copyright|
 |---|---|---|
+|20240711|你是81亿人口中的一员|甘吉，西西里岛，意大利 (© Andrea Caruso/Amazing Aerial Agency)|
 |20240710|感恩的巨嘴鸟|领簇舌巨嘴鸟，哥斯达黎加 (© Juan Carlos Vindas/Getty Images)|
 |20240709|千仞高壁|阿根廷拉里奥哈省塔兰帕亚国家公园 (© Gonzalo Azumendi/Getty Images)|
 |20240708|一剂抗氧化剂|野生蓝莓 (© Baac3nes/Getty Images)|
