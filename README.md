@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![你是81亿人口中的一员](./archive/20240711.jpg)
+![风雨无阻](./archive/20240712.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240712|风雨无阻|雷尼尔山国家公园的野花，华盛顿州，美国 (© RomanKhomlyak/Getty Images)|
 |20240711|你是81亿人口中的一员|甘吉，西西里岛，意大利 (© Andrea Caruso/Amazing Aerial Agency)|
 |20240710|感恩的巨嘴鸟|领簇舌巨嘴鸟，哥斯达黎加 (© Juan Carlos Vindas/Getty Images)|
 |20240709|千仞高壁|阿根廷拉里奥哈省塔兰帕亚国家公园 (© Gonzalo Azumendi/Getty Images)|
