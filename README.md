@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![快看，这是沉积岩哦](./archive/20240713.jpg)
+![鲨鱼保护日](./archive/20240714.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240714|鲨鱼保护日|女王花园群岛的镰形真鲨，古巴 (© Christian Vizl/Tandem Stills + Motion)|
 |20240713|快看，这是沉积岩哦|卡帕多西亚的童话烟囱和窑洞，土耳其 (© Storm Is Me/Shutterstock)|
 |20240712|风雨无阻|雷尼尔山国家公园的野花，华盛顿州，美国 (© RomanKhomlyak/Getty Images)|
 |20240711|你是81亿人口中的一员|甘吉，西西里岛，意大利 (© Andrea Caruso/Amazing Aerial Agency)|
