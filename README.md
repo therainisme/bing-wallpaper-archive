@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![鲨鱼保护日](./archive/20240714.jpg)
+![宁静惬意的海滨风光](./archive/20240715.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240715|宁静惬意的海滨风光|立石公园，神奈川县，日本 (© blew_s/Shutterstock)|
 |20240714|鲨鱼保护日|女王花园群岛的镰形真鲨，古巴 (© Christian Vizl/Tandem Stills + Motion)|
 |20240713|快看，这是沉积岩哦|卡帕多西亚的童话烟囱和窑洞，土耳其 (© Storm Is Me/Shutterstock)|
 |20240712|风雨无阻|雷尼尔山国家公园的野花，华盛顿州，美国 (© RomanKhomlyak/Getty Images)|
