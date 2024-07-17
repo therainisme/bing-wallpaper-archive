@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![高耸入云的历史建筑](./archive/20240717.jpg)
+![意义深远](./archive/20240718.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240718|意义深远|Coral reef in the Indian Ocean, Mayotte, France (© Gabriel Barathieu/Minden Pictures)|
 |20240717|高耸入云的历史建筑|德国中世纪城市罗滕堡 (© kanuman/Getty Images)|
 |20240716|挖掘过去|斯卡拉布雷的新石器时代遗迹,奥克尼群岛,苏格兰 (© Paul Williams - FunkyStock/Getty Images)|
 |20240715|宁静惬意的海滨风光|立石公园，神奈川县，日本 (© blew_s/Shutterstock)|
