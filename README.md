@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![巧妙的伪装](./archive/20240719.jpg)
+![到月亮上去](./archive/20240720.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240720|到月亮上去|月球 (© Victor Blum/Getty Images)|
 |20240719|巧妙的伪装|河岸上的一只年轻美洲虎，潘塔纳尔，巴西 (© Tambako the Jaguar/Getty Images)|
 |20240718|意义深远|Coral reef in the Indian Ocean, Mayotte, France (© Gabriel Barathieu/Minden Pictures)|
 |20240717|高耸入云的历史建筑|德国中世纪城市罗滕堡 (© kanuman/Getty Images)|
