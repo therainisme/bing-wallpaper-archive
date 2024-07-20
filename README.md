@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![到月亮上去](./archive/20240720.jpg)
+![香料岛之旅](./archive/20240721.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240721|香料岛之旅|肯杜瓦村的木制渔船，桑给巴尔，坦桑尼亚 (© Lubos Paukeje/Alamy Stock Photo)|
 |20240720|到月亮上去|月球 (© Victor Blum/Getty Images)|
 |20240719|巧妙的伪装|河岸上的一只年轻美洲虎，潘塔纳尔，巴西 (© Tambako the Jaguar/Getty Images)|
 |20240718|意义深远|Coral reef in the Indian Ocean, Mayotte, France (© Gabriel Barathieu/Minden Pictures)|
