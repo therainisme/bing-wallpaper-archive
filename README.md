@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![香料岛之旅](./archive/20240721.jpg)
+![和我一起避暑吧！](./archive/20240722.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240722|和我一起避暑吧！|树上的中国小熊猫, 成都, 四川省, 中国 (© Jackyenjoyphotography/Getty Images)|
 |20240721|香料岛之旅|肯杜瓦村的木制渔船，桑给巴尔，坦桑尼亚 (© Lubos Paukeje/Alamy Stock Photo)|
 |20240720|到月亮上去|月球 (© Victor Blum/Getty Images)|
 |20240719|巧妙的伪装|河岸上的一只年轻美洲虎，潘塔纳尔，巴西 (© Tambako the Jaguar/Getty Images)|
