@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![历史的回响](./archive/20240723.jpg)
+![可爱的羊咩咩一家](./archive/20240724.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240724|可爱的羊咩咩一家|北约克郡的黑面羊羊群，英格兰 (© R A Kearton/Getty Images)|
 |20240723|历史的回响|迈索尼城堡，麦西尼亚州，希腊 (© Andrew Mayovskyy/Shutterstock)|
 |20240722|和我一起避暑吧！|树上的中国小熊猫, 成都, 四川省, 中国 (© Jackyenjoyphotography/Getty Images)|
 |20240721|香料岛之旅|肯杜瓦村的木制渔船，桑给巴尔，坦桑尼亚 (© Lubos Paukeje/Alamy Stock Photo)|
