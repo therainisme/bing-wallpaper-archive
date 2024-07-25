@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![深入其中](./archive/20240725.jpg)
+![比赛开始](./archive/20240726.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240726|比赛开始|塞纳河上的新桥，巴黎，法国 (© f11photo/Getty Images)|
 |20240725|深入其中|大烟山国家公园的森林小道，田纳西州，美国 (© putmanphoto/Getty Images)|
 |20240724|可爱的羊咩咩一家|北约克郡的黑面羊羊群，英格兰 (© R A Kearton/Getty Images)|
 |20240723|历史的回响|迈索尼城堡，麦西尼亚州，希腊 (© Andrew Mayovskyy/Shutterstock)|
