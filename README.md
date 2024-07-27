@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![完美的葡萄酒](./archive/20240727.jpg)
+![色彩斑斓的海岸线](./archive/20240728.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240728|色彩斑斓的海岸线|斯科讷省海滩上的浴场小屋，瑞典 (© Martin Wahlborg/Getty Images)|
 |20240727|完美的葡萄酒|摩泽尔河谷的葡萄园，莱茵兰-法尔茨，德国 (© Jorg Greuel/Getty Images)|
 |20240726|比赛开始|塞纳河上的新桥，巴黎，法国 (© f11photo/Getty Images)|
 |20240725|深入其中|大烟山国家公园的森林小道，田纳西州，美国 (© putmanphoto/Getty Images)|
