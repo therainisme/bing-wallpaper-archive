@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![咆哮与探索](./archive/20240729.jpg)
+![中世纪的曼哈顿](./archive/20240730.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240730|中世纪的曼哈顿|圣吉米尼亚诺，锡耶纳，托斯卡纳大区，意大利亚 (© MNStudio/Shutterstock)|
 |20240729|咆哮与探索|科贝国家公园的老虎兄弟，北阿坎德邦，印度 (© Sourabh Bharti/Getty Images)|
 |20240728|色彩斑斓的海岸线|斯科讷省海滩上的浴场小屋，瑞典 (© Martin Wahlborg/Getty Images)|
 |20240727|完美的葡萄酒|摩泽尔河谷的葡萄园，莱茵兰-法尔茨，德国 (© Jorg Greuel/Getty Images)|
