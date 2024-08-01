@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![物价喜人](./archive/20240801.jpg)
+![彩虹之下的某个地方](./archive/20240802.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240802|彩虹之下的某个地方|象鼻湾，维尔京群岛国家公园，圣约翰岛 (© wheatley/Getty Images)|
 |20240801|物价喜人|卡普泰湖水上市场，兰加马蒂，孟加拉 (© Azim Khan Ronnie/Amazing Aerial Agency)|
 |20240731|这里有“胡图”吗？|石林，日落点，布莱斯峡谷国家公园，犹他州，美国 (© Tim Fitzharris/Minden Pictures)|
 |20240730|中世纪的曼哈顿|圣吉米尼亚诺，锡耶纳，托斯卡纳大区，意大利亚 (© MNStudio/Shutterstock)|
