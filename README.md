@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![彩虹之下的某个地方](./archive/20240802.jpg)
+![武隆景区的“三生三世”](./archive/20240803.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240803|武隆景区的“三生三世”|天生三桥，重庆武隆岩溶国家地质公园，中国 (© Pav-Pro Photography Ltd/Shutterstock)|
 |20240802|彩虹之下的某个地方|象鼻湾，维尔京群岛国家公园，圣约翰岛 (© wheatley/Getty Images)|
 |20240801|物价喜人|卡普泰湖水上市场，兰加马蒂，孟加拉 (© Azim Khan Ronnie/Amazing Aerial Agency)|
 |20240731|这里有“胡图”吗？|石林，日落点，布莱斯峡谷国家公园，犹他州，美国 (© Tim Fitzharris/Minden Pictures)|
