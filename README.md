@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![武隆景区的“三生三世”](./archive/20240803.jpg)
+![我是你的朋友](./archive/20240804.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240804|我是你的朋友|黑斑羚和红嘴牛椋鸟，南非 (© Matrishva Vyas/Getty Images)|
 |20240803|武隆景区的“三生三世”|天生三桥，重庆武隆岩溶国家地质公园，中国 (© Pav-Pro Photography Ltd/Shutterstock)|
 |20240802|彩虹之下的某个地方|象鼻湾，维尔京群岛国家公园，圣约翰岛 (© wheatley/Getty Images)|
 |20240801|物价喜人|卡普泰湖水上市场，兰加马蒂，孟加拉 (© Azim Khan Ronnie/Amazing Aerial Agency)|
