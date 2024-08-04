@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![我是你的朋友](./archive/20240804.jpg)
+![一片紫色的海洋](./archive/20240805.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240805|一片紫色的海洋|薰衣草田，赫特福德郡 ，英格兰，英国 (© George W Johnson/Getty Images)|
 |20240804|我是你的朋友|黑斑羚和红嘴牛椋鸟，南非 (© Matrishva Vyas/Getty Images)|
 |20240803|武隆景区的“三生三世”|天生三桥，重庆武隆岩溶国家地质公园，中国 (© Pav-Pro Photography Ltd/Shutterstock)|
 |20240802|彩虹之下的某个地方|象鼻湾，维尔京群岛国家公园，圣约翰岛 (© wheatley/Getty Images)|
