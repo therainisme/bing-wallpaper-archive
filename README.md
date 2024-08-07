@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![不止是航海需要它](./archive/20240807.jpg)
+![小猫头鹰瞪了你一眼](./archive/20240808.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240808|小猫头鹰瞪了你一眼|横斑腹小鸮，曼谷，泰国 (© Tfilm/Getty Images)|
 |20240807|不止是航海需要它|圣约瑟夫北码头内灯和外灯，密歇根州，美国 (© Kenneth Keifer/Getty Images)|
 |20240806|迎合所有人口味的景点|莫洛基尼，毛伊岛，夏威夷，美国 (© Douglas Peebles/eStock Photo)|
 |20240805|一片紫色的海洋|薰衣草田，赫特福德郡 ，英格兰，英国 (© George W Johnson/Getty Images)|
