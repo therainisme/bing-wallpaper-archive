@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![小猫头鹰瞪了你一眼](./archive/20240808.jpg)
+![弘扬土著文化](./archive/20240809.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240809|弘扬土著文化|库斯科附近的萨克塞华曼印加遗址，秘鲁 (© SL_Photography/Getty Images)|
 |20240808|小猫头鹰瞪了你一眼|横斑腹小鸮，曼谷，泰国 (© Tfilm/Getty Images)|
 |20240807|不止是航海需要它|圣约瑟夫北码头内灯和外灯，密歇根州，美国 (© Kenneth Keifer/Getty Images)|
 |20240806|迎合所有人口味的景点|莫洛基尼，毛伊岛，夏威夷，美国 (© Douglas Peebles/eStock Photo)|
