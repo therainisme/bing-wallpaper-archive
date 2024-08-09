@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![弘扬土著文化](./archive/20240809.jpg)
+![星空下的约书亚树](./archive/20240810.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240810|星空下的约书亚树|约书亚树国家公园，加利福尼亚州，美国 (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)|
 |20240809|弘扬土著文化|库斯科附近的萨克塞华曼印加遗址，秘鲁 (© SL_Photography/Getty Images)|
 |20240808|小猫头鹰瞪了你一眼|横斑腹小鸮，曼谷，泰国 (© Tfilm/Getty Images)|
 |20240807|不止是航海需要它|圣约瑟夫北码头内灯和外灯，密歇根州，美国 (© Kenneth Keifer/Getty Images)|
