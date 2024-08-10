@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![星空下的约书亚树](./archive/20240810.jpg)
+![人迹罕至的路](./archive/20240811.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240811|人迹罕至的路|通往肯尼迪湖的木板路，温哥华岛，加拿大不列颠哥伦比亚省 (© EB Adventure Photography/Shutterstock)|
 |20240810|星空下的约书亚树|约书亚树国家公园，加利福尼亚州，美国 (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)|
 |20240809|弘扬土著文化|库斯科附近的萨克塞华曼印加遗址，秘鲁 (© SL_Photography/Getty Images)|
 |20240808|小猫头鹰瞪了你一眼|横斑腹小鸮，曼谷，泰国 (© Tfilm/Getty Images)|
