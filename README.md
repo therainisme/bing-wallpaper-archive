@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![你的声音嘹亮而清晰](./archive/20240812.jpg)
+![亚得里亚海高地](./archive/20240813.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240813|亚得里亚海高地|特拉斯契卡自然公园悬崖，杜吉奥托克岛，克罗地亚 (© Ilija Ascic/Shutterstock)|
 |20240812|你的声音嘹亮而清晰|非洲象，肯尼亚安博塞利国家公园 (© Ruzdi Ekenheim/Getty Images)|
 |20240811|人迹罕至的路|通往肯尼迪湖的木板路，温哥华岛，加拿大不列颠哥伦比亚省 (© EB Adventure Photography/Shutterstock)|
 |20240810|星空下的约书亚树|约书亚树国家公园，加利福尼亚州，美国 (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)|
