@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![今天感觉很精神](./archive/20240814.jpg)
+![“洞”之新世界](./archive/20240815.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240815|“洞”之新世界|韩松洞，风牙者榜国家公园，越南 (© Geng Xu/Getty Images)|
 |20240814|今天感觉很精神|澳洲魔蜥，瓦塔卡国家公园，澳大利亚 (© Yva Momatiuk and John Eastcott/Minden Pictures)|
 |20240813|亚得里亚海高地|特拉斯契卡自然公园悬崖，杜吉奥托克岛，克罗地亚 (© Ilija Ascic/Shutterstock)|
 |20240812|你的声音嘹亮而清晰|非洲象，肯尼亚安博塞利国家公园 (© Ruzdi Ekenheim/Getty Images)|
