@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![系好安全带！](./archive/20240816.jpg)
+![照亮前行之路](./archive/20240817.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240817|照亮前行之路|阿尔凡齐纳灯塔，阿尔加维，葡萄牙 (© Andreas Kunz/Getty Images)|
 |20240816|系好安全带！|长岛温泉乐园的过山车，三重县，日本 (© Japanese amateur photographer/Getty Images)|
 |20240815|“洞”之新世界|韩松洞，风牙者榜国家公园，越南 (© Geng Xu/Getty Images)|
 |20240814|今天感觉很精神|澳洲魔蜥，瓦塔卡国家公园，澳大利亚 (© Yva Momatiuk and John Eastcott/Minden Pictures)|
