@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![照亮前行之路](./archive/20240817.jpg)
+![一个无与伦比的码头](./archive/20240818.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240818|一个无与伦比的码头|日落时的亨廷顿海滩码头，加利福尼亚州，美国 (© Stan Moniz Photography/TANDEM Stills + Motion)|
 |20240817|照亮前行之路|阿尔凡齐纳灯塔，阿尔加维，葡萄牙 (© Andreas Kunz/Getty Images)|
 |20240816|系好安全带！|长岛温泉乐园的过山车，三重县，日本 (© Japanese amateur photographer/Getty Images)|
 |20240815|“洞”之新世界|韩松洞，风牙者榜国家公园，越南 (© Geng Xu/Getty Images)|
