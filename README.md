@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![鹿和羚羊嬉戏的地方](./archive/20240820.jpg)
+![等待前往加拉帕戈斯群岛](./archive/20240821.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240821|等待前往加拉帕戈斯群岛|纳斯卡鲣鸟，沃尔夫岛，加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Minden Pictures)|
 |20240820|鹿和羚羊嬉戏的地方|大提顿国家公园日出,怀俄明州,美国 (© Kurt Budliger/TANDEM Stills + Motion)|
 |20240819|铿锵有力的打击乐|Bufadero de la Garita，大加那利岛，西班牙 (© Marco Bottigelli/Getty Images)|
 |20240818|一个无与伦比的码头|日落时的亨廷顿海滩码头，加利福尼亚州，美国 (© Stan Moniz Photography/TANDEM Stills + Motion)|
