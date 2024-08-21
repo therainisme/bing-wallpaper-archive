@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![等待前往加拉帕戈斯群岛](./archive/20240821.jpg)
+![晨曦之光](./archive/20240822.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240822|晨曦之光|海洋城日出时的鸟瞰图，马里兰州，美国 (© Kevin Olson/Amazing Aerial Agency)|
 |20240821|等待前往加拉帕戈斯群岛|纳斯卡鲣鸟，沃尔夫岛，加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Minden Pictures)|
 |20240820|鹿和羚羊嬉戏的地方|大提顿国家公园日出,怀俄明州,美国 (© Kurt Budliger/TANDEM Stills + Motion)|
 |20240819|铿锵有力的打击乐|Bufadero de la Garita，大加那利岛，西班牙 (© Marco Bottigelli/Getty Images)|
