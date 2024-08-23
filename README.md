@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![通往过去的大门](./archive/20240823.jpg)
+![尽享森林与水域之美](./archive/20240824.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240824|尽享森林与水域之美|卡塔丁森林和水域国家纪念碑，佩诺布斯科特县，缅因州，美国 (© Cavan Images/Alamy Stock Photo)|
 |20240823|通往过去的大门|帕侬蓝寺，武里南府，泰国 (© Banjongseal324/Getty Images)|
 |20240822|晨曦之光|海洋城日出时的鸟瞰图，马里兰州，美国 (© Kevin Olson/Amazing Aerial Agency)|
 |20240821|等待前往加拉帕戈斯群岛|纳斯卡鲣鸟，沃尔夫岛，加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Minden Pictures)|
