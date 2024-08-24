@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![尽享森林与水域之美](./archive/20240824.jpg)
+![守护这片乐园](./archive/20240825.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240825|守护这片乐园|急流湖的日出，冰川国家公园，蒙大拿州，美国 (© Jason Savage/Tandem Stills + Motion)|
 |20240824|尽享森林与水域之美|卡塔丁森林和水域国家纪念碑，佩诺布斯科特县，缅因州，美国 (© Cavan Images/Alamy Stock Photo)|
 |20240823|通往过去的大门|帕侬蓝寺，武里南府，泰国 (© Banjongseal324/Getty Images)|
 |20240822|晨曦之光|海洋城日出时的鸟瞰图，马里兰州，美国 (© Kevin Olson/Amazing Aerial Agency)|
