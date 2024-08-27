@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![沼泽里的生活真美好！](./archive/20240827.jpg)
+![比赛开始！](./archive/20240828.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240828|比赛开始！|蒙马特和圣心大教堂，巴黎，法国 (© Tuul & Bruno Morandi/Getty Images)|
 |20240827|沼泽里的生活真美好！|黑色凯门鳄幼崽，坦博帕塔国家保护区，秘鲁 (© Maxime Aliaga/Minden Pictures)|
 |20240826|田园诗般的岛屿之旅|巴尔米拉环礁国家野生动物保护区，中太平洋 (© Ian Shive/Tandem Stills + Motion)|
 |20240825|守护这片乐园|急流湖的日出，冰川国家公园，蒙大拿州，美国 (© Jason Savage/Tandem Stills + Motion)|
