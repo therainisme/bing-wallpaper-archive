@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![加泰罗尼亚式的悬念](./archive/20240829.jpg)
+![对大块头温柔点](./archive/20240830.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240830|对大块头温柔点|鸟头湾的鲸鲨，西巴布亚，印度尼西亚 (© Andy Lerner/Tandem Stills + Motion)|
 |20240829|加泰罗尼亚式的悬念|富利特堡-德拉罗卡，加泰罗尼亚，西班牙 (© Eloi_Omella/Getty Images)|
 |20240828|比赛开始！|蒙马特和圣心大教堂，巴黎，法国 (© Tuul & Bruno Morandi/Getty Images)|
 |20240827|沼泽里的生活真美好！|黑色凯门鳄幼崽，坦博帕塔国家保护区，秘鲁 (© Maxime Aliaga/Minden Pictures)|
