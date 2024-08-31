@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![沙丘日和沙漠烟霞](./archive/20240831.jpg)
+![小船轻轻划过泰晤士河](./archive/20240901.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240901|小船轻轻划过泰晤士河|泰晤士河，伦敦，英国 (© Puthipong Worasaran/Getty Images)|
 |20240831|沙丘日和沙漠烟霞|撒哈拉沙漠的岩层和沙丘，贾奈特，阿尔及利亚 (© Airpano/Amazing Aerial Agency)|
 |20240830|对大块头温柔点|鸟头湾的鲸鲨，西巴布亚，印度尼西亚 (© Andy Lerner/Tandem Stills + Motion)|
 |20240829|加泰罗尼亚式的悬念|富利特堡-德拉罗卡，加泰罗尼亚，西班牙 (© Eloi_Omella/Getty Images)|
