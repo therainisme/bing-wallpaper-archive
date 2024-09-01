@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![小船轻轻划过泰晤士河](./archive/20240901.jpg)
+![红绿金刚鹦鹉之家](./archive/20240902.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240902|红绿金刚鹦鹉之家|红绿金刚鹦鹉，南马托格罗索州，巴西 (© Ellen Goff/Danita Delimont)|
 |20240901|小船轻轻划过泰晤士河|泰晤士河，伦敦，英国 (© Puthipong Worasaran/Getty Images)|
 |20240831|沙丘日和沙漠烟霞|撒哈拉沙漠的岩层和沙丘，贾奈特，阿尔及利亚 (© Airpano/Amazing Aerial Agency)|
 |20240830|对大块头温柔点|鸟头湾的鲸鲨，西巴布亚，印度尼西亚 (© Andy Lerner/Tandem Stills + Motion)|
