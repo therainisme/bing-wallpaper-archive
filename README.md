@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![红绿金刚鹦鹉之家](./archive/20240902.jpg)
+![原始之美，人人共享](./archive/20240903.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240903|原始之美，人人共享|迷人的水晶湖，高山湖泊，华盛顿州，美国 (© Mitch Pittman/Tandem Stills + Motion)|
 |20240902|红绿金刚鹦鹉之家|红绿金刚鹦鹉，南马托格罗索州，巴西 (© Ellen Goff/Danita Delimont)|
 |20240901|小船轻轻划过泰晤士河|泰晤士河，伦敦，英国 (© Puthipong Worasaran/Getty Images)|
 |20240831|沙丘日和沙漠烟霞|撒哈拉沙漠的岩层和沙丘，贾奈特，阿尔及利亚 (© Airpano/Amazing Aerial Agency)|
