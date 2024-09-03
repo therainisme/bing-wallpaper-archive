@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![原始之美，人人共享](./archive/20240903.jpg)
+![物以类聚，人以群分](./archive/20240904.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240904|物以类聚，人以群分|乌雕鸮，巴基斯坦 (© zahoor salmi/Getty Images)|
 |20240903|原始之美，人人共享|迷人的水晶湖，高山湖泊，华盛顿州，美国 (© Mitch Pittman/Tandem Stills + Motion)|
 |20240902|红绿金刚鹦鹉之家|红绿金刚鹦鹉，南马托格罗索州，巴西 (© Ellen Goff/Danita Delimont)|
 |20240901|小船轻轻划过泰晤士河|泰晤士河，伦敦，英国 (© Puthipong Worasaran/Getty Images)|
