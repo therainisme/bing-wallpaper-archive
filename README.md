@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![2024年多伦多国际电影节](./archive/20240905.jpg)
+![你可曾见过此等景色](./archive/20240906.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240906|你可曾见过此等景色|古老山毛榉树，格莱纳里夫森林公园，安特里姆郡，北爱尔兰 (© Dawid K Photography/Shutterstock)|
 |20240905|2024年多伦多国际电影节|多伦多城市天际线,加拿大 (© Roberto Machado Noa/Getty Images)|
 |20240904|物以类聚，人以群分|乌雕鸮，巴基斯坦 (© zahoor salmi/Getty Images)|
 |20240903|原始之美，人人共享|迷人的水晶湖，高山湖泊，华盛顿州，美国 (© Mitch Pittman/Tandem Stills + Motion)|
