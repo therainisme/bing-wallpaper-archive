@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![“大水”中的彩虹波](./archive/20240909.jpg)
+![从天际线到水面](./archive/20240910.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240910|从天际线到水面|瓦斯科·达·伽马大桥，里斯本，葡萄牙 (© Achim Thomae/Getty Images)|
 |20240909|“大水”中的彩虹波|阿根廷和巴西边境的伊瓜苏瀑布 (© AirPano LLC/Amazing Aerial Agency)|
 |20240908|一座千年历史的修道院|加泰罗尼亚北部的圣马丁杜卡尼古修道院 ，法国 (© Cyril Gosselin/Getty Images)|
 |20240907|嗡嗡作响|朱红蜂鸟，圣克鲁斯，加利福尼亚州，美国 (© yhelfman/Getty Images)|
