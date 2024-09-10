@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![从天际线到水面](./archive/20240910.jpg)
+![石头编织的童话](./archive/20240911.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240911|石头编织的童话|埃尔茨城堡，德国 (© Allard Schager/Alamy)|
 |20240910|从天际线到水面|瓦斯科·达·伽马大桥，里斯本，葡萄牙 (© Achim Thomae/Getty Images)|
 |20240909|“大水”中的彩虹波|阿根廷和巴西边境的伊瓜苏瀑布 (© AirPano LLC/Amazing Aerial Agency)|
 |20240908|一座千年历史的修道院|加泰罗尼亚北部的圣马丁杜卡尼古修道院 ，法国 (© Cyril Gosselin/Getty Images)|
