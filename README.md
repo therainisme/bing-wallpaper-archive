@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![石头编织的童话](./archive/20240911.jpg)
+![度过美好的一天](./archive/20240912.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240912|度过美好的一天|留尼汪岛附近的海豚群，印度洋，法国海外省 (© Joost van Uffelen/Shutterstock)|
 |20240911|石头编织的童话|埃尔茨城堡，德国 (© Allard Schager/Alamy)|
 |20240910|从天际线到水面|瓦斯科·达·伽马大桥，里斯本，葡萄牙 (© Achim Thomae/Getty Images)|
 |20240909|“大水”中的彩虹波|阿根廷和巴西边境的伊瓜苏瀑布 (© AirPano LLC/Amazing Aerial Agency)|
