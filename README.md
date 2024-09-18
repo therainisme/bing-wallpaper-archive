@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![云中之城](./archive/20240918.jpg)
+![埃尔博河上空的银河](./archive/20240919.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240919|埃尔博河上空的银河|埃尔博河上空的银河，阿尔伯塔省，加拿大 (© Alan Dyer/Getty Images)|
 |20240918|云中之城|郡上八幡城，岐阜县，日本 (© ta2funk ito/500px/Getty Images)|
 |20240917|明月千里寄相思|月圆之夜的豫园，上海，中国 (© zyxeos30/Gettyimages)|
 |20240916|蹦蹦跳跳，快乐到老|日出时的小袋鼠，阿德莱德河，北领地，澳大利亚 (© Jeremy Woodhouse/Getty Images)|
