@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![埃尔博河上空的银河](./archive/20240919.jpg)
+![海盗的最终归宿](./archive/20240920.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240920|海盗的最终归宿|奥克拉科克岛上的奥克拉科克灯塔，北卡罗来纳州，美国 (© Chansak Joe/Getty Images)|
 |20240919|埃尔博河上空的银河|埃尔博河上空的银河，阿尔伯塔省，加拿大 (© Alan Dyer/Getty Images)|
 |20240918|云中之城|郡上八幡城，岐阜县，日本 (© ta2funk ito/500px/Getty Images)|
 |20240917|明月千里寄相思|月圆之夜的豫园，上海，中国 (© zyxeos30/Gettyimages)|
