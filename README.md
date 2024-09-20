@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![海盗的最终归宿](./archive/20240920.jpg)
+![为慕尼黑啤酒节干杯！](./archive/20240921.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240921|为慕尼黑啤酒节干杯！|Oktoberfest in Munich at sunset (© AllesSuper21/iStock/Getty Images)|
 |20240920|海盗的最终归宿|奥克拉科克岛上的奥克拉科克灯塔，北卡罗来纳州，美国 (© Chansak Joe/Getty Images)|
 |20240919|埃尔博河上空的银河|埃尔博河上空的银河，阿尔伯塔省，加拿大 (© Alan Dyer/Getty Images)|
 |20240918|云中之城|郡上八幡城，岐阜县，日本 (© ta2funk ito/500px/Getty Images)|
