@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![陷入沉思](./archive/20240922.jpg)
+![令人惊叹的海獭](./archive/20240923.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240923|令人惊叹的海獭|海獭，威廉王子湾,阿拉斯加州,美国 (© Gerald Corsi/Getty Images)|
 |20240922|陷入沉思|巴特米尔湖，湖区国家公园，英格兰，英国 (© Alan Novelli/Alamy Stock Photo)|
 |20240921|为慕尼黑啤酒节干杯！|Oktoberfest in Munich at sunset (© AllesSuper21/iStock/Getty Images)|
 |20240920|海盗的最终归宿|奥克拉科克岛上的奥克拉科克灯塔，北卡罗来纳州，美国 (© Chansak Joe/Getty Images)|
