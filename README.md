@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![古代巨人的王国](./archive/20240925.jpg)
+![呼叫所有巨嘴鸟的粉丝](./archive/20240926.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20240926|呼叫所有巨嘴鸟的粉丝|蓝斑巨嘴鸟，洛斯戈查尔斯国家公园，哥斯达黎加 (© Oscar Dominguez/Tandem Stills + Motion)|
 |20240925|古代巨人的王国|巨型红杉，红杉国家公园，加利福尼亚州，美国 (© Galyna Andrushko/Shutterstock)|
 |20240924|你会相信这种观点吗？|斯卡夫塔山的瀑布，瓦特纳冰川国家公园，冰岛 (© Nopasorn Kowathanakul/Getty Images)|
 |20240923|令人惊叹的海獭|海獭，威廉王子湾,阿拉斯加州,美国 (© Gerald Corsi/Getty Images)|
