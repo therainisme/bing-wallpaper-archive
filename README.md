@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![绝美的秋日风景](./archive/20241001.jpg)
+![河流的狂野舞蹈](./archive/20241002.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20241002|河流的狂野舞蹈|温德河，布鲁克斯山脉，北极国家野生动物保护区，阿拉斯加州，美国 (© Design Pics/DanitaDelimont)|
 |20241001|绝美的秋日风景|禾木村的风景，新疆，中国 (© snvv18870020330/Shutterstock)|
 |20240930|随浮冰漂流|斯匹次卑尔根岛北部的海象群，斯瓦尔巴群岛，挪威 (© AWL Images/DanitaDelimont)|
 |20240929|连接康涅狄格州|横跨胡萨托尼克河的西康沃尔廊桥，康涅狄格州，美国 (© pabradyphoto/Getty Images)|
