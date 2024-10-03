@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![盛大的爱情见证](./archive/20241003.jpg)
+![一轮蓝月亮](./archive/20241004.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20241004|一轮蓝月亮|木星的冰卫星木卫二 (© NASA/JPL-Caltech/SETI Institute)|
 |20241003|盛大的爱情见证|阿格拉的泰姬陵，安拉阿巴德，印度 (© Tanarch/Getty Images)|
 |20241002|河流的狂野舞蹈|温德河，布鲁克斯山脉，北极国家野生动物保护区，阿拉斯加州，美国 (© Design Pics/DanitaDelimont)|
 |20241001|绝美的秋日风景|禾木村的风景，新疆，中国 (© snvv18870020330/Shutterstock)|
