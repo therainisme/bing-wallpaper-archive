@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![一轮蓝月亮](./archive/20241004.jpg)
+![跟着老师走！](./archive/20241005.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20241005|跟着老师走！|东察沃国家公园的非洲象，肯尼亚 (© Neil Bowman/Minden Pictures)|
 |20241004|一轮蓝月亮|木星的冰卫星木卫二 (© NASA/JPL-Caltech/SETI Institute)|
 |20241003|盛大的爱情见证|阿格拉的泰姬陵，安拉阿巴德，印度 (© Tanarch/Getty Images)|
 |20241002|河流的狂野舞蹈|温德河，布鲁克斯山脉，北极国家野生动物保护区，阿拉斯加州，美国 (© Design Pics/DanitaDelimont)|
