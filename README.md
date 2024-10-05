@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![跟着老师走！](./archive/20241005.jpg)
+![一抹金色](./archive/20241006.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20241006|一抹金色|郊狼峡谷拱门中的白杨树，格兰峡谷休闲区，犹他州，美国 (© Stephen Matera/TANDEM Stills + Motion)|
 |20241005|跟着老师走！|东察沃国家公园的非洲象，肯尼亚 (© Neil Bowman/Minden Pictures)|
 |20241004|一轮蓝月亮|木星的冰卫星木卫二 (© NASA/JPL-Caltech/SETI Institute)|
 |20241003|盛大的爱情见证|阿格拉的泰姬陵，安拉阿巴德，印度 (© Tanarch/Getty Images)|
