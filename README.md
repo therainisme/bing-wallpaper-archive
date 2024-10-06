@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![一抹金色](./archive/20241006.jpg)
+![梦想成真的地方](./archive/20241007.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20241007|梦想成真的地方|法属波利尼西亚波拉波拉岛的鸟瞰图 (© GLF Media/Shutterstock)|
 |20241006|一抹金色|郊狼峡谷拱门中的白杨树，格兰峡谷休闲区，犹他州，美国 (© Stephen Matera/TANDEM Stills + Motion)|
 |20241005|跟着老师走！|东察沃国家公园的非洲象，肯尼亚 (© Neil Bowman/Minden Pictures)|
 |20241004|一轮蓝月亮|木星的冰卫星木卫二 (© NASA/JPL-Caltech/SETI Institute)|
