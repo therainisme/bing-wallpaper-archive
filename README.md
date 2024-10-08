@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![托斯卡纳的石头小镇](./archive/20241008.jpg)
+![色彩斑斓的秋天](./archive/20241009.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20241009|色彩斑斓的秋天|马布尔附近的白杨树，科罗拉多州，美国 (© Jason Hatfield/TANDEM Stills + Motion)|
 |20241008|托斯卡纳的石头小镇|索拉诺，托斯卡纳，意大利 (© Luigi Vaccarella/eStock Photo)|
 |20241007|梦想成真的地方|法属波利尼西亚波拉波拉岛的鸟瞰图 (© GLF Media/Shutterstock)|
 |20241006|一抹金色|郊狼峡谷拱门中的白杨树，格兰峡谷休闲区，犹他州，美国 (© Stephen Matera/TANDEM Stills + Motion)|
