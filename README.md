@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![色彩斑斓的秋天](./archive/20241009.jpg)
+![云海奇观](./archive/20241011.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20241011|云海奇观|黄山云海，安徽省，中国 (© yangyang1991/Getty Images)|
 |20241009|色彩斑斓的秋天|马布尔附近的白杨树，科罗拉多州，美国 (© Jason Hatfield/TANDEM Stills + Motion)|
 |20241008|托斯卡纳的石头小镇|索拉诺，托斯卡纳，意大利 (© Luigi Vaccarella/eStock Photo)|
 |20241007|梦想成真的地方|法属波利尼西亚波拉波拉岛的鸟瞰图 (© GLF Media/Shutterstock)|
