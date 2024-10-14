@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![沙滩的秘密和日落](./archive/20241014.jpg)
+![生存竞赛](./archive/20241015.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20241015|生存竞赛|马拉河的角马大迁徙，肯尼亚 (© Ayzenstayn/Getty Images)|
 |20241014|沙滩的秘密和日落|可可海滩上的渔船，果阿邦，印度 (© Abhinav Sah/Shutterstock)|
 |20241013|辉煌的塞维利亚|塞维利亚王宫少女庭院，西班牙 (© Danny Lehman/Getty Images)|
 |20241012|飞越各大洲|林鸳鸯，魁北克省，加拿大 (© Maxime Riendeau/Getty Images)|
