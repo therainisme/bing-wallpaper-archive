@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![发掘过去](./archive/20241016.jpg)
+![随风摆动，进入秋天](./archive/20241017.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20241017|随风摆动，进入秋天|地肤草，茨城县，日本 (© DigiPub/Getty Images)|
 |20241016|发掘过去|侏罗纪海岸的箭石和菊石化石，多塞特郡，英国 (© Nature Picture Library/Alamy Stock Photo)|
 |20241015|生存竞赛|马拉河的角马大迁徙，肯尼亚 (© Ayzenstayn/Getty Images)|
 |20241014|沙滩的秘密和日落|可可海滩上的渔船，果阿邦，印度 (© Abhinav Sah/Shutterstock)|
