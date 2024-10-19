@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![立足现在，发掘过去](./archive/20241019.jpg)
+![坚持住](./archive/20241020.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20241020|坚持住|哥斯达黎加的三趾树懒 (© Harry Collins/Getty Images)|
 |20241019|立足现在，发掘过去|哈索尔神庙，邓德拉神庙群，基纳，埃及 (© Nick Brundle Photography/Getty Images)|
 |20241018|邂逅秋日的林荫道|曼哈顿中央公园的秋天，纽约，美国 (© mapman/Shutterstock)|
 |20241017|随风摆动，进入秋天|地肤草，茨城县，日本 (© DigiPub/Getty Images)|
