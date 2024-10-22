@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![可怕的外墙](./archive/20241022.jpg)
+![无处可去的阶梯](./archive/20241023.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20241023|无处可去的阶梯|雪莉夫人森林和古堡遗迹，新罕布什尔州，美国 (© yggdrasill/Shutterstock)|
 |20241022|可怕的外墙|祖卡里宫，罗马，意大利 (© Photon-Photos/Getty Images)|
 |20241021|在秋天里傲然挺立|乔治·史密斯州立公园的柏树，佐治亚州，美国 (© Chris Moore/TANDEM Stills + Motion)|
 |20241020|坚持住|哥斯达黎加的三趾树懒 (© Harry Collins/Getty Images)|
