@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![“淘金热”后的鬼城](./archive/20241024.jpg)
+![恐怖的高度](./archive/20241025.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20241025|恐怖的高度|沙莫尼的勃朗峰，法国 (© Simon Schöpf/Getty Images)|
 |20241024|“淘金热”后的鬼城|博迪州立历史公园，莫诺县，加利福尼亚州，美国 (© Julien McRoberts/Tetra Images, LLC/Alamy Stock Photo)|
 |20241023|无处可去的阶梯|雪莉夫人森林和古堡遗迹，新罕布什尔州，美国 (© yggdrasill/Shutterstock)|
 |20241022|可怕的外墙|祖卡里宫，罗马，意大利 (© Photon-Photos/Getty Images)|
