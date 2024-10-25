@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![恐怖的高度](./archive/20241025.jpg)
+![海边的神秘树林](./archive/20241026.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20241026|海边的神秘树林|幽灵森林，宁哈根，梅克伦堡-西波美拉尼亚，德国 (© mauritius images GmbH/Alamy Stock Photo)|
 |20241025|恐怖的高度|沙莫尼的勃朗峰，法国 (© Simon Schöpf/Getty Images)|
 |20241024|“淘金热”后的鬼城|博迪州立历史公园，莫诺县，加利福尼亚州，美国 (© Julien McRoberts/Tetra Images, LLC/Alamy Stock Photo)|
 |20241023|无处可去的阶梯|雪莉夫人森林和古堡遗迹，新罕布什尔州，美国 (© yggdrasill/Shutterstock)|
