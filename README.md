@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![寒风中的温情](./archive/20241027.jpg)
+![雕刻时间到了](./archive/20241028.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20241028|雕刻时间到了|南瓜田，维多利亚，不列颠哥伦比亚省，加拿大 (© Shaun Cunningham/Alamy Stock Photo)|
 |20241027|寒风中的温情|北极熊与幼崽，丘吉尔，曼尼托巴，加拿大 (© Design Pics/plainpicture)|
 |20241026|海边的神秘树林|幽灵森林，宁哈根，梅克伦堡-西波美拉尼亚，德国 (© mauritius images GmbH/Alamy Stock Photo)|
 |20241025|恐怖的高度|沙莫尼的勃朗峰，法国 (© Simon Schöpf/Getty Images)|
