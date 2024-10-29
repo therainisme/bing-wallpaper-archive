@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![猫头鹰的叫声在萦绕](./archive/20241029.jpg)
+![令人毛骨悚然的历史](./archive/20241030.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20241030|令人毛骨悚然的历史|从苏格兰教堂墓地眺望爱丁堡城堡，英国 (© Chris Dorney/Alamy Stock Photo)|
 |20241029|猫头鹰的叫声在萦绕|大雕鸮 (© Mark Newman/Getty Images)|
 |20241028|雕刻时间到了|南瓜田，维多利亚，不列颠哥伦比亚省，加拿大 (© Shaun Cunningham/Alamy Stock Photo)|
 |20241027|寒风中的温情|北极熊与幼崽，丘吉尔，曼尼托巴，加拿大 (© Design Pics/plainpicture)|
