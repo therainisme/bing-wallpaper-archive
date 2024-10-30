@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![令人毛骨悚然的历史](./archive/20241030.jpg)
+![万圣节时冷冰冰的凝视](./archive/20241031.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20241031|万圣节时冷冰冰的凝视|巴黎圣母院的奇美拉，法国 (© scaliger/Getty Images)|
 |20241030|令人毛骨悚然的历史|从苏格兰教堂墓地眺望爱丁堡城堡，英国 (© Chris Dorney/Alamy Stock Photo)|
 |20241029|猫头鹰的叫声在萦绕|大雕鸮 (© Mark Newman/Getty Images)|
 |20241028|雕刻时间到了|南瓜田，维多利亚，不列颠哥伦比亚省，加拿大 (© Shaun Cunningham/Alamy Stock Photo)|
