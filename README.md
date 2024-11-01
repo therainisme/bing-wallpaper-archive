@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![引以为豪的传统](./archive/20241101.jpg)
+![从濒临灭绝到成为国家的象征](./archive/20241102.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20241102|从濒临灭绝到成为国家的象征|黄石国家公园的美洲野牛，怀俄明州，美国 (© Ian Shive/TANDEM Stills + Motion)|
 |20241101|引以为豪的传统|秋季葡萄园的鸟瞰图，瓦恩哈尔特，黑森林，德国 (© Sabine Gerold/Amazing Aerial Agency)|
 |20241031|万圣节时冷冰冰的凝视|巴黎圣母院的奇美拉，法国 (© scaliger/Getty Images)|
 |20241030|令人毛骨悚然的历史|从苏格兰教堂墓地眺望爱丁堡城堡，英国 (© Chris Dorney/Alamy Stock Photo)|
