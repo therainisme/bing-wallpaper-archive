@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![自然与可持续发展的结合](./archive/20241103.jpg)
+![胜过千言万语](./archive/20241104.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20241104|胜过千言万语|坎布里亚湖区，格拉斯米尔，英格兰 (© Thomas Molyneux/Getty Images)|
 |20241103|自然与可持续发展的结合|巢中的加勒比火烈鸟蛋，里奥拉加托斯自然保护区，尤卡坦州，墨西哥 (© Claudio Contreras/Minden Pictures)|
 |20241102|从濒临灭绝到成为国家的象征|黄石国家公园的美洲野牛，怀俄明州，美国 (© Ian Shive/TANDEM Stills + Motion)|
 |20241101|引以为豪的传统|秋季葡萄园的鸟瞰图，瓦恩哈尔特，黑森林，德国 (© Sabine Gerold/Amazing Aerial Agency)|
