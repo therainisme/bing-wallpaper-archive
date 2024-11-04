@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![胜过千言万语](./archive/20241104.jpg)
+![异世界之美](./archive/20241105.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20241105|异世界之美|马拉赫塞斯国家公园，马拉尼昂州,巴西 (© thanosquest/Shutterstock)|
 |20241104|胜过千言万语|坎布里亚湖区，格拉斯米尔，英格兰 (© Thomas Molyneux/Getty Images)|
 |20241103|自然与可持续发展的结合|巢中的加勒比火烈鸟蛋，里奥拉加托斯自然保护区，尤卡坦州，墨西哥 (© Claudio Contreras/Minden Pictures)|
 |20241102|从濒临灭绝到成为国家的象征|黄石国家公园的美洲野牛，怀俄明州，美国 (© Ian Shive/TANDEM Stills + Motion)|
