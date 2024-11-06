@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![日落的阴影](./archive/20241106.jpg)
+![初冬之美](./archive/20241107.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20241107|初冬之美|金色的松树，坝上草原，中国 (© MelindaChan/Getty Images)|
 |20241106|日落的阴影|奥林匹克国家公园石狮海滩，华盛顿州，美国 (© T.M. Schultze/TANDEM Stills + Motion)|
 |20241105|异世界之美|马拉赫塞斯国家公园，马拉尼昂州,巴西 (© thanosquest/Shutterstock)|
 |20241104|胜过千言万语|坎布里亚湖区，格拉斯米尔，英格兰 (© Thomas Molyneux/Getty Images)|
