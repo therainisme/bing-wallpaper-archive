@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![来自冰与火之国](./archive/20241108.jpg)
+![红尘中的宇宙美景](./archive/20241109.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20241109|红尘中的宇宙美景|银河，阿伊特本哈杜杜，摩洛哥 (© Cavan Images/Getty Images)|
 |20241108|来自冰与火之国|冰岛冰川河流鸟瞰图 (© rybarmarekk/Shutterstock)|
 |20241107|初冬之美|金色的松树，坝上草原，中国 (© MelindaChan/Getty Images)|
 |20241106|日落的阴影|奥林匹克国家公园石狮海滩，华盛顿州，美国 (© T.M. Schultze/TANDEM Stills + Motion)|
