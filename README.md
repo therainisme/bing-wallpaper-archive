@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![红尘中的宇宙美景](./archive/20241109.jpg)
+![飞行中的火烈鸟](./archive/20241110.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20241110|飞行中的火烈鸟|加勒比火烈鸟，尤卡坦半岛，墨西哥 (© Claudio Contreras/NPL/Minden Pictures)|
 |20241109|红尘中的宇宙美景|银河，阿伊特本哈杜杜，摩洛哥 (© Cavan Images/Getty Images)|
 |20241108|来自冰与火之国|冰岛冰川河流鸟瞰图 (© rybarmarekk/Shutterstock)|
 |20241107|初冬之美|金色的松树，坝上草原，中国 (© MelindaChan/Getty Images)|
