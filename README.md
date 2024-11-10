@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![飞行中的火烈鸟](./archive/20241110.jpg)
+![旷野里的第一片雪花](./archive/20241111.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20241111|旷野里的第一片雪花|班夫国家公园的日落，阿尔伯塔省，加拿大 (© fywPhoto 云卷云舒/Getty Images)|
 |20241110|飞行中的火烈鸟|加勒比火烈鸟，尤卡坦半岛，墨西哥 (© Claudio Contreras/NPL/Minden Pictures)|
 |20241109|红尘中的宇宙美景|银河，阿伊特本哈杜杜，摩洛哥 (© Cavan Images/Getty Images)|
 |20241108|来自冰与火之国|冰岛冰川河流鸟瞰图 (© rybarmarekk/Shutterstock)|
