@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![悬崖边的故事](./archive/20241114.jpg)
+![愿望随灯起飞](./archive/20241115.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20241115|愿望随灯起飞|义蓬灯节 ，清迈，泰国 (© tampatra/Getty Images)|
 |20241114|悬崖边的故事|马纳罗拉，五渔村国家公园，利古里亚，意大利 (© John_Silver/Shutterstock)|
 |20241113|海中的“狮子王”|巨型海藻森林中的加州海狮，下加利福尼亚，墨西哥 (© Claudio Contreras/Minden Pictures)|
 |20241112|拱门之下|透过海湾拱门看到双拱门，拱门国家公园，犹他州，美国 (© Jeff Foott/Minden Pictures)|
