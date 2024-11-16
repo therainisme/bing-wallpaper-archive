@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![泥土、大海和天空](./archive/20241116.jpg)
+![苏格兰高地的马鹿](./archive/20241117.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20241117|苏格兰高地的马鹿|加里东林中的马鹿，阿夫力谷，苏格兰高地 (© Terry Whittaker/Alamy)|
 |20241116|泥土、大海和天空|瓦登海沿岸，莫德加特附近，弗里斯兰，荷兰 (© Ron ter Burg/Minden Pictures)|
 |20241115|愿望随灯起飞|义蓬灯节 ，清迈，泰国 (© tampatra/Getty Images)|
 |20241114|悬崖边的故事|马纳罗拉，五渔村国家公园，利古里亚，意大利 (© John_Silver/Shutterstock)|
