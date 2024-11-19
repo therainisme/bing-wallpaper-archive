@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![令人震撼的拱门](./archive/20241119.jpg)
+![加龙河上的历史通道](./archive/20241120.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20241120|加龙河上的历史通道|皮埃尔桥，波尔多，法国 (© SergiyN/Getty Images)|
 |20241119|令人震撼的拱门|塔斯曼拱门，塔斯马尼亚州，澳大利亚 (© Gary Bell/Minden Pictures)|
 |20241118|一直指引着方向|波斯考尔灯塔，南威尔士，英国 (© Leighton Collins/Alamy)|
 |20241117|苏格兰高地的马鹿|加里东林中的马鹿，阿夫力谷，苏格兰高地 (© Terry Whittaker/Alamy)|
