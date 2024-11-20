@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![加龙河上的历史通道](./archive/20241120.jpg)
+![在肩头远眺](./archive/20241121.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20241121|在肩头远眺|日出时的两只小狮子，南非 (© Ruan Springorum/Getty Images)|
 |20241120|加龙河上的历史通道|皮埃尔桥，波尔多，法国 (© SergiyN/Getty Images)|
 |20241119|令人震撼的拱门|塔斯曼拱门，塔斯马尼亚州，澳大利亚 (© Gary Bell/Minden Pictures)|
 |20241118|一直指引着方向|波斯考尔灯塔，南威尔士，英国 (© Leighton Collins/Alamy)|
