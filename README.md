@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![在肩头远眺](./archive/20241121.jpg)
+![悬崖上的城堡](./archive/20241122.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20241122|悬崖上的城堡|萨夫拉城堡，瓜达拉哈拉省，西班牙 (© Eduard Gene/Getty Images)|
 |20241121|在肩头远眺|日出时的两只小狮子，南非 (© Ruan Springorum/Getty Images)|
 |20241120|加龙河上的历史通道|皮埃尔桥，波尔多，法国 (© SergiyN/Getty Images)|
 |20241119|令人震撼的拱门|塔斯曼拱门，塔斯马尼亚州，澳大利亚 (© Gary Bell/Minden Pictures)|
