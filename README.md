@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![大自然的密码](./archive/20241123.jpg)
+![潮汐与暮色](./archive/20241124.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20241124|潮汐与暮色|州立公园，索诺玛海岸，美国加利福尼亚州 (© Rachid Dahnoun/Tandem Stills + Motion)|
 |20241123|大自然的密码|多叶芦荟，袋鼠岛，澳大利亚 (© Michael Melford/Alamy)|
 |20241122|悬崖上的城堡|萨夫拉城堡，瓜达拉哈拉省，西班牙 (© Eduard Gene/Getty Images)|
 |20241121|在肩头远眺|日出时的两只小狮子，南非 (© Ruan Springorum/Getty Images)|
