@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![野生动物的生活](./archive/20241125.jpg)
+![有数百年历史的橄榄树](./archive/20241126.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20241126|有数百年历史的橄榄树|橄榄树林，伊特里亚山谷，普利亚，意大利 (© Massimo Santi/Shutterstock)|
 |20241125|野生动物的生活|马赛长颈鹿，安波塞利国家公园，肯尼亚 (© Art Wolfe/DanitaDelimont.com)|
 |20241124|潮汐与暮色|州立公园，索诺玛海岸，美国加利福尼亚州 (© Rachid Dahnoun/Tandem Stills + Motion)|
 |20241123|大自然的密码|多叶芦荟，袋鼠岛，澳大利亚 (© Michael Melford/Alamy)|
