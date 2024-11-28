@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![山峰从云层中探出头来](./archive/20241128.jpg)
+![时间与潮汐之岛](./archive/20241129.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20241129|时间与潮汐之岛|圣米歇尔山，诺曼底，法国 (© Captain Skyhigh/Getty Images)|
 |20241128|山峰从云层中探出头来|日落时分风暴渐渐消散，阿西尼博因山省立公园，加拿大 (© Jeff Lewis/TANDEM Stills + Motion)|
 |20241127|巨人的安息之地|秋天的巨人之墓，布永市，比利时 (© David Briard/Getty)|
 |20241126|有数百年历史的橄榄树|橄榄树林，伊特里亚山谷，普利亚，意大利 (© Massimo Santi/Shutterstock)|
