@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![保护最后一片大荒野](./archive/20241201.jpg)
+![狂野的眼神](./archive/20241202.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20241202|狂野的眼神|雌性驼鹿，德纳里国家公园，阿拉斯加州，美国 (© Cavan Images/Alamy Stock Photo)|
 |20241201|保护最后一片大荒野|南极洲的冰山 (© Art Wolfe/DanitaDelimont.com)|
 |20241130|探秘苏格兰的遗产|基尔亨城堡倒映在奥湖中，阿盖尔-比特郡，苏格兰 (© Tom Mackie/plainpicture)|
 |20241129|时间与潮汐之岛|圣米歇尔山，诺曼底，法国 (© Captain Skyhigh/Getty Images)|
