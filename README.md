@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![狂野的眼神](./archive/20241202.jpg)
+![柱式遗产](./archive/20241203.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20241203|柱式遗产|Sattais Katcheri，琥珀堡，拉贾斯坦邦，印度 (© Yury Taranik/Shutterstock)|
 |20241202|狂野的眼神|雌性驼鹿，德纳里国家公园，阿拉斯加州，美国 (© Cavan Images/Alamy Stock Photo)|
 |20241201|保护最后一片大荒野|南极洲的冰山 (© Art Wolfe/DanitaDelimont.com)|
 |20241130|探秘苏格兰的遗产|基尔亨城堡倒映在奥湖中，阿盖尔-比特郡，苏格兰 (© Tom Mackie/plainpicture)|
