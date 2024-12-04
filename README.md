@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![濒临灭绝](./archive/20241204.jpg)
+![石灰华塔的崛起](./archive/20241205.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20241205|石灰华塔的崛起|莫诺湖的石灰华地层，加利福尼亚州，美国 (© Susanna Patras/TANDEM Stills + Motion)|
 |20241204|濒临灭绝|雄性白犀，纳库鲁湖，肯尼亚 (© Ingo Arndt/Minden Pictures)|
 |20241203|柱式遗产|Sattais Katcheri，琥珀堡，拉贾斯坦邦，印度 (© Yury Taranik/Shutterstock)|
 |20241202|狂野的眼神|雌性驼鹿，德纳里国家公园，阿拉斯加州，美国 (© Cavan Images/Alamy Stock Photo)|
