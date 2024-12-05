@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![石灰华塔的崛起](./archive/20241205.jpg)
+![一路通往童话之路](./archive/20241206.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20241206|一路通往童话之路|鸟瞰冰封的大海和悬崖上的灯塔，大连泊霞湾公园，辽宁省，中国 (© zhengshun tang/Getty Images)|
 |20241205|石灰华塔的崛起|莫诺湖的石灰华地层，加利福尼亚州，美国 (© Susanna Patras/TANDEM Stills + Motion)|
 |20241204|濒临灭绝|雄性白犀，纳库鲁湖，肯尼亚 (© Ingo Arndt/Minden Pictures)|
 |20241203|柱式遗产|Sattais Katcheri，琥珀堡，拉贾斯坦邦，印度 (© Yury Taranik/Shutterstock)|
