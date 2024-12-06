@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![一路通往童话之路](./archive/20241206.jpg)
+![自然奇观的蓝色魅力](./archive/20241207.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20241207|自然奇观的蓝色魅力|里约热内卢州的阿拉亚尔多卡博，巴西 (© Derson Santana/Shutterstock)|
 |20241206|一路通往童话之路|鸟瞰冰封的大海和悬崖上的灯塔，大连泊霞湾公园，辽宁省，中国 (© zhengshun tang/Getty Images)|
 |20241205|石灰华塔的崛起|莫诺湖的石灰华地层，加利福尼亚州，美国 (© Susanna Patras/TANDEM Stills + Motion)|
 |20241204|濒临灭绝|雄性白犀，纳库鲁湖，肯尼亚 (© Ingo Arndt/Minden Pictures)|
