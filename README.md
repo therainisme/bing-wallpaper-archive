@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![态度和高度](./archive/20241209.jpg)
+![世界的尽头？不完全是](./archive/20241210.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20241210|世界的尽头？不完全是|被雪覆盖的康沃尔天涯海角小径，康沃尔郡兰德恩德，英格兰 (© Josef FitzGerald-Patrick/Getty Images)|
 |20241209|态度和高度|两只原驼,托雷斯德尔帕恩国家公园 , 智利 (© Floris van Breugel/NPL/Minden Pictures)|
 |20241208|巴黎圣母院再度回归|巴黎圣母院，巴黎，法国 (© Julien Fromentin/Getty Images)|
 |20241207|自然奇观的蓝色魅力|里约热内卢州的阿拉亚尔多卡博，巴西 (© Derson Santana/Shutterstock)|
