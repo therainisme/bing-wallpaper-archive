@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![为节日做好准备](./archive/20241212.jpg)
+![圣斯蒂芬大教堂的降临节](./archive/20241213.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20241213|圣斯蒂芬大教堂的降临节|圣诞市场，圣斯蒂芬大教堂，布达佩斯，匈牙利 (© Calin Stan/Shutterstock)|
 |20241212|为节日做好准备|一品红或圣诞花 (© David Hosking/NPL/Minden Pictures)|
 |20241211|山峰的“胜利三重奏”|拉瓦雷多三峰山,意大利 (© Daniel Maran/Getty Images)|
 |20241210|世界的尽头？不完全是|被雪覆盖的康沃尔天涯海角小径，康沃尔郡兰德恩德，英格兰 (© Josef FitzGerald-Patrick/Getty Images)|
