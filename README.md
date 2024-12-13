@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![圣斯蒂芬大教堂的降临节](./archive/20241213.jpg)
+!["谁"这么说？](./archive/20241214.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20241214|"谁"这么说？|猛鸮，加拿大 (© pchoui/Getty Images)|
 |20241213|圣斯蒂芬大教堂的降临节|圣诞市场，圣斯蒂芬大教堂，布达佩斯，匈牙利 (© Calin Stan/Shutterstock)|
 |20241212|为节日做好准备|一品红或圣诞花 (© David Hosking/NPL/Minden Pictures)|
 |20241211|山峰的“胜利三重奏”|拉瓦雷多三峰山,意大利 (© Daniel Maran/Getty Images)|
