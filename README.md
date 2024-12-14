@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-!["谁"这么说？](./archive/20241214.jpg)
+![泪水之湖](./archive/20241215.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20241215|泪水之湖|米苏里纳湖，多洛米蒂山脉，意大利 (© Marco Bottigelli/Getty Images)|
 |20241214|"谁"这么说？|猛鸮，加拿大 (© pchoui/Getty Images)|
 |20241213|圣斯蒂芬大教堂的降临节|圣诞市场，圣斯蒂芬大教堂，布达佩斯，匈牙利 (© Calin Stan/Shutterstock)|
 |20241212|为节日做好准备|一品红或圣诞花 (© David Hosking/NPL/Minden Pictures)|
