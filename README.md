@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![闪烁的街道和冰峰](./archive/20241216.jpg)
+![值得爱慕的海岸](./archive/20241217.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20241217|值得爱慕的海岸|传统红色渔民小屋，雷讷峡湾岸边，挪威 (© Pilat666/Getty Images)|
 |20241216|闪烁的街道和冰峰|萨尔茨堡，奥地利 (© bluejayphoto/Getty Images)|
 |20241215|泪水之湖|米苏里纳湖，多洛米蒂山脉，意大利 (© Marco Bottigelli/Getty Images)|
 |20241214|"谁"这么说？|猛鸮，加拿大 (© pchoui/Getty Images)|
