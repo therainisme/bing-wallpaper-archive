@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![值得爱慕的海岸](./archive/20241217.jpg)
+![壮观的象群队伍](./archive/20241218.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20241218|壮观的象群队伍|印度吉姆科比特国家公园的大象，印度 (© ABHILASH VISWA PICASSO/Shutterstock)|
 |20241217|值得爱慕的海岸|传统红色渔民小屋，雷讷峡湾岸边，挪威 (© Pilat666/Getty Images)|
 |20241216|闪烁的街道和冰峰|萨尔茨堡，奥地利 (© bluejayphoto/Getty Images)|
 |20241215|泪水之湖|米苏里纳湖，多洛米蒂山脉，意大利 (© Marco Bottigelli/Getty Images)|
