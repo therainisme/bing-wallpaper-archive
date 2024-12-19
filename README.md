@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![闪烁的小镇](./archive/20241219.jpg)
+![圣诞老人要来镇上了](./archive/20241220.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20241220|圣诞老人要来镇上了|罗瓦涅米圣诞老人村，拉普兰，芬兰 (© Smelov/Shutterstock)|
 |20241219|闪烁的小镇|锡比乌圣诞市场，罗马尼亚 (© Calin Stan/Alamy Stock Photo)|
 |20241218|壮观的象群队伍|印度吉姆科比特国家公园的大象，印度 (© ABHILASH VISWA PICASSO/Shutterstock)|
 |20241217|值得爱慕的海岸|传统红色渔民小屋，雷讷峡湾岸边，挪威 (© Pilat666/Getty Images)|
