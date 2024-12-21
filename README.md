@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![极致的冬日景色](./archive/20241221.jpg)
+![冲浪、沙滩和圣诞老人](./archive/20241222.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20241222|冲浪、沙滩和圣诞老人|水晶码头的圣诞树，太平洋海滩，加利福尼亚州，美国 (© SamAntonioPhotography/Getty Images)|
 |20241221|极致的冬日景色|满拉水库的雪景，日喀则，中国西藏自治区 (© Zhang Zhenqi/VCG via Getty Images)|
 |20241220|圣诞老人要来镇上了|罗瓦涅米圣诞老人村，拉普兰，芬兰 (© Smelov/Shutterstock)|
 |20241219|闪烁的小镇|锡比乌圣诞市场，罗马尼亚 (© Calin Stan/Alamy Stock Photo)|
