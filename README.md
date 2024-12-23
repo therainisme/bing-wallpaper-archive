@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![准备好发泄一些压力了吗？](./archive/20241223.jpg)
+![祝你圣诞快乐！](./archive/20241224.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20241224|祝你圣诞快乐！|德国圣诞市场 (© Cyril Gosselin/Getty Images)|
 |20241223|准备好发泄一些压力了吗？|钏路的两只丹顶鹤，北海道，日本 (© Wirestock, Inc./Alamy Stock Photo)|
 |20241222|冲浪、沙滩和圣诞老人|水晶码头的圣诞树，太平洋海滩，加利福尼亚州，美国 (© SamAntonioPhotography/Getty Images)|
 |20241221|极致的冬日景色|满拉水库的雪景，日喀则，中国西藏自治区 (© Zhang Zhenqi/VCG via Getty Images)|
