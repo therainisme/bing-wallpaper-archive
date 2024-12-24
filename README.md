@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![祝你圣诞快乐！](./archive/20241224.jpg)
+![传说中的风景](./archive/20241225.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20241225|传说中的风景|科瓦东加湖，阿斯图里亚斯，西班牙 (© Carlos Fernandez/Getty Images)|
 |20241224|祝你圣诞快乐！|德国圣诞市场 (© Cyril Gosselin/Getty Images)|
 |20241223|准备好发泄一些压力了吗？|钏路的两只丹顶鹤，北海道，日本 (© Wirestock, Inc./Alamy Stock Photo)|
 |20241222|冲浪、沙滩和圣诞老人|水晶码头的圣诞树，太平洋海滩，加利福尼亚州，美国 (© SamAntonioPhotography/Getty Images)|
