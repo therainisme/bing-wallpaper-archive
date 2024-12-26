@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![节日还在继续](./archive/20241226.jpg)
+![冰雪倒影和积雪覆盖的群峰](./archive/20241227.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20241227|冰雪倒影和积雪覆盖的群峰|布莱德湖，斯洛文尼亚 (© Kesu01/Getty Images)|
 |20241226|节日还在继续|莫斯霍尔港的圣诞灯饰，康沃尔，英格兰 (© ianwool/Getty Images)|
 |20241225|传说中的风景|科瓦东加湖，阿斯图里亚斯，西班牙 (© Carlos Fernandez/Getty Images)|
 |20241224|祝你圣诞快乐！|德国圣诞市场 (© Cyril Gosselin/Getty Images)|
