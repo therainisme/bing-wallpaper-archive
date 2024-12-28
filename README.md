@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![保护海洋生物——绿海龟](./archive/20241228.jpg)
+![圣山之上](./archive/20241229.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20241229|圣山之上|婆罗浮屠大佛寺，爪哇岛，印度尼西亚 (© Robertharding/Shutterstock)|
 |20241228|保护海洋生物——绿海龟|一只绿海龟在太平洋中游泳，法国海外属地新喀里多尼亚 (© Damsea/Shutterstock)|
 |20241227|冰雪倒影和积雪覆盖的群峰|布莱德湖，斯洛文尼亚 (© Kesu01/Getty Images)|
 |20241226|节日还在继续|莫斯霍尔港的圣诞灯饰，康沃尔，英格兰 (© ianwool/Getty Images)|
