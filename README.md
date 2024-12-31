@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![新年快乐！](./archive/20241231.jpg)
+![过一个冰雪元旦！](./archive/20250101.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250101|过一个冰雪元旦！|在北极玩耍的北极熊 (© Ondrej Prosicky/Shutterstock)|
 |20241231|新年快乐！|国会山上空的烟花，渥太华，加拿大 (© naibank/Getty Images)|
 |20241230|四季皆美的公园|多布森湖附近的塔斯马尼亚雪胶和班达尼植物，费尔德山国家公园，塔斯马尼亚，澳大利亚 (© Whitworth Images/Getty Images)|
 |20241229|圣山之上|婆罗浮屠大佛寺，爪哇岛，印度尼西亚 (© Robertharding/Shutterstock)|
