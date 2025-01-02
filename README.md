@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![熠熠生辉的村庄](./archive/20250102.jpg)
+![尽享欢乐时光](./archive/20250103.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250103|尽享欢乐时光|英国拉德克里夫图书馆和万灵学院，牛津大学，英格兰 (© atiger/Shutterstock)|
 |20250102|熠熠生辉的村庄|阿尔德兹村上空的星轨，格劳宾登州，瑞士 (© Roberto Moiola/Getty Images)|
 |20250101|过一个冰雪元旦！|在北极玩耍的北极熊 (© Ondrej Prosicky/Shutterstock)|
 |20241231|新年快乐！|国会山上空的烟花，渥太华，加拿大 (© naibank/Getty Images)|
