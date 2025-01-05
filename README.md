@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![树梢上的焦点](./archive/20250105.jpg)
+![神圣的深渊](./archive/20250106.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250106|神圣的深渊|被水淹没的地下室，圣弗朗西斯大教堂，拉文纳，意大利 (© Andrea Pucci/Getty Images)|
 |20250105|树梢上的焦点|希莫加的紫红头鹦鹉，卡纳塔克邦，印度 (© Hira Punjabi/Alamy Stock Photo)|
 |20250104|边境天堂|归春河上的板约-德天瀑布，中国与越南边境 (© Shane P. White/Minden Pictures)|
 |20250103|尽享欢乐时光|英国拉德克里夫图书馆和万灵学院，牛津大学，英格兰 (© atiger/Shutterstock)|
