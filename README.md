@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![神圣的深渊](./archive/20250106.jpg)
+![岩石与滚石](./archive/20250107.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250107|岩石与滚石|日落时的摩拉基大圆石，南岛，新西兰 (© Douglas Pearson/eStock Photo)|
 |20250106|神圣的深渊|被水淹没的地下室，圣弗朗西斯大教堂，拉文纳，意大利 (© Andrea Pucci/Getty Images)|
 |20250105|树梢上的焦点|希莫加的紫红头鹦鹉，卡纳塔克邦，印度 (© Hira Punjabi/Alamy Stock Photo)|
 |20250104|边境天堂|归春河上的板约-德天瀑布，中国与越南边境 (© Shane P. White/Minden Pictures)|
