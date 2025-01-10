@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![冰层中气泡奇观](./archive/20250110.jpg)
+![旧时代的古老拱门](./archive/20250111.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250111|旧时代的古老拱门|梅克内斯的Heri es-Swani，摩洛哥 (© Calin Stan/Shutterstock)|
 |20250110|冰层中气泡奇观|亚伯拉罕湖，阿尔伯塔省，加拿大 (© Basic Elements Photography/Getty Images)|
 |20250109|变换的地平线|苏丝斯黎沙丘，纳米布沙漠，纳米比亚 (© Airpano/Amazing Aerial Agency)|
 |20250108|银装素裹，巍峨壮丽|被雪覆盖的长城，中国 (© View Stock/Alamy Stock Photo)|
