@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![旧时代的古老拱门](./archive/20250111.jpg)
+![深海中的锐利目光](./archive/20250112.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250112|深海中的锐利目光|大堡礁的宝石大眼鲷鱼，澳大利亚 (© Fred Bavendam/Minden Pictures)|
 |20250111|旧时代的古老拱门|梅克内斯的Heri es-Swani，摩洛哥 (© Calin Stan/Shutterstock)|
 |20250110|冰层中气泡奇观|亚伯拉罕湖，阿尔伯塔省，加拿大 (© Basic Elements Photography/Getty Images)|
 |20250109|变换的地平线|苏丝斯黎沙丘，纳米布沙漠，纳米比亚 (© Airpano/Amazing Aerial Agency)|
