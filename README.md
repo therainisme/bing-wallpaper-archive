@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![深海中的锐利目光](./archive/20250112.jpg)
+![“威尔士”祝你新年快乐！](./archive/20250113.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250113|“威尔士”祝你新年快乐！|小屋和特尔莫尔灯塔，兰德温岛，威尔士，英国 (© Westend61 on Offset/Shutterstock)|
 |20250112|深海中的锐利目光|大堡礁的宝石大眼鲷鱼，澳大利亚 (© Fred Bavendam/Minden Pictures)|
 |20250111|旧时代的古老拱门|梅克内斯的Heri es-Swani，摩洛哥 (© Calin Stan/Shutterstock)|
 |20250110|冰层中气泡奇观|亚伯拉罕湖，阿尔伯塔省，加拿大 (© Basic Elements Photography/Getty Images)|
