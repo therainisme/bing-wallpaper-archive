@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![魔鬼与自然的气息](./archive/20250115.jpg)
+![诞生于火，历久弥坚](./archive/20250116.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250116|诞生于火，历久弥坚|尖峰国家公园的高峰步道，圣贝尼托县，加利福尼亚州，美国 (© yhelfman/Getty Images)|
 |20250115|魔鬼与自然的气息|Pointe du Diable，圣皮埃尔，留尼汪岛 (© MONTICO Lionel/Alamy)|
 |20250114|宁静之地|Village of Zahara de la Sierra, Cádiz province, Spain (© SEN LI/Getty Images)|
 |20250113|“威尔士”祝你新年快乐！|小屋和特尔莫尔灯塔，兰德温岛，威尔士，英国 (© Westend61 on Offset/Shutterstock)|
