@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![完美的囊袋](./archive/20250117.jpg)
+![1,001座白色沙丘](./archive/20250118.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250118|1,001座白色沙丘|白沙国家公园的日落，新墨西哥州，美国 (© Image Professionals GmbH/Alamy Stock Photo)|
 |20250117|完美的囊袋|褐鹈鹕，圣地亚哥，加利福尼亚州，美国 (© Arthur Morris/BIRDS AS ART/Getty Images)|
 |20250116|诞生于火，历久弥坚|尖峰国家公园的高峰步道，圣贝尼托县，加利福尼亚州，美国 (© yhelfman/Getty Images)|
 |20250115|魔鬼与自然的气息|Pointe du Diable，圣皮埃尔，留尼汪岛 (© MONTICO Lionel/Alamy)|
