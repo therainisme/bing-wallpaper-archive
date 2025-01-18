@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![1,001座白色沙丘](./archive/20250118.jpg)
+![一座适合神居住的石窟](./archive/20250119.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250119|一座适合神居住的石窟|海王星石窟，撒丁岛， 意大利 (© Carlo Murenu/Getty Images)|
 |20250118|1,001座白色沙丘|白沙国家公园的日落，新墨西哥州，美国 (© Image Professionals GmbH/Alamy Stock Photo)|
 |20250117|完美的囊袋|褐鹈鹕，圣地亚哥，加利福尼亚州，美国 (© Arthur Morris/BIRDS AS ART/Getty Images)|
 |20250116|诞生于火，历久弥坚|尖峰国家公园的高峰步道，圣贝尼托县，加利福尼亚州，美国 (© yhelfman/Getty Images)|
