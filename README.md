@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![迷人的海湾风光](./archive/20250121.jpg)
+![在失落之城发现美](./archive/20250122.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250122|在失落之城发现美|代尔修道院，佩特拉，约旦 (© Punnawit Suwuttananun/Getty Images)|
 |20250121|迷人的海湾风光|俯瞰那不勒斯湾和维苏威火山，意大利 (© ezypix/Getty Images)|
 |20250120|松鼠之趣|欧亚红松鼠与毒蘑菇 (© Edwin Giesbers/Minden Pictures)|
 |20250119|一座适合神居住的石窟|海王星石窟，撒丁岛， 意大利 (© Carlo Murenu/Getty Images)|
