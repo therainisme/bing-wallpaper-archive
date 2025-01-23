@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![电影、山脉和魔法](./archive/20250123.jpg)
+![力量沸腾](./archive/20250124.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250124|力量沸腾|冰岛的史托克间歇泉 (© John and Tina Reid/Getty Images)|
 |20250123|电影、山脉和魔法|黄昏时的鹿谷，帕克城，犹他州，美国 (© Adventure_Photo/Getty Images)|
 |20250122|在失落之城发现美|代尔修道院，佩特拉，约旦 (© Punnawit Suwuttananun/Getty Images)|
 |20250121|迷人的海湾风光|俯瞰那不勒斯湾和维苏威火山，意大利 (© ezypix/Getty Images)|
