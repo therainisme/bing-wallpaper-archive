@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![波尔图的黄金时刻](./archive/20250125.jpg)
+![优雅地老去](./archive/20250126.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250126|优雅地老去|比利时的欧洲山毛榉森林 (© Philippe Moes/Minden Pictures)|
 |20250125|波尔图的黄金时刻|波尔图，葡萄牙 (© Starcevic/Getty Images)|
 |20250124|力量沸腾|冰岛的史托克间歇泉 (© John and Tina Reid/Getty Images)|
 |20250123|电影、山脉和魔法|黄昏时的鹿谷，帕克城，犹他州，美国 (© Adventure_Photo/Getty Images)|
