@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![优雅地老去](./archive/20250126.jpg)
+![激发你的好奇心](./archive/20250127.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250127|激发你的好奇心|琐罗亚斯德神庙，大峡谷国家公园，亚利桑那州，美国 (© Nick Lake/Tandem Stills + Motion)|
 |20250126|优雅地老去|比利时的欧洲山毛榉森林 (© Philippe Moes/Minden Pictures)|
 |20250125|波尔图的黄金时刻|波尔图，葡萄牙 (© Starcevic/Getty Images)|
 |20250124|力量沸腾|冰岛的史托克间歇泉 (© John and Tina Reid/Getty Images)|
