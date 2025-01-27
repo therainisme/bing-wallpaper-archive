@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![激发你的好奇心](./archive/20250127.jpg)
+![祝您阖家欢乐，万事如意！](./archive/20250128.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250128|祝您阖家欢乐，万事如意！|夜空中的烟花表演，长沙，湖南省，中国 (© Sino Images/Getty Images)|
 |20250127|激发你的好奇心|琐罗亚斯德神庙，大峡谷国家公园，亚利桑那州，美国 (© Nick Lake/Tandem Stills + Motion)|
 |20250126|优雅地老去|比利时的欧洲山毛榉森林 (© Philippe Moes/Minden Pictures)|
 |20250125|波尔图的黄金时刻|波尔图，葡萄牙 (© Starcevic/Getty Images)|
