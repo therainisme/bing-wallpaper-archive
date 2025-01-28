@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![祝您阖家欢乐，万事如意！](./archive/20250128.jpg)
+![春节快乐！](./archive/20250129.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250129|春节快乐！|南京夫子庙的春节许愿牌，江苏省，中国 (© lazy dragon/Shutterstock)|
 |20250128|祝您阖家欢乐，万事如意！|夜空中的烟花表演，长沙，湖南省，中国 (© Sino Images/Getty Images)|
 |20250127|激发你的好奇心|琐罗亚斯德神庙，大峡谷国家公园，亚利桑那州，美国 (© Nick Lake/Tandem Stills + Motion)|
 |20250126|优雅地老去|比利时的欧洲山毛榉森林 (© Philippe Moes/Minden Pictures)|
