@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![再次冲向战斗](./archive/20250130.jpg)
+![一点都不普通](./archive/20250131.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250131|一点都不普通|日出时的平原斑马，莫卡拉国家公园，南非 (© EcoPrint/Shutterstock)|
 |20250130|再次冲向战斗|罗兰多山口，奥德萨和佩迪多山国家公园，西班牙 (© Inaki Relanzon/Nature Picture Library/Alamy Stock Photo)|
 |20250129|春节快乐！|南京夫子庙的春节许愿牌，江苏省，中国 (© lazy dragon/Shutterstock)|
 |20250128|祝您阖家欢乐，万事如意！|夜空中的烟花表演，长沙，湖南省，中国 (© Sino Images/Getty Images)|
