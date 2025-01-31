@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![一点都不普通](./archive/20250131.jpg)
+![雪与石](./archive/20250201.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250201|雪与石|国王岩堡垒 , 瑞士撒克逊, 德国 (© Bildagentur-online/Exss/Alamy)|
 |20250131|一点都不普通|日出时的平原斑马，莫卡拉国家公园，南非 (© EcoPrint/Shutterstock)|
 |20250130|再次冲向战斗|罗兰多山口，奥德萨和佩迪多山国家公园，西班牙 (© Inaki Relanzon/Nature Picture Library/Alamy Stock Photo)|
 |20250129|春节快乐！|南京夫子庙的春节许愿牌，江苏省，中国 (© lazy dragon/Shutterstock)|
