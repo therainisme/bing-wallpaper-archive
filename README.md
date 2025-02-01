@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![雪与石](./archive/20250201.jpg)
+![天气预报还是运气预报？](./archive/20250202.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250202|天气预报还是运气预报？|年幼的高山土拨鼠 (© Jonas Fichtner-Pflaum/Getty Images)|
 |20250201|雪与石|国王岩堡垒 , 瑞士撒克逊, 德国 (© Bildagentur-online/Exss/Alamy)|
 |20250131|一点都不普通|日出时的平原斑马，莫卡拉国家公园，南非 (© EcoPrint/Shutterstock)|
 |20250130|再次冲向战斗|罗兰多山口，奥德萨和佩迪多山国家公园，西班牙 (© Inaki Relanzon/Nature Picture Library/Alamy Stock Photo)|
