@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![春光明媚的日子](./archive/20250203.jpg)
+![云端漫步](./archive/20250204.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250204|云端漫步|金桥，巴拿山，岘港，越南 (© Hien Phung Thu/Shutterstock)|
 |20250203|春光明媚的日子|盛开的樱花树上的红头长尾山雀 (© Haitong Yu/Getty Images)|
 |20250202|天气预报还是运气预报？|年幼的高山土拨鼠 (© Jonas Fichtner-Pflaum/Getty Images)|
 |20250201|雪与石|国王岩堡垒 , 瑞士撒克逊, 德国 (© Bildagentur-online/Exss/Alamy)|
