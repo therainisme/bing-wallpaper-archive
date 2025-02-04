@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![云端漫步](./archive/20250204.jpg)
+![对国家遗产的思考](./archive/20250205.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250205|对国家遗产的思考|拱门群岛，瓦拉里基海滩，南岛，新西兰 (© Francesco Vaninetti/AWL/plainpicture)|
 |20250204|云端漫步|金桥，巴拿山，岘港，越南 (© Hien Phung Thu/Shutterstock)|
 |20250203|春光明媚的日子|盛开的樱花树上的红头长尾山雀 (© Haitong Yu/Getty Images)|
 |20250202|天气预报还是运气预报？|年幼的高山土拨鼠 (© Jonas Fichtner-Pflaum/Getty Images)|
