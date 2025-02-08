@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![凝固的时光](./archive/20250208.jpg)
+![值得深思的高地](./archive/20250209.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250209|值得深思的高地|阿尔斯特罗姆角，鲍威尔湖，犹他州，美国 (© T.M. Schultze/TANDEM Stills + Motion)|
 |20250208|凝固的时光|梅斯蒂亚的中世纪塔楼，上斯瓦涅季，格鲁吉亚 (© photoaliona/Getty Images)|
 |20250207|沉浸在蓝调时分|特隆赫姆的蓝色时刻，挪威 (© Jeanny Mueller/Getty Images)|
 |20250206|对国家遗产的思考|拱门群岛，瓦拉里基海滩，南岛，新西兰 (© Francesco Vaninetti/AWL/plainpicture)|
