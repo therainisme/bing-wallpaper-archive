@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![值得深思的高地](./archive/20250209.jpg)
+![在伞下](./archive/20250210.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250210|在伞下|雨伞艺术装置，博罗市场，伦敦，英国 (© Malcolm P Chapman/Getty Images)|
 |20250209|值得深思的高地|阿尔斯特罗姆角，鲍威尔湖，犹他州，美国 (© T.M. Schultze/TANDEM Stills + Motion)|
 |20250208|凝固的时光|梅斯蒂亚的中世纪塔楼，上斯瓦涅季，格鲁吉亚 (© photoaliona/Getty Images)|
 |20250207|沉浸在蓝调时分|特隆赫姆的蓝色时刻，挪威 (© Jeanny Mueller/Getty Images)|
