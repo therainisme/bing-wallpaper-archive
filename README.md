@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![在伞下](./archive/20250210.jpg)
+![历史的守望之眼](./archive/20250211.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250211|历史的守望之眼|云冈石窟，大同，山西省，中国 (© Eric Yang/Getty Images)|
 |20250210|在伞下|雨伞艺术装置，博罗市场，伦敦，英国 (© Malcolm P Chapman/Getty Images)|
 |20250209|值得深思的高地|阿尔斯特罗姆角，鲍威尔湖，犹他州，美国 (© T.M. Schultze/TANDEM Stills + Motion)|
 |20250208|凝固的时光|梅斯蒂亚的中世纪塔楼，上斯瓦涅季，格鲁吉亚 (© photoaliona/Getty Images)|
