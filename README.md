@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![历史的守望之眼](./archive/20250211.jpg)
+![喜气洋洋的元宵节](./archive/20250212.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250212|喜气洋洋的元宵节|上海豫园的灯会，元宵节，上海市，中国 (© atiger/Shutterstock)|
 |20250211|历史的守望之眼|云冈石窟，大同，山西省，中国 (© Eric Yang/Getty Images)|
 |20250210|在伞下|雨伞艺术装置，博罗市场，伦敦，英国 (© Malcolm P Chapman/Getty Images)|
 |20250209|值得深思的高地|阿尔斯特罗姆角，鲍威尔湖，犹他州，美国 (© T.M. Schultze/TANDEM Stills + Motion)|
