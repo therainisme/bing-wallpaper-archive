@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![喜气洋洋的元宵节](./archive/20250212.jpg)
+![大地之盐](./archive/20250213.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250213|大地之盐|泰瑞尔湖，维多利亚州，澳大利亚 (© Monica Bertolazzi/Getty Images)|
 |20250212|喜气洋洋的元宵节|上海豫园的灯会，元宵节，上海市，中国 (© atiger/Shutterstock)|
 |20250211|历史的守望之眼|云冈石窟，大同，山西省，中国 (© Eric Yang/Getty Images)|
 |20250210|在伞下|雨伞艺术装置，博罗市场，伦敦，英国 (© Malcolm P Chapman/Getty Images)|
