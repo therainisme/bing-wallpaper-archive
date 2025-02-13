@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![大地之盐](./archive/20250213.jpg)
+![瞧这对恩爱的情侣](./archive/20250214.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250214|瞧这对恩爱的情侣|两只麦哲伦企鹅，福克兰群岛 (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)|
 |20250213|大地之盐|泰瑞尔湖，维多利亚州，澳大利亚 (© Monica Bertolazzi/Getty Images)|
 |20250212|喜气洋洋的元宵节|上海豫园的灯会，元宵节，上海市，中国 (© atiger/Shutterstock)|
 |20250211|历史的守望之眼|云冈石窟，大同，山西省，中国 (© Eric Yang/Getty Images)|
