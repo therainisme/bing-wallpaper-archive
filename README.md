@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![冰雪奇景](./archive/20250215.jpg)
+![守护海洋巨兽](./archive/20250216.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250216|守护海洋巨兽|座头鲸妈妈和宝宝，汤加 (© Chase Dekker/Minden Pictures)|
 |20250215|冰雪奇景|三十槌冰柱，秩父市，日本 (© watayu0821/shutterstock)|
 |20250214|瞧这对恩爱的情侣|两只麦哲伦企鹅，福克兰群岛 (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)|
 |20250213|大地之盐|泰瑞尔湖，维多利亚州，澳大利亚 (© Monica Bertolazzi/Getty Images)|
