@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![冰雪边界](./archive/20250217.jpg)
+![无尽的蓝色](./archive/20250218.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250218|无尽的蓝色|大蓝洞，伯利兹 (© JamiesOnAMission/Shutterstock)|
 |20250217|冰雪边界|Coll d'Ares，加泰罗尼亚比利牛斯​​山脉 (© CRISTIAN IONUT ZAHARIA/Shutterstock)|
 |20250216|守护海洋巨兽|座头鲸妈妈和宝宝，汤加 (© Chase Dekker/Minden Pictures)|
 |20250215|冰雪奇景|三十槌冰柱，秩父市，日本 (© watayu0821/shutterstock)|
