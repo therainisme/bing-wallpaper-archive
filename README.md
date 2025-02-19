@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![水獭的另一面](./archive/20250219.jpg)
+![高贵的双影](./archive/20250220.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250220|高贵的双影|马鹿，加拿大 (© Delbars/Getty Images)|
 |20250219|水獭的另一面|欧亚水獭，莱利斯塔德，荷兰 (© Ernst Dirksen/Minden Pictures)|
 |20250218|无尽的蓝色|大蓝洞，伯利兹 (© JamiesOnAMission/Shutterstock)|
 |20250217|冰雪边界|Coll d'Ares，加泰罗尼亚比利牛斯​​山脉 (© CRISTIAN IONUT ZAHARIA/Shutterstock)|
