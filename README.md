@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![向辉煌迈进](./archive/20250222.jpg)
+![清晨的美好精致](./archive/20250223.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250223|清晨的美好精致|日出时分的富士山, 河口湖, 日本 (© Twenty47studio/Getty Images)|
 |20250222|向辉煌迈进|圣路易斯拱门, 密苏里州, 美国 (© f11photo/Getty Images)|
 |20250221|静水流深的传说|希莫加附近的 Champaka Sarasi 池塘，卡纳塔克邦，印度 (© Amith Nag Photography/Getty Images)|
 |20250220|高贵的双影|马鹿，加拿大 (© Delbars/Getty Images)|
