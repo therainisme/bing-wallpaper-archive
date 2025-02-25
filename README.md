@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![风蚀石们的问候](./archive/20250225.jpg)
+![苏格兰战略的最佳体现](./archive/20250226.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250226|苏格兰战略的最佳体现|莱奇湖上的斯托克尔城堡，阿盖尔郡，苏格兰 (© WLDavies/Getty Images)|
 |20250225|风蚀石们的问候|砂岩石柱，布莱斯峡谷国家公园，犹他州，美国 (© Stephen Matera/TANDEM Stills + Motion)|
 |20250224|墨迹与伪装|斯潘塞湾的一群伞膜乌贼, 怀阿拉,南澳大利亚 (© Gary Bell/Minden Pictures)|
 |20250223|清晨的美好精致|日出时分的富士山, 河口湖, 日本 (© Twenty47studio/Getty Images)|
