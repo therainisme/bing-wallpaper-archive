@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![在虎穴小憩](./archive/20250228.jpg)
+![天空之镜](./archive/20250301.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250301|天空之镜|玛琳湖精灵岛上空的北极光，贾斯珀国家公园，加拿大 (© Mumemories/Getty Images)|
 |20250228|在虎穴小憩|虎穴寺，不丹 (© Baron Reznik/Getty Images)|
 |20250227|极地关怀|北极熊幼崽，丘吉尔，马尼托巴省，加拿大 (© Eric Baccega/NPL/Minden Pictures)|
 |20250226|苏格兰战略的最佳体现|莱奇湖上的斯托克尔城堡，阿盖尔郡，苏格兰 (© WLDavies/Getty Images)|
