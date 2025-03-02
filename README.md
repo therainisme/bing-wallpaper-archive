@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![桉树奇景](./archive/20250302.jpg)
+![狂热野生](./archive/20250303.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250303|狂热野生|南黄弯嘴犀鸟，克鲁格国家公园 ，南非 (© Richard Du Toit/Minden Pictures)|
 |20250302|桉树奇景|桉树，梅加龙谷，蓝山山脉国家公园，新南威尔士州，澳大利亚 (© Andrew Peacock/TANDEM Stills + Motion)|
 |20250301|天空之镜|玛琳湖精灵岛上空的北极光，贾斯珀国家公园，加拿大 (© Mumemories/Getty Images)|
 |20250228|在虎穴小憩|虎穴寺，不丹 (© Baron Reznik/Getty Images)|
