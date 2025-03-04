@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![马蒂·格拉斯狂欢节](./archive/20250304.jpg)
+![丛林探险](./archive/20250305.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250305|丛林探险|俯瞰拷索山林国家公园，素叻府，泰国 (© Peetatham Kongkapech/Getty Images)|
 |20250304|马蒂·格拉斯狂欢节|杰克逊广场，新奥尔良，路易斯安那州，美国 (© SeanPavonePhoto/Getty Images)|
 |20250303|狂热野生|南黄弯嘴犀鸟，克鲁格国家公园 ，南非 (© Richard Du Toit/Minden Pictures)|
 |20250302|桉树奇景|桉树，梅加龙谷，蓝山山脉国家公园，新南威尔士州，澳大利亚 (© Andrew Peacock/TANDEM Stills + Motion)|
