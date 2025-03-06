@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![岩石间的生存之道](./archive/20250306.jpg)
+![花开中国](./archive/20250307.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250307|花开中国|中国的梅花 (© zhikun sun/Getty Images)|
 |20250306|岩石间的生存之道|沙漠大角羊，内华达州火焰谷州立公园，美国 (© Rachid Dahnoun/Cavan Images)|
 |20250305|丛林探险|俯瞰拷索山林国家公园，素叻府，泰国 (© Peetatham Kongkapech/Getty Images)|
 |20250304|马蒂·格拉斯狂欢节|杰克逊广场，新奥尔良，路易斯安那州，美国 (© SeanPavonePhoto/Getty Images)|
