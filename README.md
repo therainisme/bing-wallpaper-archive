@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![花开中国](./archive/20250307.jpg)
+![原始纯净的自然天堂](./archive/20250308.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250308|原始纯净的自然天堂|石勒苏益格-荷尔斯泰因州瓦登海国家公园，德国 (© 3quarks/Getty Images)|
 |20250307|花开中国|中国的梅花 (© zhikun sun/Getty Images)|
 |20250306|岩石间的生存之道|沙漠大角羊，内华达州火焰谷州立公园，美国 (© Rachid Dahnoun/Cavan Images)|
 |20250305|丛林探险|俯瞰拷索山林国家公园，素叻府，泰国 (© Peetatham Kongkapech/Getty Images)|
