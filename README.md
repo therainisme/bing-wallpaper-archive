@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![时间的步伐](./archive/20250309.jpg)
+![小睡片刻，再征服世界](./archive/20250310.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250310|小睡片刻，再征服世界|在伊沙沙区里正在睡觉的狮子，伊丽莎白女王国家公园，乌干达 (© Gunter Nuyts/Getty Images)|
 |20250309|时间的步伐|圣马可钟楼，威尼斯，意大利 (© scaliger/Getty Images)|
 |20250308|原始纯净的自然天堂|石勒苏益格-荷尔斯泰因州瓦登海国家公园，德国 (© 3quarks/Getty Images)|
 |20250307|花开中国|中国的梅花 (© zhikun sun/Getty Images)|
