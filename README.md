@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![小睡片刻，再征服世界](./archive/20250310.jpg)
+![大海的非凡造化](./archive/20250311.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250311|大海的非凡造化|努沙佩尼达岛的破碎海滩, 巴厘岛, 印度尼西亚 (© joakimbkk/Getty Images)|
 |20250310|小睡片刻，再征服世界|在伊沙沙区里正在睡觉的狮子，伊丽莎白女王国家公园，乌干达 (© Gunter Nuyts/Getty Images)|
 |20250309|时间的步伐|圣马可钟楼，威尼斯，意大利 (© scaliger/Getty Images)|
 |20250308|原始纯净的自然天堂|石勒苏益格-荷尔斯泰因州瓦登海国家公园，德国 (© 3quarks/Getty Images)|
