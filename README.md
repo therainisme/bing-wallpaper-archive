@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![屹立不倒](./archive/20250312.jpg)
+![洒满色彩的欢乐](./archive/20250313.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250313|洒满色彩的欢乐|洒红节庆祝活动，斋浦尔，印度 (© powerofforever/Getty Images)|
 |20250312|屹立不倒|卢瓦尔河畔叙利城堡, 卢瓦尔中心省, 法国 (© StockPhotoAstur/Shutterstock)|
 |20250311|大海的非凡造化|努沙佩尼达岛的破碎海滩, 巴厘岛, 印度尼西亚 (© joakimbkk/Getty Images)|
 |20250310|小睡片刻，再征服世界|在伊沙沙区里正在睡觉的狮子，伊丽莎白女王国家公园，乌干达 (© Gunter Nuyts/Getty Images)|
