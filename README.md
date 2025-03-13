@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![洒满色彩的欢乐](./archive/20250313.jpg)
+![天空中的圆周率](./archive/20250314.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250314|天空中的圆周率|索尔吉奈特克斯的巨石墓，巴斯克地区，阿拉瓦省，西班牙 (© David Herraez Calzada/plainpicture)|
 |20250313|洒满色彩的欢乐|洒红节庆祝活动，斋浦尔，印度 (© powerofforever/Getty Images)|
 |20250312|屹立不倒|卢瓦尔河畔叙利城堡, 卢瓦尔中心省, 法国 (© StockPhotoAstur/Shutterstock)|
 |20250311|大海的非凡造化|努沙佩尼达岛的破碎海滩, 巴厘岛, 印度尼西亚 (© joakimbkk/Getty Images)|
