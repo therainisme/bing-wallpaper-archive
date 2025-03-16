@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![回归黑白世界](./archive/20250316.jpg)
+![圣帕特里克节的魅力](./archive/20250317.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250317|圣帕特里克节的魅力|塞缪尔·贝克特桥, 都柏林, 爱尔兰 (© Colm Keating/Tandem Stills + Motion)|
 |20250316|回归黑白世界|雪地里的大熊猫宝宝，中国 (© Cheryl Schneider/Alamy Stock Photo)|
 |20250315|“朋友们，罗马人，同胞们…”|罗马广场上的罗马萨图尔诺农神庙，罗马，意大利 (© Nico De Pasquale Photography/Getty Images)|
 |20250314|天空中的圆周率|索尔吉奈特克斯的巨石墓，巴斯克地区，阿拉瓦省，西班牙 (© David Herraez Calzada/plainpicture)|
