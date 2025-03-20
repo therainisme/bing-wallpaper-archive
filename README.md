@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![春日仙境](./archive/20250320.jpg)
+![树木万岁](./archive/20250321.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250321|树木万岁|低地雨林上空的薄雾，丹浓谷，沙巴，婆罗洲，马来西亚 (© Nick Garbutt/Alamy)|
 |20250320|春日仙境|美丽盛开的樱花，杭州的春天，中国 (© zhang shuang/Getty Images)|
 |20250319|伞状捕猎术|黑鹭捕鱼，乔贝国家公园，博茨瓦纳 (© Paul Souders/Minden PIctures)|
 |20250318|漩涡般的心境|红色岩层，塞多纳，亚利桑那州，美国 (© Jim Ekstrand/Alamy Stock Photo)|
