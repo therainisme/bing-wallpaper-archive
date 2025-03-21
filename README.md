@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![树木万岁](./archive/20250321.jpg)
+![水的奇妙世界！](./archive/20250322.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250322|水的奇妙世界！|尼特哈天然井水面上的睡莲，图卢姆，墨西哥 (© Franco Banfi/NPL/Minden)|
 |20250321|树木万岁|低地雨林上空的薄雾，丹浓谷，沙巴，婆罗洲，马来西亚 (© Nick Garbutt/Alamy)|
 |20250320|春日仙境|美丽盛开的樱花，杭州的春天，中国 (© zhang shuang/Getty Images)|
 |20250319|伞状捕猎术|黑鹭捕鱼，乔贝国家公园，博茨瓦纳 (© Paul Souders/Minden PIctures)|
