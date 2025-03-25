@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![色彩斑斓的访客](./archive/20250325.jpg)
+![水面下的生命](./archive/20250326.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250326|水面下的生命|水晶河的海牛，佛罗里达州，美国 (© Stephen Frink/Getty Images)|
 |20250325|色彩斑斓的访客|向日葵田里的红额金翅雀，德国 (© Juniors Bildarchiv GmbH/Alamy)|
 |20250324|高草盛宴|沙漠象与小象在高高的草丛中觅食，纳米比亚 (© Christophe Courteau/Minden Pictures)|
 |20250323|雷鸣不可阻挡|鲍曼附近日落时分的闪电和风暴云，布拉斯加州，美国 (© john finney photography/Getty Images)|
