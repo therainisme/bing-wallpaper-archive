@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![水面下的生命](./archive/20250326.jpg)
+![向戏剧致敬](./archive/20250327.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250327|向戏剧致敬|希罗德·阿提库斯剧场，雅典卫城，希腊 (© f11photo/Getty Images)|
 |20250326|水面下的生命|水晶河的海牛，佛罗里达州，美国 (© Stephen Frink/Getty Images)|
 |20250325|色彩斑斓的访客|向日葵田里的红额金翅雀，德国 (© Juniors Bildarchiv GmbH/Alamy)|
 |20250324|高草盛宴|沙漠象与小象在高高的草丛中觅食，纳米比亚 (© Christophe Courteau/Minden Pictures)|
