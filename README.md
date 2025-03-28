@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![温暖舒适的摇篮](./archive/20250328.jpg)
+![花海绽放](./archive/20250329.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250329|花海绽放|卡里佐平原国家纪念碑的超级花期，加利福尼亚州，美国 (© Robb Hirsch/TANDEM Stills + Motion)|
 |20250328|温暖舒适的摇篮|正在筑巢的雌性黑枕王鹟 (© komkrit tonusin/Alamy)|
 |20250327|向戏剧致敬|希罗德·阿提库斯剧场，雅典卫城，希腊 (© f11photo/Getty Images)|
 |20250326|水面下的生命|水晶河的海牛，佛罗里达州，美国 (© Stephen Frink/Getty Images)|
