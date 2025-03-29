@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![花海绽放](./archive/20250329.jpg)
+![尽享美景](./archive/20250330.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250330|尽享美景|悉尼港鸟瞰图，新南威尔士州，澳大利亚 (© jamenpercy/Getty Images)|
 |20250329|花海绽放|卡里佐平原国家纪念碑的超级花期，加利福尼亚州，美国 (© Robb Hirsch/TANDEM Stills + Motion)|
 |20250328|温暖舒适的摇篮|正在筑巢的雌性黑枕王鹟 (© komkrit tonusin/Alamy)|
 |20250327|向戏剧致敬|希罗德·阿提库斯剧场，雅典卫城，希腊 (© f11photo/Getty Images)|
