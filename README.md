@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![普利亚的“白色之城”](./archive/20250331.jpg)
+![蹦跳迎接国家青蛙月](./archive/20250401.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250401|蹦跳迎接国家青蛙月|树蛙, 哥斯达黎加 (© Ondrej Prosicky/Shutterstock)|
 |20250331|普利亚的“白色之城”|黄昏下的奥斯图尼, 普利亚, 意大利 (© Feng Wei Photography/Getty Images)|
 |20250330|尽享美景|悉尼港鸟瞰图，新南威尔士州，澳大利亚 (© jamenpercy/Getty Images)|
 |20250329|花海绽放|卡里佐平原国家纪念碑的超级花期，加利福尼亚州，美国 (© Robb Hirsch/TANDEM Stills + Motion)|
