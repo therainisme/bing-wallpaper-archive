@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![蹦跳迎接国家青蛙月](./archive/20250401.jpg)
+![时间的波浪](./archive/20250402.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250402|时间的波浪|凯恩维尔附近荒地的砂岩地层, 犹他州, 美国 (© Chris Moore/TANDEM Stills + Motion)|
 |20250401|蹦跳迎接国家青蛙月|树蛙, 哥斯达黎加 (© Ondrej Prosicky/Shutterstock)|
 |20250331|普利亚的“白色之城”|黄昏下的奥斯图尼, 普利亚, 意大利 (© Feng Wei Photography/Getty Images)|
 |20250330|尽享美景|悉尼港鸟瞰图，新南威尔士州，澳大利亚 (© jamenpercy/Getty Images)|
