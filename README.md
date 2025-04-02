@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![时间的波浪](./archive/20250402.jpg)
+![天空无极限](./archive/20250403.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250403|天空无极限|沃森峰上空的彩虹, 巨人柱国家公园, 亚利桑那州, 美国 (© Frank Staub/Getty Images)|
 |20250402|时间的波浪|凯恩维尔附近荒地的砂岩地层, 犹他州, 美国 (© Chris Moore/TANDEM Stills + Motion)|
 |20250401|蹦跳迎接国家青蛙月|树蛙, 哥斯达黎加 (© Ondrej Prosicky/Shutterstock)|
 |20250331|普利亚的“白色之城”|黄昏下的奥斯图尼, 普利亚, 意大利 (© Feng Wei Photography/Getty Images)|
