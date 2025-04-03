@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![天空无极限](./archive/20250403.jpg)
+![春和景明](./archive/20250404.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250404|春和景明|苏州古镇风景，江苏省，中国 (© gyn9038/Getty Images)|
 |20250403|天空无极限|沃森峰上空的彩虹, 巨人柱国家公园, 亚利桑那州, 美国 (© Frank Staub/Getty Images)|
 |20250402|时间的波浪|凯恩维尔附近荒地的砂岩地层, 犹他州, 美国 (© Chris Moore/TANDEM Stills + Motion)|
 |20250401|蹦跳迎接国家青蛙月|树蛙, 哥斯达黎加 (© Ondrej Prosicky/Shutterstock)|
