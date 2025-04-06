@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![伦敦最尖锐的地标](./archive/20250406.jpg)
+![你好，海狸！](./archive/20250407.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250407|你好，海狸！|美洲海狸, Moran, 怀俄明州, 美国 (© Enrique Aguirre Aves/Getty Images)|
 |20250406|伦敦最尖锐的地标|碎片大厦，伦敦 (© Dennis Fischer Photography/Moment/Getty Images)|
 |20250405|朝圣圣胡安·德·加兹特鲁加特|日落时分的加兹特鲁加特岛 , 巴斯克地区, 西班牙 (© Eloi_Omella/Getty Images)|
 |20250404|春和景明|苏州古镇风景，江苏省，中国 (© gyn9038/Getty Images)|
