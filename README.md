@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![芬芳清新的春天](./archive/20250408.jpg)
+![在繁星闪耀之前](./archive/20250409.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250409|在繁星闪耀之前|纳克索斯岛的蓝色时刻，基克拉泽斯群岛，希腊 (© Sizun Eye/Getty Images)|
 |20250408|芬芳清新的春天|春天的水仙花在清晨绽放 (© LedyX/Shutterstock)|
 |20250407|你好，海狸！|美洲海狸, Moran, 怀俄明州, 美国 (© Enrique Aguirre Aves/Getty Images)|
 |20250406|伦敦最尖锐的地标|碎片大厦，伦敦 (© Dennis Fischer Photography/Moment/Getty Images)|
