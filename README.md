@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![野性本能](./archive/20250410.jpg)
+![盛放的美好时光](./archive/20250411.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250411|盛放的美好时光|郁金香，荷兰 (© 1111IESPDJ/Getty Images)|
 |20250410|野性本能|靠近巢穴的红狐幼崽 (© WildMedia/Shutterstock)|
 |20250409|在繁星闪耀之前|纳克索斯岛的蓝色时刻，基克拉泽斯群岛，希腊 (© Sizun Eye/Getty Images)|
 |20250408|芬芳清新的春天|春天的水仙花在清晨绽放 (© LedyX/Shutterstock)|
