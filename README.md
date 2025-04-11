@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![盛放的美好时光](./archive/20250411.jpg)
+![改变世界的108分钟](./archive/20250412.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250412|改变世界的108分钟|从国际空间站穹顶俯瞰南太平洋 (© NASA)|
 |20250411|盛放的美好时光|郁金香，荷兰 (© 1111IESPDJ/Getty Images)|
 |20250410|野性本能|靠近巢穴的红狐幼崽 (© WildMedia/Shutterstock)|
 |20250409|在繁星闪耀之前|纳克索斯岛的蓝色时刻，基克拉泽斯群岛，希腊 (© Sizun Eye/Getty Images)|
