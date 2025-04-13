@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![让我们一起庆祝宋干节！](./archive/20250413.jpg)
+![追逐开始！](./archive/20250414.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250414|追逐开始！|圣玛丽亚岛附近的大西洋细吻海豚，亚速尔群岛，葡萄牙 (© Jordi Chias/Minden Pictures)|
 |20250413|让我们一起庆祝宋干节！|班克鲁特的唐赛寺，泰国 (© Ratnakorn Piyasirisorost/Getty Images)|
 |20250412|改变世界的108分钟|从国际空间站穹顶俯瞰南太平洋 (© NASA)|
 |20250411|盛放的美好时光|郁金香，荷兰 (© 1111IESPDJ/Getty Images)|
