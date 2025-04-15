@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![梦幻城堡！](./archive/20250415.jpg)
+![时光通道](./archive/20250416.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250416|时光通道|卡奇纳桥，天然桥国家区，犹他州，美国 (© Alan Majchrowicz/Getty Images)|
 |20250415|梦幻城堡！|卡拉奥拉城堡，格拉纳达，西班牙 (© Ugo Mellone/eStock Photo)|
 |20250414|追逐开始！|圣玛丽亚岛附近的大西洋细吻海豚，亚速尔群岛，葡萄牙 (© Jordi Chias/Minden Pictures)|
 |20250413|让我们一起庆祝宋干节！|班克鲁特的唐赛寺，泰国 (© Ratnakorn Piyasirisorost/Getty Images)|
