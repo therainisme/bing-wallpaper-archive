@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![双重戏剧](./archive/20250417.jpg)
+![纪念历史](./archive/20250418.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250418|纪念历史|卡帕多西亚格雷梅国家公园上空的热气球，土耳其 (© Anton Petrus/Getty Images)|
 |20250417|双重戏剧|安第斯动冠伞鸟，厄瓜多尔 (© Kit Day/Alamy Stock Photo)|
 |20250416|时光通道|卡奇纳桥，天然桥国家区，犹他州，美国 (© Alan Majchrowicz/Getty Images)|
 |20250415|梦幻城堡！|卡拉奥拉城堡，格拉纳达，西班牙 (© Ugo Mellone/eStock Photo)|
