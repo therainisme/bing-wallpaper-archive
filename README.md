@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![国家公园周开始了](./archive/20250419.jpg)
+![复活节兔子要来了](./archive/20250420.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250420|复活节兔子要来了|春天里的野生小兔子 (© Fiona McAllister Photography/Getty Images)|
 |20250419|国家公园周开始了|锡安国家公园，犹他州，美国 (© Simon Dannhauer/Getty Images)|
 |20250418|纪念历史|卡帕多西亚格雷梅国家公园上空的热气球，土耳其 (© Anton Petrus/Getty Images)|
 |20250417|双重戏剧|安第斯动冠伞鸟，厄瓜多尔 (© Kit Day/Alamy Stock Photo)|
