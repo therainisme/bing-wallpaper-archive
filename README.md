@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![银河的魔力之下](./archive/20250421.jpg)
+![我们的能源，我们的星球](./archive/20250422.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250422|我们的能源，我们的星球|大棱镜彩泉，黄石国家公园，怀俄明州，美国 (© Ajith Kumar/Getty Images)|
 |20250421|银河的魔力之下|银河下的约书亚树，加利福尼亚州，美国 (© Chao Zhang/Getty Images)|
 |20250420|复活节兔子要来了|春天里的野生小兔子 (© Fiona McAllister Photography/Getty Images)|
 |20250419|国家公园周开始了|锡安国家公园，犹他州，美国 (© Simon Dannhauer/Getty Images)|
