@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![我们的能源，我们的星球](./archive/20250422.jpg)
+![波罗的海的魔力](./archive/20250423.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250423|波罗的海的魔力|海利根港斯坦沃德海滩上的沙滩椅，石勒苏益格-荷尔斯泰因州，德国 (© Frank Lukasseck/eStock Photo)|
 |20250422|我们的能源，我们的星球|大棱镜彩泉，黄石国家公园，怀俄明州，美国 (© Ajith Kumar/Getty Images)|
 |20250421|银河的魔力之下|银河下的约书亚树，加利福尼亚州，美国 (© Chao Zhang/Getty Images)|
 |20250420|复活节兔子要来了|春天里的野生小兔子 (© Fiona McAllister Photography/Getty Images)|
