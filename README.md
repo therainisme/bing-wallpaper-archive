@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![波罗的海的魔力](./archive/20250423.jpg)
+![崎岖山峰与野性水域](./archive/20250424.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250424|崎岖山峰与野性水域|阿拉斯加基奈峡湾国家公园尖顶湾, 阿拉斯加州苏厄德, 美国 (© Wander Photography/Getty Images)|
 |20250423|波罗的海的魔力|海利根港斯坦沃德海滩上的沙滩椅，石勒苏益格-荷尔斯泰因州，德国 (© Frank Lukasseck/eStock Photo)|
 |20250422|我们的能源，我们的星球|大棱镜彩泉，黄石国家公园，怀俄明州，美国 (© Ajith Kumar/Getty Images)|
 |20250421|银河的魔力之下|银河下的约书亚树，加利福尼亚州，美国 (© Chao Zhang/Getty Images)|
