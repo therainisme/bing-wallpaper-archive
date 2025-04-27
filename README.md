@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![就在这里驻足吧](./archive/20250427.jpg)
+![这只黑斑羚正在何处漫游？](./archive/20250428.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250428|这只黑斑羚正在何处漫游？|莫雷米野生动物保护区的高角羚，博茨瓦纳 (© Paul Souders/Getty Images)|
 |20250427|就在这里驻足吧|红木国家公园和州立公园, 加利福尼亚州, 美国 (© Bob Pool/Getty Images)|
 |20250426|悬崖、洞穴与清澈的水域|印第安头湾, 布鲁斯半岛国家公园, 安大略, 加拿大 (© Maurice Prokaziuk/Getty Images)|
 |20250425|身着燕尾服的水手们|麦哲伦企鹅, 志愿者角, 福克兰群岛 (© imageBROKER/Matthias Graben/Getty Images)|
