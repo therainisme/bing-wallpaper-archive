@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![这只黑斑羚正在何处漫游？](./archive/20250428.jpg)
+![几何之美绽放于此](./archive/20250429.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250429|几何之美绽放于此|维朗德里城堡，卢瓦尔河谷，法国 (© Mint Images/Getty Images)|
 |20250428|这只黑斑羚正在何处漫游？|莫雷米野生动物保护区的高角羚，博茨瓦纳 (© Paul Souders/Getty Images)|
 |20250427|就在这里驻足吧|红木国家公园和州立公园, 加利福尼亚州, 美国 (© Bob Pool/Getty Images)|
 |20250426|悬崖、洞穴与清澈的水域|印第安头湾, 布鲁斯半岛国家公园, 安大略, 加拿大 (© Maurice Prokaziuk/Getty Images)|
