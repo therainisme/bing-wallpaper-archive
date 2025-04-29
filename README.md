@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![几何之美绽放于此](./archive/20250429.jpg)
+![瀑布声在各国间回响](./archive/20250430.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250430|瀑布声在各国间回响|从巴拉那州看到的伊瓜苏瀑布, 巴西 (© agustavop/Getty Images)|
 |20250429|几何之美绽放于此|维朗德里城堡，卢瓦尔河谷，法国 (© Mint Images/Getty Images)|
 |20250428|这只黑斑羚正在何处漫游？|莫雷米野生动物保护区的高角羚，博茨瓦纳 (© Paul Souders/Getty Images)|
 |20250427|就在这里驻足吧|红木国家公园和州立公园, 加利福尼亚州, 美国 (© Bob Pool/Getty Images)|
