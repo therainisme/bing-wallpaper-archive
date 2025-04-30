@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![瀑布声在各国间回响](./archive/20250430.jpg)
+![芬芳的传统](./archive/20250501.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250501|芬芳的传统|鸡蛋花，夏威夷，美国 (© Miranda Jans/Getty Images)|
 |20250430|瀑布声在各国间回响|从巴拉那州看到的伊瓜苏瀑布, 巴西 (© agustavop/Getty Images)|
 |20250429|几何之美绽放于此|维朗德里城堡，卢瓦尔河谷，法国 (© Mint Images/Getty Images)|
 |20250428|这只黑斑羚正在何处漫游？|莫雷米野生动物保护区的高角羚，博茨瓦纳 (© Paul Souders/Getty Images)|
