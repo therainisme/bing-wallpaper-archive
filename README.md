@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![芬芳的传统](./archive/20250501.jpg)
+![绿鹭](./archive/20250502.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250502|绿鹭|维多利亚睡莲上的绿鹭，潘塔纳尔 ，巴西 (© Gerald Corsi/Getty Images)|
 |20250501|芬芳的传统|鸡蛋花，夏威夷，美国 (© Miranda Jans/Getty Images)|
 |20250430|瀑布声在各国间回响|从巴拉那州看到的伊瓜苏瀑布, 巴西 (© agustavop/Getty Images)|
 |20250429|几何之美绽放于此|维朗德里城堡，卢瓦尔河谷，法国 (© Mint Images/Getty Images)|
