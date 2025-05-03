@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![让我们一起庆祝宇宙](./archive/20250503.jpg)
+![欢迎来到纳布星球！](./archive/20250504.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250504|欢迎来到纳布星球！|西班牙广场，塞维利亚，西班牙 (© Horia Merla/Getty Images)|
 |20250503|让我们一起庆祝宇宙|拱门国家公园双拱门映衬下的银河，犹他州，美国 (© Adventure_Photo/Getty Images)|
 |20250502|绿鹭|维多利亚睡莲上的绿鹭，潘塔纳尔 ，巴西 (© Gerald Corsi/Getty Images)|
 |20250501|芬芳的传统|鸡蛋花，夏威夷，美国 (© Miranda Jans/Getty Images)|
