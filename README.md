@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![不一般的沙漠之旅](./archive/20250506.jpg)
+![岩石上的城堡](./archive/20250507.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250507|岩石上的城堡|邓路斯城堡，安特里姆郡，北爱尔兰 (© DieterMeyrl/Getty Images)|
 |20250506|不一般的沙漠之旅|一架超轻型飞机飞越纳米比亚沙漠 (© Burt Johnson/Alamy Stock Photo)|
 |20250505|秀美壮丽的山河|日出时分，美丽的喀斯特山脉鸟瞰图，中国桂林 (© zhaojiankang/Getty Images)|
 |20250504|欢迎来到纳布星球！|西班牙广场，塞维利亚，西班牙 (© Horia Merla/Getty Images)|
