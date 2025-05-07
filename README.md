@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![岩石上的城堡](./archive/20250507.jpg)
+![值得大声欢呼的一天](./archive/20250508.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250508|值得大声欢呼的一天|Rhyolite附近山谷中的驴子，内华达州，美国 (© Moelyn Photos/Getty Images)|
 |20250507|岩石上的城堡|邓路斯城堡，安特里姆郡，北爱尔兰 (© DieterMeyrl/Getty Images)|
 |20250506|不一般的沙漠之旅|一架超轻型飞机飞越纳米比亚沙漠 (© Burt Johnson/Alamy Stock Photo)|
 |20250505|秀美壮丽的山河|日出时分，美丽的喀斯特山脉鸟瞰图，中国桂林 (© zhaojiankang/Getty Images)|
