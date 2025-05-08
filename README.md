@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![值得大声欢呼的一天](./archive/20250508.jpg)
+![融入又突出](./archive/20250509.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250509|融入又突出|普通变色龙 (© Photostock-Israel/SPL/Getty Images)|
 |20250508|值得大声欢呼的一天|Rhyolite附近山谷中的驴子，内华达州，美国 (© Moelyn Photos/Getty Images)|
 |20250507|岩石上的城堡|邓路斯城堡，安特里姆郡，北爱尔兰 (© DieterMeyrl/Getty Images)|
 |20250506|不一般的沙漠之旅|一架超轻型飞机飞越纳米比亚沙漠 (© Burt Johnson/Alamy Stock Photo)|
