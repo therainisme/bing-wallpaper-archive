@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![以猫科动物的方式庆祝母爱！](./archive/20250511.jpg)
+![紫色的波浪](./archive/20250512.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250512|紫色的波浪|东京的鸢尾花园, 日本 (© M.Arai/Getty Images)|
 |20250511|以猫科动物的方式庆祝母爱！|豹妈妈正在梳理她的幼崽，Jao保护区，博茨瓦纳 (© Suzi Eszterhas/Minden Pictures)|
 |20250510|童话烟囱！|巴尔德纳斯雷亚尔斯自然公园的卡斯蒂尔德蒂拉，纳瓦拉，西班牙 (© Eloi_Omella/Getty Images)|
 |20250509|融入又突出|普通变色龙 (© Photostock-Israel/SPL/Getty Images)|
