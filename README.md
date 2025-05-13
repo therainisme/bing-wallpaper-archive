@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![66岁，依然美丽动人](./archive/20250513.jpg)
+![矿石与传奇](./archive/20250514.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250514|矿石与传奇|弗拉维亚港, 苏尔西斯-伊格莱西恩特, 撒丁岛, 意大利 (© Marco Bottigelli/Getty Images)|
 |20250513|66岁，依然美丽动人|百内国家公园, 巴塔哥尼亚, 智利 (© Marco Bottigelli/Getty Images)|
 |20250512|紫色的波浪|东京的鸢尾花园, 日本 (© M.Arai/Getty Images)|
 |20250511|以猫科动物的方式庆祝母爱！|豹妈妈正在梳理她的幼崽，Jao保护区，博茨瓦纳 (© Suzi Eszterhas/Minden Pictures)|
