@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![矿石与传奇](./archive/20250514.jpg)
+![伦敦时间到！](./archive/20250515.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250515|伦敦时间到！|大本钟和国会大厦, 威斯敏斯特宫, 伦敦, 英国 (© Puthipong Worasaran/Getty Images)|
 |20250514|矿石与传奇|弗拉维亚港, 苏尔西斯-伊格莱西恩特, 撒丁岛, 意大利 (© Marco Bottigelli/Getty Images)|
 |20250513|66岁，依然美丽动人|百内国家公园, 巴塔哥尼亚, 智利 (© Marco Bottigelli/Getty Images)|
 |20250512|紫色的波浪|东京的鸢尾花园, 日本 (© M.Arai/Getty Images)|
