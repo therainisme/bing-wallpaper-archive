@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![威尼斯式的“甜蜜生活”](./archive/20250517.jpg)
+![图卢兹的暮色](./archive/20250518.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250518|图卢兹的暮色|加龙河对面的圣皮埃尔桥，图卢兹，法国 (© Image Professionals GmbH/Alamy)|
 |20250517|威尼斯式的“甜蜜生活”|威尼斯潟湖中的三角洲, 意大利 (© Dimitri Weber/Amazing Aerial Agency)|
 |20250516|守护濒危生命的一天|大绿金刚鹦鹉, 墨西哥 (© Ondrej Prosicky/Shutterstock)|
 |20250515|伦敦时间到！|大本钟和国会大厦, 威斯敏斯特宫, 伦敦, 英国 (© Puthipong Worasaran/Getty Images)|
