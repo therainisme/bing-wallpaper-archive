@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![汉密尔顿山的蜿蜒之路](./archive/20250519.jpg)
+![小翅膀，大作用](./archive/20250520.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250520|小翅膀，大作用|薰衣草上的蜜蜂 (© Anthony Brown/Alamy Stock Photo)|
 |20250519|汉密尔顿山的蜿蜒之路|汉密尔顿山, 旧金山湾区, 加利福尼亚, 美国 (© Jeffrey Lewis/TANDEM Stills + Motion)|
 |20250518|图卢兹的暮色|加龙河对面的圣皮埃尔桥，图卢兹，法国 (© Image Professionals GmbH/Alamy)|
 |20250517|威尼斯式的“甜蜜生活”|威尼斯潟湖中的三角洲, 意大利 (© Dimitri Weber/Amazing Aerial Agency)|
