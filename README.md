@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![小翅膀，大作用](./archive/20250520.jpg)
+![茶歇时光](./archive/20250521.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250521|茶歇时光|杨家塘村茶园，松阳县，中国 (© feng xu/Getty Images)|
 |20250520|小翅膀，大作用|薰衣草上的蜜蜂 (© Anthony Brown/Alamy Stock Photo)|
 |20250519|汉密尔顿山的蜿蜒之路|汉密尔顿山, 旧金山湾区, 加利福尼亚, 美国 (© Jeffrey Lewis/TANDEM Stills + Motion)|
 |20250518|图卢兹的暮色|加龙河对面的圣皮埃尔桥，图卢兹，法国 (© Image Professionals GmbH/Alamy)|
