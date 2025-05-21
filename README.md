@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![茶歇时光](./archive/20250521.jpg)
+![猴面包树大道](./archive/20250522.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250522|猴面包树大道|日落时分的猴面包树，猴面包树大道，马达加斯加 (© Framalicious/Shutterstock)|
 |20250521|茶歇时光|杨家塘村茶园，松阳县，中国 (© feng xu/Getty Images)|
 |20250520|小翅膀，大作用|薰衣草上的蜜蜂 (© Anthony Brown/Alamy Stock Photo)|
 |20250519|汉密尔顿山的蜿蜒之路|汉密尔顿山, 旧金山湾区, 加利福尼亚, 美国 (© Jeffrey Lewis/TANDEM Stills + Motion)|
