@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![为龟喝彩！](./archive/20250523.jpg)
+![欧洲的野性之美](./archive/20250524.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250524|欧洲的野性之美|挪威尤通黑门山国家公园 (© Marisa Estivill/Shutterstock)|
 |20250523|为龟喝彩！|停在黄头侧颈龟鼻子上的茱莉亚蝶，亚马逊地区，厄瓜多尔 (© Westend61/Getty Images)|
 |20250522|猴面包树大道|日落时分的猴面包树，猴面包树大道，马达加斯加 (© Framalicious/Shutterstock)|
 |20250521|茶歇时光|杨家塘村茶园，松阳县，中国 (© feng xu/Getty Images)|
