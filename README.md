@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![绽放于你所在之地](./archive/20250525.jpg)
+![山间奔驰](./archive/20250526.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250526|山间奔驰|沿着岚山保津川行驶的火车，京都，日本 (© Alvin Huang/Getty Images)|
 |20250525|绽放于你所在之地|布伦特伍德湾的布查特花园，不列颠哥伦比亚省，加拿大 (© 2009fotofriends/Shutterstock)|
 |20250524|欧洲的野性之美|挪威尤通黑门山国家公园 (© Marisa Estivill/Shutterstock)|
 |20250523|为龟喝彩！|停在黄头侧颈龟鼻子上的茱莉亚蝶，亚马逊地区，厄瓜多尔 (© Westend61/Getty Images)|
