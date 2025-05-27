@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![一处海滨奇观](./archive/20250527.jpg)
+![海獭很重要](./archive/20250528.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250528|海獭很重要|一只海獭漂浮在阿拉斯加海洋国家野生动物保护区的海藻床上，美国 (© Gerry Ellis/Minden Pictures)|
 |20250527|一处海滨奇观|梦娜维尔岩池，悉尼，澳大利亚 (© jamenpercy/Getty Images)|
 |20250526|山间奔驰|沿着岚山保津川行驶的火车，京都，日本 (© Alvin Huang/Getty Images)|
 |20250525|绽放于你所在之地|布伦特伍德湾的布查特花园，不列颠哥伦比亚省，加拿大 (© 2009fotofriends/Shutterstock)|
