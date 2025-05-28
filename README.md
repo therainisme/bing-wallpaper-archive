@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![海獭很重要](./archive/20250528.jpg)
+![穿越数个世纪的流淌](./archive/20250529.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250529|穿越数个世纪的流淌|米拉韦特，埃布罗河，加泰罗尼亚塔，西班牙 (© Eloi_Omella/Getty Images)|
 |20250528|海獭很重要|一只海獭漂浮在阿拉斯加海洋国家野生动物保护区的海藻床上，美国 (© Gerry Ellis/Minden Pictures)|
 |20250527|一处海滨奇观|梦娜维尔岩池，悉尼，澳大利亚 (© jamenpercy/Getty Images)|
 |20250526|山间奔驰|沿着岚山保津川行驶的火车，京都，日本 (© Alvin Huang/Getty Images)|
