@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![充满节日氛围节装饰](./archive/20250531.jpg)
+![海底世界](./archive/20250601.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250601|海底世界|格朗特尔岛附近的堡礁，法属新喀里多尼亚 (© Karsten Wrobel/Getty Images)|
 |20250531|充满节日氛围节装饰|用彩色丝线串成的香囊，端午节前夕的庙会上，吉林省吉林市，中国 (© Visual China Group/Getty Images)|
 |20250530|流经烟雾弥漫之地|小鸽子河，大雾山国家公园，田纳西州, 美国 (© GreenStock/Getty Images)|
 |20250529|穿越数个世纪的流淌|米拉韦特，埃布罗河，加泰罗尼亚塔，西班牙 (© Eloi_Omella/Getty Images)|
