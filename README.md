@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![海底世界](./archive/20250601.jpg)
+![花的力量](./archive/20250602.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250602|花的力量|一只停在紫锥菊上的灰蝶，洛克菲勒州立公园，纽约 (© Marianne A. Campolongo/Alamy)|
 |20250601|海底世界|格朗特尔岛附近的堡礁，法属新喀里多尼亚 (© Karsten Wrobel/Getty Images)|
 |20250531|充满节日氛围节装饰|用彩色丝线串成的香囊，端午节前夕的庙会上，吉林省吉林市，中国 (© Visual China Group/Getty Images)|
 |20250530|流经烟雾弥漫之地|小鸽子河，大雾山国家公园，田纳西州, 美国 (© GreenStock/Getty Images)|
