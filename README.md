@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![为快乐而刹车](./archive/20250603.jpg)
+![卡拉卢纳海滩, 撒丁岛, 意大利](./archive/20250604.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250604|卡拉卢纳海滩, 撒丁岛, 意大利|卡拉卢纳海滩, 撒丁岛, 意大利 (© guenterguni/Getty Images)|
 |20250603|为快乐而刹车|乌得勒支桥上的自行车，荷兰 (© George Pachantouris/Getty Images)|
 |20250602|花的力量|一只停在紫锥菊上的灰蝶，洛克菲勒州立公园，纽约 (© Marianne A. Campolongo/Alamy)|
 |20250601|海底世界|格朗特尔岛附近的堡礁，法属新喀里多尼亚 (© Karsten Wrobel/Getty Images)|
