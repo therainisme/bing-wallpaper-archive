@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![卡拉卢纳海滩, 撒丁岛, 意大利](./archive/20250604.jpg)
+![隐藏的美景](./archive/20250605.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250605|隐藏的美景|福玛萨瀑布，迪亚曼蒂纳，巴西 (© Pulsar Images/Alamy)|
 |20250604|卡拉卢纳海滩, 撒丁岛, 意大利|卡拉卢纳海滩, 撒丁岛, 意大利 (© guenterguni/Getty Images)|
 |20250603|为快乐而刹车|乌得勒支桥上的自行车，荷兰 (© George Pachantouris/Getty Images)|
 |20250602|花的力量|一只停在紫锥菊上的灰蝶，洛克菲勒州立公园，纽约 (© Marianne A. Campolongo/Alamy)|
