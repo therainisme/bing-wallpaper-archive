@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![诺曼底登陆日的转折点](./archive/20250606.jpg)
+![走上高远之路](./archive/20250607.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250607|走上高远之路|松山顶峰, 洛杉矶国家森林公园, 加利福尼亚州, 美国 (© Matthew Kuhns/TANDEM Stills + Motion)|
 |20250606|诺曼底登陆日的转折点|诺曼底的阿罗芒什莱班 , 法国 (© Horia Merla/Getty Images)|
 |20250605|隐藏的美景|福玛萨瀑布，迪亚曼蒂纳，巴西 (© Pulsar Images/Alamy)|
 |20250604|卡拉卢纳海滩, 撒丁岛, 意大利|卡拉卢纳海滩, 撒丁岛, 意大利 (© guenterguni/Getty Images)|
