@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![来自彼岸的问候](./archive/20250608.jpg)
+![探索君临城](./archive/20250609.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250609|探索君临城|达尔马提亚的杜布罗夫尼克古城，克罗地亚 (© bluejayphoto/Getty Images)|
 |20250608|来自彼岸的问候|北海狮, 温哥华岛, 不列颠哥伦比亚省, 加拿大 (© Steve Woods Photography/Getty Images)|
 |20250607|走上高远之路|松山顶峰, 洛杉矶国家森林公园, 加利福尼亚州, 美国 (© Matthew Kuhns/TANDEM Stills + Motion)|
 |20250606|诺曼底登陆日的转折点|诺曼底的阿罗芒什莱班 , 法国 (© Horia Merla/Getty Images)|
