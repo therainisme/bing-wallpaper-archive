@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![探索君临城](./archive/20250609.jpg)
+![草之河流](./archive/20250610.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250610|草之河流|大沼泽地国家公园的鸟瞰图，佛罗里达州，美国 (© Robert DelVecchio - OcuDrone/Getty Images)|
 |20250609|探索君临城|达尔马提亚的杜布罗夫尼克古城，克罗地亚 (© bluejayphoto/Getty Images)|
 |20250608|来自彼岸的问候|北海狮, 温哥华岛, 不列颠哥伦比亚省, 加拿大 (© Steve Woods Photography/Getty Images)|
 |20250607|走上高远之路|松山顶峰, 洛杉矶国家森林公园, 加利福尼亚州, 美国 (© Matthew Kuhns/TANDEM Stills + Motion)|
