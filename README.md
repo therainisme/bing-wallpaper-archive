@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![潮汐间的芭蕾](./archive/20250611.jpg)
+![星空、岩石与孤寂](./archive/20250612.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250612|星空、岩石与孤寂|奇索斯山脉，大弯国家公园，德克萨斯州，美国 (© Dean Fikar/Getty Images)|
 |20250611|潮汐间的芭蕾|大红鹳，吕德里茨，纳米比亚 (© Karine Aigner/TANDEM Stills + Motion)|
 |20250610|草之河流|大沼泽地国家公园的鸟瞰图，佛罗里达州，美国 (© Robert DelVecchio - OcuDrone/Getty Images)|
 |20250609|探索君临城|达尔马提亚的杜布罗夫尼克古城，克罗地亚 (© bluejayphoto/Getty Images)|
