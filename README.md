@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![星空、岩石与孤寂](./archive/20250612.jpg)
+![海洋的隐秘心跳](./archive/20250613.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250613|海洋的隐秘心跳|维拉弗兰卡岛，圣米格尔岛，亚速尔群岛，葡萄牙 (© ARoxo/Getty Images)|
 |20250612|星空、岩石与孤寂|奇索斯山脉，大弯国家公园，德克萨斯州，美国 (© Dean Fikar/Getty Images)|
 |20250611|潮汐间的芭蕾|大红鹳，吕德里茨，纳米比亚 (© Karine Aigner/TANDEM Stills + Motion)|
 |20250610|草之河流|大沼泽地国家公园的鸟瞰图，佛罗里达州，美国 (© Robert DelVecchio - OcuDrone/Getty Images)|
