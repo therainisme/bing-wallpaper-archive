@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![羽翼下的父爱](./archive/20250615.jpg)
+![远古泳者的现代困境](./archive/20250616.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250616|远古泳者的现代困境|海龟，费尔南多·迪诺罗尼亚群岛，巴西 (© João Vianna/Getty Images)|
 |20250615|羽翼下的父爱|雄性小美洲鸵与幼鸟，托雷斯德尔潘恩国家公园，巴塔哥尼亚，智利 (© Ignacio Yufera/Minden Pictures)|
 |20250614|静谧之声|五塔峰，多洛米蒂山脉，科尔蒂纳丹佩佐，贝卢诺省，意大利威尼托大区 (© usabin/Getty Images)|
 |20250613|海洋的隐秘心跳|维拉弗兰卡岛，圣米格尔岛，亚速尔群岛，葡萄牙 (© ARoxo/Getty Images)|
