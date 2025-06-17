@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![海岸静谧，野性依旧](./archive/20250617.jpg)
+![让授粉游戏开始吧！](./archive/20250618.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250618|让授粉游戏开始吧！|红花石蒜上的柑橘凤蝶 (© lzh/Getty Images)|
 |20250617|海岸静谧，野性依旧|坎伯兰岛国家海岸的海滨森林，乔治亚州，美国 (© Chris Moore/TANDEM Stills + Motion)|
 |20250616|远古泳者的现代困境|海龟，费尔南多·迪诺罗尼亚群岛，巴西 (© João Vianna/Getty Images)|
 |20250615|羽翼下的父爱|雄性小美洲鸵与幼鸟，托雷斯德尔潘恩国家公园，巴塔哥尼亚，智利 (© Ignacio Yufera/Minden Pictures)|
