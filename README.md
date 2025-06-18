@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![让授粉游戏开始吧！](./archive/20250618.jpg)
+![潮汐与时间交汇之地](./archive/20250619.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250619|潮汐与时间交汇之地|圣卡塔琳娜州的海滩, 巴西 (© CaioCarvalhoPhotography/Getty Images)|
 |20250618|让授粉游戏开始吧！|红花石蒜上的柑橘凤蝶 (© lzh/Getty Images)|
 |20250617|海岸静谧，野性依旧|坎伯兰岛国家海岸的海滨森林，乔治亚州，美国 (© Chris Moore/TANDEM Stills + Motion)|
 |20250616|远古泳者的现代困境|海龟，费尔南多·迪诺罗尼亚群岛，巴西 (© João Vianna/Getty Images)|
