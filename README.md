@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![一路丛林](./archive/20250622.jpg)
+![从废墟中重生](./archive/20250623.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250623|从废墟中重生|德累斯顿易北河谷, 德国 (© Sean Pavone/Getty Images)|
 |20250622|一路丛林|亚马逊雨林，厄瓜多尔 (© Mark Fox/Getty Images)|
 |20250621|此花端合在瑶池|雾中莲花，中国佛山 (© huoguangliang/Getty Images)|
 |20250620|寻找斑点|一只马赛长颈鹿妈妈正在给小长颈鹿梳理毛发, 塞伦盖蒂,坦桑尼亚 (© Alberto Cassani/Getty Images)|
