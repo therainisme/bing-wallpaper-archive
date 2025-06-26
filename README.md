@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![海岸线附近的“马戏”](./archive/20250626.jpg)
+![古冰川遗迹之地](./archive/20250627.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250627|古冰川遗迹之地|Knuthöjdsmossen自然保护区, 海勒福什市, 瑞典 (© Sven Halling/DEEPOL/plainpicture)|
 |20250626|海岸线附近的“马戏”|马头岩上空的银河, 新南威尔士州, 澳大利亚 (© Philip Thurston/Getty Images)|
 |20250625|这里举办的是哪个音乐节？|格拉斯顿伯里托尔上的圣迈克尔塔, 格拉斯顿伯里, 萨默塞特郡, 英格兰 (© Gavin Hellier/Getty Images)|
 |20250624|大自然的耐心之作|精致拱门, 拱门国家公园, 犹他州, 美国 (© mmac72/Getty Images)|
