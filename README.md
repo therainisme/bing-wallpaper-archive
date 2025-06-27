@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![古冰川遗迹之地](./archive/20250627.jpg)
+![从实用建筑到地标象征](./archive/20250628.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250628|从实用建筑到地标象征|曼海姆水塔, 德国 (© no limit pictures/Getty Images)|
 |20250627|古冰川遗迹之地|Knuthöjdsmossen自然保护区, 海勒福什市, 瑞典 (© Sven Halling/DEEPOL/plainpicture)|
 |20250626|海岸线附近的“马戏”|马头岩上空的银河, 新南威尔士州, 澳大利亚 (© Philip Thurston/Getty Images)|
 |20250625|这里举办的是哪个音乐节？|格拉斯顿伯里托尔上的圣迈克尔塔, 格拉斯顿伯里, 萨默塞特郡, 英格兰 (© Gavin Hellier/Getty Images)|
