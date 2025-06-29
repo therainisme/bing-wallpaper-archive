@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![哪里让历史变得“辛辣”](./archive/20250629.jpg)
+![是谁击中了地面？](./archive/20250630.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250630|是谁击中了地面？|沃尔夫溪陨石坑, 澳大利亚 (© Abstract Aerial Art/Getty Images)|
 |20250629|哪里让历史变得“辛辣”|Pulau Ay蓝色泻湖, 班达群岛, 印度尼西亚 (© fabio lamanna/Alamy Stock Photo)|
 |20250628|从实用建筑到地标象征|曼海姆水塔, 德国 (© no limit pictures/Getty Images)|
 |20250627|古冰川遗迹之地|Knuthöjdsmossen自然保护区, 海勒福什市, 瑞典 (© Sven Halling/DEEPOL/plainpicture)|
