@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![是谁击中了地面？](./archive/20250630.jpg)
+![原始渔村的风貌](./archive/20250701.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250701|原始渔村的风貌|Tilting渔村, 福戈岛 , 纽芬兰和拉布拉多省, 加拿大 (© FedevPhoto/Getty Images)|
 |20250630|是谁击中了地面？|沃尔夫溪陨石坑, 澳大利亚 (© Abstract Aerial Art/Getty Images)|
 |20250629|哪里让历史变得“辛辣”|Pulau Ay蓝色泻湖, 班达群岛, 印度尼西亚 (© fabio lamanna/Alamy Stock Photo)|
 |20250628|从实用建筑到地标象征|曼海姆水塔, 德国 (© no limit pictures/Getty Images)|
