@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![触手之间的依赖](./archive/20250702.jpg)
+![彩虹河的清澈拥抱](./archive/20250703.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250703|彩虹河的清澈拥抱|彩虹泉州立公园的彩虹河，佛罗里达州，美国 (© Michel Roggo/Minden Pictures)|
 |20250702|触手之间的依赖|被泡尖海葵包围的刺颊海葵鱼，米尔恩湾，巴布亚新几内亚 (© Fred Bavendam/Nature Picture Library)|
 |20250701|原始渔村的风貌|Tilting渔村, 福戈岛 , 纽芬兰和拉布拉多省, 加拿大 (© FedevPhoto/Getty Images)|
 |20250630|是谁击中了地面？|沃尔夫溪陨石坑, 澳大利亚 (© Abstract Aerial Art/Getty Images)|
