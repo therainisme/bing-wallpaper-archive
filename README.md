@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![水、空气、岩石](./archive/20250704.jpg)
+![优雅而低调的巨人](./archive/20250705.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250705|优雅而低调的巨人|Cize-Bolozon viaduct crossing the Ain gorge, France (© Leonid Andronov/Getty Images)|
 |20250704|水、空气、岩石|奥罗塞，撒丁岛，意大利 (© EyeEm Mobile GmbH/Getty Images)|
 |20250703|彩虹河的清澈拥抱|彩虹泉州立公园的彩虹河，佛罗里达州，美国 (© Michel Roggo/Minden Pictures)|
 |20250702|触手之间的依赖|被泡尖海葵包围的刺颊海葵鱼，米尔恩湾，巴布亚新几内亚 (© Fred Bavendam/Nature Picture Library)|
