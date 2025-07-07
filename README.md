@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![闪电俯冲、水花四溅，然后开吃](./archive/20250707.jpg)
+![锋芒毕露的美](./archive/20250708.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250708|锋芒毕露的美|塞切达，多洛米蒂山脉的山峰，南蒂罗尔，意大利 (© Kalyakan/Adobe Stock)|
 |20250707|闪电俯冲、水花四溅，然后开吃|潜水捕鱼的北方鲣鸟，设得兰群岛，苏格兰 (© Richard Shucksmith/Minden Pictures)|
 |20250706|时光沙丘|死亡谷国家公园的梅斯基特平原沙丘，加利福尼亚州，美国 (© Bryan Jolley/TANDEM Stills + Motion)|
 |20250705|优雅而低调的巨人|Cize-Bolozon viaduct crossing the Ain gorge, France (© Leonid Andronov/Getty Images)|
