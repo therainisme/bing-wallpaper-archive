@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![具有纪念意义的火车站](./archive/20250709.jpg)
+![奔向自由之浪](./archive/20250710.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250710|奔向自由之浪|巴哈马的绿松石色水域 (© BlueOrange Studio/Adobe Stock)|
 |20250709|具有纪念意义的火车站|宪法火车站，布宜诺斯艾利斯，阿根廷 (© Grafissimo/Getty Images)|
 |20250708|锋芒毕露的美|塞切达，多洛米蒂山脉的山峰，南蒂罗尔，意大利 (© Kalyakan/Adobe Stock)|
 |20250707|闪电俯冲、水花四溅，然后开吃|潜水捕鱼的北方鲣鸟，设得兰群岛，苏格兰 (© Richard Shucksmith/Minden Pictures)|
