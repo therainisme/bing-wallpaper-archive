@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![奔向自由之浪](./archive/20250710.jpg)
+![把我们都算上](./archive/20250711.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250711|把我们都算上|日出时的东京，日本 (© pongnathee kluaythong/Getty Images)|
 |20250710|奔向自由之浪|巴哈马的绿松石色水域 (© BlueOrange Studio/Adobe Stock)|
 |20250709|具有纪念意义的火车站|宪法火车站，布宜诺斯艾利斯，阿根廷 (© Grafissimo/Getty Images)|
 |20250708|锋芒毕露的美|塞切达，多洛米蒂山脉的山峰，南蒂罗尔，意大利 (© Kalyakan/Adobe Stock)|
