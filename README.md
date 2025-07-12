@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![跟随妈妈的脚步](./archive/20250712.jpg)
+![层层叠叠的岩石](./archive/20250713.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250713|层层叠叠的岩石|卡尔夫沙马尔斯维克湾玄武岩柱，斯卡吉半岛，冰岛 (© Arterra Picture Library/Alamy Stock Photo)|
 |20250712|跟随妈妈的脚步|汤氏瞪羚母亲和小鹿，马赛马拉，肯尼亚 (© Gallo Images/DanitaDelimont.com)|
 |20250711|把我们都算上|日出时的东京，日本 (© pongnathee kluaythong/Getty Images)|
 |20250710|奔向自由之浪|巴哈马的绿松石色水域 (© BlueOrange Studio/Adobe Stock)|
