@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![伊西斯女神的光辉照耀下](./archive/20250716.jpg)
+![追随香气的地平线](./archive/20250717.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250717|追随香气的地平线|瓦朗索勒高原的薰衣草田，法国 (© zpagistock/Getty Images)|
 |20250716|伊西斯女神的光辉照耀下|菲莱神庙 (aka Temple of Isis), 阿斯旺, 埃及 (© Ratnakorn Piyasirisorost/Getty Images)|
 |20250715|永恒的光芒|英仙座流星雨和一棵古老刺果松，大盆地国家公园，内华达州，美国 (© Wirestock Creators/Shutterstock)|
 |20250714|追逐海浪，掀起潮汐|加利西亚海域游弋的幼年大青鲨，西班牙 (© Damocean/Getty Images)|
