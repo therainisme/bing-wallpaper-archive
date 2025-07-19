@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![化石、瀑布与林间小径](./archive/20250719.jpg)
+![在月光下起舞](./archive/20250720.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250720|在月光下起舞|望远镜下的月球表面照片 (© Sergey Kuznetsov/Getty Images)|
 |20250719|化石、瀑布与林间小径|幽鹤国家公园的伯吉斯山和翡翠湖, 不列颠哥伦比亚省, 加拿大 (© Feng Wei Photography/Getty Images)|
 |20250718|一切准备就绪，等待日落|塞里雅兰瀑布日落美景，冰岛 (© Tom Mackie/AWL/plainpicture)|
 |20250717|追随香气的地平线|瓦朗索勒高原的薰衣草田，法国 (© zpagistock/Getty Images)|
