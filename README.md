@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![海洋中的热带雨林](./archive/20250721.jpg)
+![天山上的蓝宝石](./archive/20250722.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250722|天山上的蓝宝石|夏季的赛里木湖，博尔塔拉蒙古自治州博乐县, 中国新疆维吾尔自治区 (© Feng Wei Photography/Getty Images)|
 |20250721|海洋中的热带雨林|浅海中的鹿角珊瑚 (© blue-sea.cz/Shutterstock)|
 |20250720|在月光下起舞|望远镜下的月球表面照片 (© Sergey Kuznetsov/Getty Images)|
 |20250719|化石、瀑布与林间小径|幽鹤国家公园的伯吉斯山和翡翠湖, 不列颠哥伦比亚省, 加拿大 (© Feng Wei Photography/Getty Images)|
