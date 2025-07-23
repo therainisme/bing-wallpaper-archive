@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![城中之国](./archive/20250723.jpg)
+![物以类聚，鸟以群分](./archive/20250724.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250724|物以类聚，鸟以群分|栖息在树枝上的灰燕鵙家族 (© Captain Skyhigh/Getty Images)|
 |20250723|城中之国|梵蒂冈城与圣彼得大教堂，罗马，意大利 (© RudyBalasko/Getty Images)|
 |20250722|天山上的蓝宝石|夏季的赛里木湖，博尔塔拉蒙古自治州博乐县, 中国新疆维吾尔自治区 (© Feng Wei Photography/Getty Images)|
 |20250721|海洋中的热带雨林|浅海中的鹿角珊瑚 (© blue-sea.cz/Shutterstock)|
