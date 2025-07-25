@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![生活的画卷](./archive/20250725.jpg)
+![潮汐的守护者](./archive/20250726.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250726|潮汐的守护者|黄昏时的红树林，瓦拉基里海滩，松巴岛，印度尼西亚 (© Boonchet Ch./Getty Images)|
 |20250725|生活的画卷|大加那利岛拉斯帕尔马斯色彩缤纷的房屋鸟瞰图，西班牙 (© Marco Bottigelli/Getty Images)|
 |20250724|物以类聚，鸟以群分|栖息在树枝上的灰燕鵙家族 (© Captain Skyhigh/Getty Images)|
 |20250723|城中之国|梵蒂冈城与圣彼得大教堂，罗马，意大利 (© RudyBalasko/Getty Images)|
