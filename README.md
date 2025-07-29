@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![丛林女王](./archive/20250729.jpg)
+![理想的世界！](./archive/20250730.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250730|理想的世界！|里瓦德塞利亚，阿斯图里亚斯，西班牙 (© Agnieszka Glowala/Getty Images)|
 |20250729|丛林女王|雌性孟加拉虎，坎哈国家公园，印度 (© Axel Gomille/Nature Picture Library)|
 |20250728|领先一步|蒙古草原上的蒙古包 (© Michel Arnault/Shutterstock)|
 |20250727|同步闪耀|黑鳍梭鱼群，鲨鱼礁，拉斯穆罕默德国家公园，西奈半岛，埃及 (© Alex Mustard/Nature Picture Library)|
