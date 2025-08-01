@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![惊喜随时上演](./archive/20250801.jpg)
+![古老的岩画](./archive/20250802.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250802|古老的岩画|圆顶礁国家公园弗鲁塔附近的岩画, 犹他州, 美国 (© Nicolas VINCENT/Adobe Stock)|
 |20250801|惊喜随时上演|皇家英里大道, 爱丁堡, 苏格兰 (© MEDITERRANEAN/Getty Images)|
 |20250731|远离尘嚣|纳帕利海岸的卡拉劳海滩, 可爱岛, 夏威夷, 美国 (© Russ Bishop/DanitaDelimont.com)|
 |20250730|理想的世界！|里瓦德塞利亚，阿斯图里亚斯，西班牙 (© Agnieszka Glowala/Getty Images)|
