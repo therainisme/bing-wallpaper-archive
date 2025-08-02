@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![古老的岩画](./archive/20250802.jpg)
+![你好，黄色！](./archive/20250803.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250803|你好，黄色！|夏天田野里盛开的向日葵 (© Arsgera/Shutterstock)|
 |20250802|古老的岩画|圆顶礁国家公园弗鲁塔附近的岩画, 犹他州, 美国 (© Nicolas VINCENT/Adobe Stock)|
 |20250801|惊喜随时上演|皇家英里大道, 爱丁堡, 苏格兰 (© MEDITERRANEAN/Getty Images)|
 |20250731|远离尘嚣|纳帕利海岸的卡拉劳海滩, 可爱岛, 夏威夷, 美国 (© Russ Bishop/DanitaDelimont.com)|
