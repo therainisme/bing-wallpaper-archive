@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![你好，黄色！](./archive/20250803.jpg)
+![这是谁的家？](./archive/20250804.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250804|这是谁的家？|巢中的乌林鸮, 芬兰 (© imageBROKER.com/Alamy Stock Photo)|
 |20250803|你好，黄色！|夏天田野里盛开的向日葵 (© Arsgera/Shutterstock)|
 |20250802|古老的岩画|圆顶礁国家公园弗鲁塔附近的岩画, 犹他州, 美国 (© Nicolas VINCENT/Adobe Stock)|
 |20250801|惊喜随时上演|皇家英里大道, 爱丁堡, 苏格兰 (© MEDITERRANEAN/Getty Images)|
