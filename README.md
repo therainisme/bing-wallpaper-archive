@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![潮起潮落](./archive/20250805.jpg)
+![马达加斯加原住民](./archive/20250806.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250806|马达加斯加原住民|环尾狐猴幼崽在玩自己的尾巴‌, 马达加斯加 (© Andy Rouse/Nature Picture Library)|
 |20250805|潮起潮落|拉霍亚的潮汐池‌, 加利福尼亚州, 美国 (© Andrew Shoemaker/DanitaDelimont.com)|
 |20250804|这是谁的家？|巢中的乌林鸮, 芬兰 (© imageBROKER.com/Alamy Stock Photo)|
 |20250803|你好，黄色！|夏天田野里盛开的向日葵 (© Arsgera/Shutterstock)|
