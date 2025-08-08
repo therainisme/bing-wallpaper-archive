@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![奔流不息，为你为我](./archive/20250808.jpg)
+![致敬原住民之声](./archive/20250809.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250809|致敬原住民之声|陶波湖上的 Ngātoroirangi 矿湾毛利石刻, 新西兰 (© Joppi/Getty Images)|
 |20250808|奔流不息，为你为我|伊瓜苏瀑布的三火枪瀑布, 阿根廷 (© Mark Meredith/Getty Images)|
 |20250807|海岸的密码|加斯帕里拉岛灯塔后导标灯, 博卡格兰德, 佛罗里达州, 美国 (© Wiltser/Getty Images)|
 |20250806|马达加斯加原住民|环尾狐猴幼崽在玩自己的尾巴‌, 马达加斯加 (© Andy Rouse/Nature Picture Library)|
