@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![致敬原住民之声](./archive/20250809.jpg)
+![为正义怒吼](./archive/20250810.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250810|为正义怒吼|马赛马拉国家保护区的雌狮,肯尼亚 (© Tandem Stock/Adobe Stock)|
 |20250809|致敬原住民之声|陶波湖上的 Ngātoroirangi 矿湾毛利石刻, 新西兰 (© Joppi/Getty Images)|
 |20250808|奔流不息，为你为我|伊瓜苏瀑布的三火枪瀑布, 阿根廷 (© Mark Meredith/Getty Images)|
 |20250807|海岸的密码|加斯帕里拉岛灯塔后导标灯, 博卡格兰德, 佛罗里达州, 美国 (© Wiltser/Getty Images)|
