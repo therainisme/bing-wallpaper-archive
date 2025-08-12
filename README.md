@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![野性、智慧与奇迹](./archive/20250812.jpg)
+![地球的公开秘密](./archive/20250813.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250813|地球的公开秘密|一名男子从摩押附近的科罗纳拱门索降, 美国 (© Grant Ordelheide/TANDEM Stills + Motion)|
 |20250812|野性、智慧与奇迹|非洲象群, 安博塞利国家公园, 肯尼亚 (© Chase Dekker/Minden Pictures)|
 |20250811|来自山巅的明信片|圣玛格达莱娜, 多洛米蒂山, 意大利 (© Sakrapee Nopparat/Getty Images)|
 |20250810|为正义怒吼|马赛马拉国家保护区的雌狮,肯尼亚 (© Tandem Stock/Adobe Stock)|
