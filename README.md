@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![水下翱翔](./archive/20250815.jpg)
+![成为改变的一“蜂”](./archive/20250816.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250816|成为改变的一“蜂”|色彩斑斓的蜂巢, 意大利 (© Roberto Caucino/Shutterstock)|
 |20250815|水下翱翔|斑点鹞鲼，圣克里斯托瓦尔岛‌，‌加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Minden Pictures)|
 |20250814|从山顶俯瞰|皮兹奈尔山缆车站, 格劳宾登州, 瑞士 (© Roberto Moiola/Alamy)|
 |20250813|地球的公开秘密|一名男子从摩押附近的科罗纳拱门索降, 美国 (© Grant Ordelheide/TANDEM Stills + Motion)|
