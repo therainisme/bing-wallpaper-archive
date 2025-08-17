@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![眺望大海的高塔](./archive/20250817.jpg)
+![溪流入梦](./archive/20250818.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250818|溪流入梦|雪崩湖步道，阿迪朗达克高峰区，纽约州，美国 (© Posnov/Getty Images)|
 |20250817|眺望大海的高塔|灵维格灯塔，维泽桑讷，丹麦 (© Caroline Brundle Bugge/Getty Images)|
 |20250816|成为改变的一“蜂”|色彩斑斓的蜂巢, 意大利 (© Roberto Caucino/Shutterstock)|
 |20250815|水下翱翔|斑点鹞鲼，圣克里斯托瓦尔岛‌，‌加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Minden Pictures)|
