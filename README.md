@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![溪流入梦](./archive/20250818.jpg)
+![随海而流的岩石！](./archive/20250819.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250819|随海而流的岩石！|祖马亚的复理层，巴斯克地区，西班牙 (© Eloi_Omella/Getty Images)|
 |20250818|溪流入梦|雪崩湖步道，阿迪朗达克高峰区，纽约州，美国 (© Posnov/Getty Images)|
 |20250817|眺望大海的高塔|灵维格灯塔，维泽桑讷，丹麦 (© Caroline Brundle Bugge/Getty Images)|
 |20250816|成为改变的一“蜂”|色彩斑斓的蜂巢, 意大利 (© Roberto Caucino/Shutterstock)|
