@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![彩林叠翠间的瀑布](./archive/20250823.jpg)
+![“跟我来”](./archive/20250824.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250824|“跟我来”|欧洲黇鹿‌，英格兰 (© Enrique Aguirre Aves/Getty Images)|
 |20250823|彩林叠翠间的瀑布|秋季九寨沟国家公园里的诺日朗瀑布, 四川省, 中国 (© tawatchaiprakobkit/Getty images)|
 |20250821|伫立凝视|穗䳭和盛开的帚石楠，峰区国家公园，英格兰 (© Ben Hall/Nature Picture Library)|
 |20250820|永恒的建筑|博尼法乔城堡，科西嘉岛南部，法国 (© Marc Dozier/Getty Images)|
