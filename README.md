@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![从火山之源到河流之路](./archive/20250825.jpg)
+![一座非凡的特鲁洛小镇](./archive/20250826.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250826|一座非凡的特鲁洛小镇|阿尔贝罗贝洛的特鲁洛建筑，普利亚大区，意大利 (© Feng Wei Photography/Getty Images)|
 |20250825|从火山之源到河流之路|方解石温泉区和黄石河，黄石国家公园，怀俄明州，美国 (© Rebecca L. Latson/Getty Images)|
 |20250824|“跟我来”|欧洲黇鹿‌，英格兰 (© Enrique Aguirre Aves/Getty Images)|
 |20250823|彩林叠翠间的瀑布|秋季九寨沟国家公园里的诺日朗瀑布, 四川省, 中国 (© tawatchaiprakobkit/Getty images)|
