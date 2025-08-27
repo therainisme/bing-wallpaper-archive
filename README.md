@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![海洋上方的湖泊](./archive/20250827.jpg)
+![这只白鹭毫无遗憾](./archive/20250828.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250828|这只白鹭毫无遗憾|大白鹭，匈牙利 (© Markus Varesvuo/Nature Picture Library)|
 |20250827|海洋上方的湖泊|瑟沃格湖，瓦加尔岛，法罗群岛 (© Anton Petrus/Getty Images)|
 |20250826|一座非凡的特鲁洛小镇|阿尔贝罗贝洛的特鲁洛建筑，普利亚大区，意大利 (© Feng Wei Photography/Getty Images)|
 |20250825|从火山之源到河流之路|方解石温泉区和黄石河，黄石国家公园，怀俄明州，美国 (© Rebecca L. Latson/Getty Images)|
