@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![网格的心脏](./archive/20250829.jpg)
+![有鳍且惊艳](./archive/20250830.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250830|有鳍且惊艳|阿里夫达鲁环礁海岸的鲸鲨, 马尔代夫 (© Bachir Moukarzel/Amazing Aerial Agency)|
 |20250829|网格的心脏|马约尔广场鸟瞰图, 马德里, 西班牙 (© AirPano LLC/Amazing Aerial Agency)|
 |20250828|这只白鹭毫无遗憾|大白鹭，匈牙利 (© Markus Varesvuo/Nature Picture Library)|
 |20250827|海洋上方的湖泊|瑟沃格湖，瓦加尔岛，法罗群岛 (© Anton Petrus/Getty Images)|
