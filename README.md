@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![有鳍且惊艳](./archive/20250830.jpg)
+![彩绘的云，静默的悬崖](./archive/20250831.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250831|彩绘的云，静默的悬崖|杰灵的斯科茨布拉夫国家纪念碑‌, 内布拉斯加州,美国 (© Hawk Buckman/Getty Images)|
 |20250830|有鳍且惊艳|阿里夫达鲁环礁海岸的鲸鲨, 马尔代夫 (© Bachir Moukarzel/Amazing Aerial Agency)|
 |20250829|网格的心脏|马约尔广场鸟瞰图, 马德里, 西班牙 (© AirPano LLC/Amazing Aerial Agency)|
 |20250828|这只白鹭毫无遗憾|大白鹭，匈牙利 (© Markus Varesvuo/Nature Picture Library)|
