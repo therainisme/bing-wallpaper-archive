@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![风景如画的葡萄园](./archive/20250901.jpg)
+![死谷的幽灵](./archive/20250902.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250902|死谷的幽灵|骆驼刺树, 死亡谷, 纳米布-诺克卢福国家公园, 纳米比亚 (© Inge Johnsson/Alamy Stock Photo)|
 |20250901|风景如画的葡萄园|凯撒施图尔，巴登-符腾堡，德国 (© EyeEM Mobile GmbH/Getty Images)|
 |20250831|彩绘的云，静默的悬崖|杰灵的斯科茨布拉夫国家纪念碑‌, 内布拉斯加州,美国 (© Hawk Buckman/Getty Images)|
 |20250830|有鳍且惊艳|阿里夫达鲁环礁海岸的鲸鲨, 马尔代夫 (© Bachir Moukarzel/Amazing Aerial Agency)|
