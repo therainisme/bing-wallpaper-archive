@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![享受宁静](./archive/20250903.jpg)
+![力量的角逐](./archive/20250904.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250904|力量的角逐|灰熊摔跤, 卡特迈国家公园及自然保护区, 阿拉斯加, 美国 (© Cavan Images/Adobe Stock)|
 |20250903|享受宁静|边界水域独木舟区荒野区, 明尼苏达州, 美国 (© s.tomas/Shutterstock)|
 |20250902|死谷的幽灵|骆驼刺树, 死亡谷, 纳米布-诺克卢福国家公园, 纳米比亚 (© Inge Johnsson/Alamy Stock Photo)|
 |20250901|风景如画的葡萄园|凯撒施图尔，巴登-符腾堡，德国 (© EyeEM Mobile GmbH/Getty Images)|
