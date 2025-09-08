@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![当天预订](./archive/20250908.jpg)
+![她一根一根地准备着](./archive/20250909.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250909|她一根一根地准备着|一只雌性欧亚红松鼠正在搬运苔藓，瑞士 (© Jean-Luc and Francoise Ziegler/Minden Pictures)|
 |20250908|当天预订|乌节图书馆，新加坡 (© Darwin Fan/Getty Images)|
 |20250907|淡彩的梦境和静水|位于莫特拉瓦河河畔的格但斯克市，波兰 (© Oscar Dominguez/TANDEM Stills + Motion)|
 |20250906|忙碌的一天|棕煌蜂鸟，旧金山金门公园，加利福尼亚州，美国 (© jeremyborkat/Getty Images)|
