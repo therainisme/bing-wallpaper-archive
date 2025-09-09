@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![她一根一根地准备着](./archive/20250909.jpg)
+![阳光明媚，赶紧打草](./archive/20250910.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250910|阳光明媚，赶紧打草|干草捆，北约克郡，英格兰 (© Nick Brundle Photography/Getty Images)|
 |20250909|她一根一根地准备着|一只雌性欧亚红松鼠正在搬运苔藓，瑞士 (© Jean-Luc and Francoise Ziegler/Minden Pictures)|
 |20250908|当天预订|乌节图书馆，新加坡 (© Darwin Fan/Getty Images)|
 |20250907|淡彩的梦境和静水|位于莫特拉瓦河河畔的格但斯克市，波兰 (© Oscar Dominguez/TANDEM Stills + Motion)|
