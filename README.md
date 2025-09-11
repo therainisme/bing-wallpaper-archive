@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![准备仰望天空吧！](./archive/20250911.jpg)
+![野性畅游，自在徜徉](./archive/20250912.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250912|野性畅游，自在徜徉|红海中的飞旋海豚群, 阿拉姆港, 埃及 (© Franco Banfi/Nature Picture Library)|
 |20250911|准备仰望天空吧！|蒙弗拉圭国家公园塔霍河畔的猎鹰岩，西班牙 (© Daniel Viñé Garcia/Getty Images)|
 |20250910|阳光明媚，赶紧打草|干草捆，北约克郡，英格兰 (© Nick Brundle Photography/Getty Images)|
 |20250909|她一根一根地准备着|一只雌性欧亚红松鼠正在搬运苔藓，瑞士 (© Jean-Luc and Francoise Ziegler/Minden Pictures)|
