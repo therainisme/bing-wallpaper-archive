@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![野性畅游，自在徜徉](./archive/20250912.jpg)
+![崎岖而狂野](./archive/20250913.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250913|崎岖而狂野|烟囱岩, 雷斯岬国家海岸, 加利福尼亚州, 美国 (© Enrique Aguirre Aves/Getty Images)|
 |20250912|野性畅游，自在徜徉|红海中的飞旋海豚群, 阿拉姆港, 埃及 (© Franco Banfi/Nature Picture Library)|
 |20250911|准备仰望天空吧！|蒙弗拉圭国家公园塔霍河畔的猎鹰岩，西班牙 (© Daniel Viñé Garcia/Getty Images)|
 |20250910|阳光明媚，赶紧打草|干草捆，北约克郡，英格兰 (© Nick Brundle Photography/Getty Images)|
