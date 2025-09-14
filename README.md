@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![苔藓与薄雾](./archive/20250914.jpg)
+![涉水寻迹](./archive/20250915.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250915|涉水寻迹|黑翅长脚鹬, 法国 (© Antonio Sementa/500px/Getty Images)|
 |20250914|苔藓与薄雾|奥林匹克国家公园的瀑布, 华盛顿, 美国 (© Chris Moore/TANDEM Stills + Motion)|
 |20250913|崎岖而狂野|烟囱岩, 雷斯岬国家海岸, 加利福尼亚州, 美国 (© Enrique Aguirre Aves/Getty Images)|
 |20250912|野性畅游，自在徜徉|红海中的飞旋海豚群, 阿拉姆港, 埃及 (© Franco Banfi/Nature Picture Library)|
