@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![巨大的成功](./archive/20250916.jpg)
+![成长中的冠冕](./archive/20250917.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250917|成长中的冠冕|迪纳利国家公园中的一头年轻雄性驼鹿, 阿拉斯加, 美国 (© Grant Ordelheide/TANDEM Stills + Motion)|
 |20250916|巨大的成功|从地球上空225英里处俯瞰墨西哥湾沿岸各州的夜间景象 (© Stocktrek Images/Getty Images)|
 |20250915|涉水寻迹|黑翅长脚鹬, 法国 (© Antonio Sementa/500px/Getty Images)|
 |20250914|苔藓与薄雾|奥林匹克国家公园的瀑布, 华盛顿, 美国 (© Chris Moore/TANDEM Stills + Motion)|
