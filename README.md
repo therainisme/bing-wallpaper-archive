@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![爱尔兰岛的西端](./archive/20250918.jpg)
+![千般理由，邀您探索](./archive/20250919.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250919|千般理由，邀您探索|千岛群岛地区，圣劳伦斯河，美加边境 (© benedek/Getty Images)|
 |20250918|爱尔兰岛的西端|邓金码头的蛇形楼梯, 凯里郡, 爱尔兰 (© Hugh O'Connor/Getty Images)|
 |20250917|成长中的冠冕|迪纳利国家公园中的一头年轻雄性驼鹿, 阿拉斯加, 美国 (© Grant Ordelheide/TANDEM Stills + Motion)|
 |20250916|巨大的成功|从地球上空225英里处俯瞰墨西哥湾沿岸各州的夜间景象 (© Stocktrek Images/Getty Images)|
