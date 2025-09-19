@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![千般理由，邀您探索](./archive/20250919.jpg)
+![关于啤酒和风景的故事](./archive/20250920.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250920|关于啤酒和风景的故事|慕尼黑啤酒节上的旋转木马，慕尼黑，巴伐利亚，德国 (© LOOK-foto/Alamy)|
 |20250919|千般理由，邀您探索|千岛群岛地区，圣劳伦斯河，美加边境 (© benedek/Getty Images)|
 |20250918|爱尔兰岛的西端|邓金码头的蛇形楼梯, 凯里郡, 爱尔兰 (© Hugh O'Connor/Getty Images)|
 |20250917|成长中的冠冕|迪纳利国家公园中的一头年轻雄性驼鹿, 阿拉斯加, 美国 (© Grant Ordelheide/TANDEM Stills + Motion)|
