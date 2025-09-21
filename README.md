@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![酷毙了](./archive/20250921.jpg)
+![到冬天的中途](./archive/20250922.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250922|到冬天的中途|秋日的白杨树，鱼湖国家森林，犹他州，美国 (© Danita Delimont/Getty Images)|
 |20250921|酷毙了|海獭，威廉王子湾，阿拉斯加州，美国 (© Gerald Corsi/Getty Images)|
 |20250920|关于啤酒和风景的故事|慕尼黑啤酒节上的旋转木马，慕尼黑，巴伐利亚，德国 (© LOOK-foto/Alamy)|
 |20250919|千般理由，邀您探索|千岛群岛地区，圣劳伦斯河，美加边境 (© benedek/Getty Images)|
