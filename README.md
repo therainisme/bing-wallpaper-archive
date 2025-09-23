@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![树树皆秋色](./archive/20250923.jpg)
+![孤独的巨人](./archive/20250924.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250924|孤独的巨人|魔鬼塔国家纪念碑, 怀俄明州，美国 (© Laura Hedien/Getty Images)|
 |20250923|树树皆秋色|航拍中国江苏省常州翠竹公园 (© Xu Changyu/Getty images)|
 |20250922|到冬天的中途|秋日的白杨树，鱼湖国家森林，犹他州，美国 (© Danita Delimont/Getty Images)|
 |20250921|酷毙了|海獭，威廉王子湾，阿拉斯加州，美国 (© Gerald Corsi/Getty Images)|
