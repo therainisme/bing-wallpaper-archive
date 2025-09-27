@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![美丽的星空](./archive/20250927.jpg)
+![品味皮恩扎](./archive/20250928.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250928|品味皮恩扎|托斯卡纳的皮恩扎镇, 意大利 (© zpagistock/Getty Images)|
 |20250927|美丽的星空|坦克湖 (Tank Lakes), 高山湖泊荒野区, 华盛顿州, 美国 (© Austin Trigg/TANDEM Stills + Motion)|
 |20250926|速度与毛茸茸|最小花栗鼠, 库特奈国家公园, 蒙大拿州, 美国 (© Donald M. Jones/Minden Pictures)|
 |20250925|忠勇的雕刻石|奇陶尔加尔堡, 拉贾斯坦邦, 印度 (© chetansoni/Shutterstock)|
