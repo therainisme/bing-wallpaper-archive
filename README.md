@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![品味皮恩扎](./archive/20250928.jpg)
+![彩虹骑行与宁静氛围](./archive/20250929.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250929|彩虹骑行与宁静氛围|豪滕镇的彩虹屋, 荷兰 (© George Pachantouris/Getty Images)|
 |20250928|品味皮恩扎|托斯卡纳的皮恩扎镇, 意大利 (© zpagistock/Getty Images)|
 |20250927|美丽的星空|坦克湖 (Tank Lakes), 高山湖泊荒野区, 华盛顿州, 美国 (© Austin Trigg/TANDEM Stills + Motion)|
 |20250926|速度与毛茸茸|最小花栗鼠, 库特奈国家公园, 蒙大拿州, 美国 (© Donald M. Jones/Minden Pictures)|
