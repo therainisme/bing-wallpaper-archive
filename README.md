@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![彩虹骑行与宁静氛围](./archive/20250929.jpg)
+![坚持重要的事情](./archive/20250930.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20250930|坚持重要的事情|桉树上的考拉, 大奥特维国家公园, 澳大利亚 (© Jamie Lamb - elusive-images.co.uk/Getty Images)|
 |20250929|彩虹骑行与宁静氛围|豪滕镇的彩虹屋, 荷兰 (© George Pachantouris/Getty Images)|
 |20250928|品味皮恩扎|托斯卡纳的皮恩扎镇, 意大利 (© zpagistock/Getty Images)|
 |20250927|美丽的星空|坦克湖 (Tank Lakes), 高山湖泊荒野区, 华盛顿州, 美国 (© Austin Trigg/TANDEM Stills + Motion)|
