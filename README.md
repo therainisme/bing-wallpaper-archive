@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![坚持重要的事情](./archive/20250930.jpg)
+![克拉克山脉的回声](./archive/20251001.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20251001|克拉克山脉的回声|克拉克山脉, 内华达山脉, 约塞米蒂国家公园, 加利福尼亚州, 美国 (© Robb Hirsch/TANDEM Stills + Motion)|
 |20250930|坚持重要的事情|桉树上的考拉, 大奥特维国家公园, 澳大利亚 (© Jamie Lamb - elusive-images.co.uk/Getty Images)|
 |20250929|彩虹骑行与宁静氛围|豪滕镇的彩虹屋, 荷兰 (© George Pachantouris/Getty Images)|
 |20250928|品味皮恩扎|托斯卡纳的皮恩扎镇, 意大利 (© zpagistock/Getty Images)|
