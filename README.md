@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![使命必达](./archive/20251004.jpg)
+![庆祝智慧！](./archive/20251005.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20251005|庆祝智慧！|中欧森林里的鬼鸮 (© Ondrej Prosicky/Alamy)|
 |20251004|使命必达|从SpaceX载人龙飞船“奋进号”视角看到的国际空间站主太阳能电池阵列 (© NASA)|
 |20251003|雾中遐想|布里特尔峡谷里生长的帚石楠花, 斯凯岛, 苏格兰 (© Adam Mowery/TANDEM Stills + Motion)|
 |20251002|法定自然区|蛇河上的牛轭湖, 大提顿国家公园, 怀俄明州, 美国 (© DanitaDelimont.com/AWL Images/SuperStock)|
