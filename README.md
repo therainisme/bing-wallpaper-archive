@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![千里共婵娟](./archive/20251006.jpg)
+![金色的秋日余晖](./archive/20251007.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20251007|金色的秋日余晖|里奇韦附近斯内弗尔斯山脚下的秋色, 科罗拉多州, 美国 (© Grant Ordelheide/TANDEM Stills + Motion)|
 |20251006|千里共婵娟|安顺桥中秋灯展，成都，中国 (© Philippe LEJEANVRE/Getty Images)|
 |20251005|庆祝智慧！|中欧森林里的鬼鸮 (© Ondrej Prosicky/Alamy)|
 |20251004|使命必达|从SpaceX载人龙飞船“奋进号”视角看到的国际空间站主太阳能电池阵列 (© NASA)|
