@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![动态伪装](./archive/20251008.jpg)
+![宇宙在绽放](./archive/20251009.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20251009|宇宙在绽放|‌詹姆斯·韦伯太空望远镜观测的创生之柱 (© NASA)|
 |20251008|动态伪装|白日章鱼, 毛伊岛, 夏威夷, 美国 (© Dave Fleetham/plainpicture)|
 |20251007|金色的秋日余晖|里奇韦附近斯内弗尔斯山脚下的秋色, 科罗拉多州, 美国 (© Grant Ordelheide/TANDEM Stills + Motion)|
 |20251006|千里共婵娟|安顺桥中秋灯展，成都，中国 (© Philippe LEJEANVRE/Getty Images)|
