@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![宇宙在绽放](./archive/20251009.jpg)
+![思绪之礁](./archive/20251010.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20251010|思绪之礁|莫努里基岛周边的珊瑚礁，玛玛努卡群岛，斐济 (© David Wall/SuperStock)|
 |20251009|宇宙在绽放|‌詹姆斯·韦伯太空望远镜观测的创生之柱 (© NASA)|
 |20251008|动态伪装|白日章鱼, 毛伊岛, 夏威夷, 美国 (© Dave Fleetham/plainpicture)|
 |20251007|金色的秋日余晖|里奇韦附近斯内弗尔斯山脚下的秋色, 科罗拉多州, 美国 (© Grant Ordelheide/TANDEM Stills + Motion)|
