@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![下一站：墨西哥！](./archive/20251011.jpg)
+![爱上萨拉纳克](./archive/20251012.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20251012|爱上萨拉纳克|萨拉纳克湖村，阿迪朗达克山脉，纽约州，美国 (© DenisTangneyJr/Getty Images)|
 |20251011|下一站：墨西哥！|林鸳鸯，美国 (© ps50ace/iStock/Getty Images)|
 |20251010|思绪之礁|莫努里基岛周边的珊瑚礁，玛玛努卡群岛，斐济 (© David Wall/SuperStock)|
 |20251009|宇宙在绽放|‌詹姆斯·韦伯太空望远镜观测的创生之柱 (© NASA)|
