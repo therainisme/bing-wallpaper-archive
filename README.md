@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![爱上萨拉纳克](./archive/20251012.jpg)
+![水声低语](./archive/20251013.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20251013|水声低语|温巴赫峡谷瀑布，巴伐利亚州，德国 (© EyeEm Mobile GmbH/Getty Images)|
 |20251012|爱上萨拉纳克|萨拉纳克湖村，阿迪朗达克山脉，纽约州，美国 (© DenisTangneyJr/Getty Images)|
 |20251011|下一站：墨西哥！|林鸳鸯，美国 (© ps50ace/iStock/Getty Images)|
 |20251010|思绪之礁|莫努里基岛周边的珊瑚礁，玛玛努卡群岛，斐济 (© David Wall/SuperStock)|
