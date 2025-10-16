@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![幽灵之猫](./archive/20251016.jpg)
+![爱上密歇根](./archive/20251017.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20251017|爱上密歇根|罗克河瀑布，上半岛，密歇根州，美国 (© Matt Anderson Photography/Getty Images)|
 |20251016|幽灵之猫|欧亚猞猁，西伯利亚 (© Mario Plechaty Photograph/Shutterstock)|
 |20251015|孢子奇遇记|紫蜡蘑，西贝克，华盛顿州，美国 (© Danita Delimont/Shutterstock)|
 |20251014|蓝与白的梦境|伊亚镇，圣托里尼岛，希腊 (© f9photos/Getty Images)|
