@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![爱上密歇根](./archive/20251017.jpg)
+![那座铭记往昔的山丘](./archive/20251018.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20251018|那座铭记往昔的山丘|西尔布利山的新石器时代遗址，蒂尔斯黑德，威尔特郡，英国 (© dbstockphotoa/Getty Images)|
 |20251017|爱上密歇根|罗克河瀑布，上半岛，密歇根州，美国 (© Matt Anderson Photography/Getty Images)|
 |20251016|幽灵之猫|欧亚猞猁，西伯利亚 (© Mario Plechaty Photograph/Shutterstock)|
 |20251015|孢子奇遇记|紫蜡蘑，西贝克，华盛顿州，美国 (© Danita Delimont/Shutterstock)|
