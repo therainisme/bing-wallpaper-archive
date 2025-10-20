@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![慢节奏的生活](./archive/20251020.jpg)
+![鸟喙的故事](./archive/20251021.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20251021|鸟喙的故事|哥斯达黎加的厚嘴巨嘴鸟 (© Juan Carlos Vindas/Getty Images)|
 |20251020|慢节奏的生活|霍氏树懒，厄瓜多尔 (© Murray Cooper/Minden Pictures)|
 |20251019|痴迷科学|即将收获的苹果，明尼苏达州，美国 (© Tammi Mild/Getty Images)|
 |20251018|那座铭记往昔的山丘|西尔布利山的新石器时代遗址，蒂尔斯黑德，威尔特郡，英国 (© dbstockphotoa/Getty Images)|
