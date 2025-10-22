@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![刻在石头上](./archive/20251022.jpg)
+![雪中深情](./archive/20251023.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20251023|雪中深情|雪豹和她的幼崽, 斯皮提谷, 寒冷沙漠生物圈保护区, 印度 (© Oriol Alamany/naturepl.com)|
 |20251022|刻在石头上|贝洛格拉齐克石林，保加利亚 (© EvaL Miko/Shutterstock)|
 |20251021|鸟喙的故事|哥斯达黎加的厚嘴巨嘴鸟 (© Juan Carlos Vindas/Getty Images)|
 |20251020|慢节奏的生活|霍氏树懒，厄瓜多尔 (© Murray Cooper/Minden Pictures)|
