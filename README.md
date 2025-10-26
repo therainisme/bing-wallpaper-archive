@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![南瓜日，今日登场！](./archive/20251026.jpg)
+![千年秘境](./archive/20251027.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20251027|千年秘境|被胡杨树围绕着的湖, 金塔县, 酒泉, 甘肃, 中国 (© Feng Wei Photography/Getty images)|
 |20251026|南瓜日，今日登场！|北卡罗来纳州的南瓜农场, 美国 (© Matthew H Irvin/Getty Images)|
 |20251025|芬兰的活泥炭地|马蒂莫阿帕沼泽保护区泥炭地鸟瞰图, 芬兰 (© romikatarina/Shutterstock)|
 |20251024|从“灰色幽灵”到幽灵传说|玛丽皇后号邮轮的夜景, 长滩, 加利福尼亚州, 美国 (© Kit Leong/Shutterstock)|
