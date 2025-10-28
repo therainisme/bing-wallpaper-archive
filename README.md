@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![通往石之奇境的大门](./archive/20251028.jpg)
+![时光扎根](./archive/20251029.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20251029|时光扎根|法纳尔森林里的古老月桂树，马德拉群岛，葡萄牙 (© Lukas Jonaitis/Shutterstock)|
 |20251028|通往石之奇境的大门|安德尔施帕赫-特普利采岩石林的哥特式拱门, 捷克 (© Kseniya_Milner/Getty Images)|
 |20251027|千年秘境|被胡杨树围绕着的湖, 金塔县, 酒泉, 甘肃, 中国 (© Feng Wei Photography/Getty images)|
 |20251026|南瓜日，今日登场！|北卡罗来纳州的南瓜农场, 美国 (© Matthew H Irvin/Getty Images)|
