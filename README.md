@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![蹄声、色彩与传承](./archive/20251030.jpg)
+![在万圣节的魔咒之下](./archive/20251031.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20251031|在万圣节的魔咒之下|布兰城堡入口, 布拉索夫, 罗马尼亚 (© blue sky in my pocket/Getty Images)|
 |20251030|蹄声、色彩与传承|杰伊瑟尔梅尔的骆驼, 拉贾斯坦邦, 印度 (© f9photos/Getty Images)|
 |20251029|时光扎根|法纳尔森林里的古老月桂树，马德拉群岛，葡萄牙 (© Lukas Jonaitis/Shutterstock)|
 |20251028|通往石之奇境的大门|安德尔施帕赫-特普利采岩石林的哥特式拱门, 捷克 (© Kseniya_Milner/Getty Images)|
