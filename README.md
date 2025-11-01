@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![古老血脉的兽群](./archive/20251101.jpg)
+![竹林吐纳清气，枫叶绚烂如火](./archive/20251102.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20251102|竹林吐纳清气，枫叶绚烂如火|岚山缤纷的枫叶与竹林, 京都, 日本 (© DoctorEgg/Getty Images)|
 |20251101|古老血脉的兽群|野牛在温泉边吃草,  黄石国家公园, 怀俄明州, 美国 (© Cheryl Ramalho/Getty Images)|
 |20251031|在万圣节的魔咒之下|布兰城堡入口, 布拉索夫, 罗马尼亚 (© blue sky in my pocket/Getty Images)|
 |20251030|蹄声、色彩与传承|杰伊瑟尔梅尔的骆驼, 拉贾斯坦邦, 印度 (© f9photos/Getty Images)|
