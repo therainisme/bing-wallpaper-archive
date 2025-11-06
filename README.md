@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![满天心愿](./archive/20251106.jpg)
+![魅力十足的巨型动物](./archive/20251107.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20251107|魅力十足的巨型动物|丘吉尔的北极熊，曼尼托巴省，加拿大 (© karen crewe/Getty Images)|
 |20251106|满天心愿|哈里朋柴佛塔寺的彩色灯笼, 南奔府, 泰国 (© MR. ANUJAK JAIMOOK/Getty Images)|
 |20251105|秋天来了，你开心吗？|佩尼亚罗亚山毛榉森林, 蒙卡约自然公园, 萨拉戈萨, 阿拉贡, 西班牙 (© David Santiago Garcia/DEEPOL by plainpicture)|
 |20251104|小心空隙，桥面将开启！|塔桥, 伦敦, 英格兰 (© Nick Brundle Photography/Getty Images)|
