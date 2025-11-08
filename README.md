@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![班登的明星岩石](./archive/20251108.jpg)
+![从前有一颗星星](./archive/20251109.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20251109|从前有一颗星星|礁湖星云中的星际云，由哈勃太空望远镜拍摄 (© ESA/NASA)|
 |20251108|班登的明星岩石|班登海滩的海蚀柱，俄勒冈州，美国 (© Grant Ordelheide/TANDEM Stills + Motion)|
 |20251107|魅力十足的巨型动物|丘吉尔的北极熊，曼尼托巴省，加拿大 (© karen crewe/Getty Images)|
 |20251106|满天心愿|哈里朋柴佛塔寺的彩色灯笼, 南奔府, 泰国 (© MR. ANUJAK JAIMOOK/Getty Images)|
