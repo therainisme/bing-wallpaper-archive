@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![条条大路通罗马](./archive/20251112.jpg)
+![星光下的颤动之树](./archive/20251113.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20251113|星光下的颤动之树|夜晚的箭袋树与银河，基特曼斯胡普，纳米比亚 (© Wim van den Heever/naturepl.com)|
 |20251112|条条大路通罗马|斗兽场鸟瞰图，罗马，意大利 (© Nico De Pasquale Photography/Getty Images)|
 |20251111|传奇之地|条顿堡森林的伊克斯坦岩石层，德国 (© Michael Sroka/Getty Images)|
 |20251110|草原之下的生命|土拨鼠镇的黑尾土拨鼠，劣地国家公园，南达科他州，美国 (© Greg Vaughn/Getty Images)|
