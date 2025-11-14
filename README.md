@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![快节奏时代，别忘了慢下来](./archive/20251114.jpg)
+![像日光那样“弯道飞驰”](./archive/20251115.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20251115|像日光那样“弯道飞驰”|秋天的伊吕波坂，日光市，栃木县，日本 (© oneinchpunch/Shutterstock)|
 |20251114|快节奏时代，别忘了慢下来|海牛妈妈和幼崽，水晶河，佛罗里达州，美国 (© Gregory Sweeney/Getty Images)|
 |20251113|星光下的颤动之树|夜晚的箭袋树与银河，基特曼斯胡普，纳米比亚 (© Wim van den Heever/naturepl.com)|
 |20251112|条条大路通罗马|斗兽场鸟瞰图，罗马，意大利 (© Nico De Pasquale Photography/Getty Images)|
