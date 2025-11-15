@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![像日光那样“弯道飞驰”](./archive/20251115.jpg)
+![承载过往的篇章](./archive/20251116.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20251116|承载过往的篇章|里昂的一条穿廊，法国 (© TPopova/Getty Images) 法国|
 |20251115|像日光那样“弯道飞驰”|秋天的伊吕波坂，日光市，栃木县，日本 (© oneinchpunch/Shutterstock)|
 |20251114|快节奏时代，别忘了慢下来|海牛妈妈和幼崽，水晶河，佛罗里达州，美国 (© Gregory Sweeney/Getty Images)|
 |20251113|星光下的颤动之树|夜晚的箭袋树与银河，基特曼斯胡普，纳米比亚 (© Wim van den Heever/naturepl.com)|
