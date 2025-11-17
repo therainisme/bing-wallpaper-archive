@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![小径在召唤](./archive/20251117.jpg)
+![秋日里的羽翼明星](./archive/20251118.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20251118|秋日里的羽翼明星|雄性棕胁秋沙鸭，俄勒冈州，美国 (© Eric Vogt/TANDEM Stills + Motion)|
 |20251117|小径在召唤|谢南多厄国家公园的秋色，弗吉尼亚州，美国 (© Michael Ver Sprill/Getty Images)|
 |20251116|承载过往的篇章|里昂的一条穿廊，法国 (© TPopova/Getty Images) 法国|
 |20251115|像日光那样“弯道飞驰”|秋天的伊吕波坂，日光市，栃木县，日本 (© oneinchpunch/Shutterstock)|
