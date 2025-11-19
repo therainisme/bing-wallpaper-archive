@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![石头与符号，诉说一个民族的故事](./archive/20251119.jpg)
+![颂扬保护与美](./archive/20251120.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20251120|颂扬保护与美|查帕达迪亚曼蒂纳国家公园，巴伊亚州，巴西 (© Marcio Dufranc/Getty Images)|
 |20251119|石头与符号，诉说一个民族的故事|匈牙利国会大厦，布达佩斯，匈牙利 (© Alexander Spatari/Getty Images)|
 |20251118|秋日里的羽翼明星|雄性棕胁秋沙鸭，俄勒冈州，美国 (© Eric Vogt/TANDEM Stills + Motion)|
 |20251117|小径在召唤|谢南多厄国家公园的秋色，弗吉尼亚州，美国 (© Michael Ver Sprill/Getty Images)|
