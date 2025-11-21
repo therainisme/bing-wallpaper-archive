@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![带着“你好”的问候](./archive/20251121.jpg)
+![守护江河的佛像](./archive/20251122.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20251122|守护江河的佛像|乐山大佛, 四川, 中国 (© www.anotherdayattheoffice.org/Getty Images)|
 |20251121|带着“你好”的问候|罗伯特·摩西州立公园的港海豹, 长岛, 纽约, 美国 (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)|
 |20251120|颂扬保护与美|查帕达迪亚曼蒂纳国家公园，巴伊亚州，巴西 (© Marcio Dufranc/Getty Images)|
 |20251119|石头与符号，诉说一个民族的故事|匈牙利国会大厦，布达佩斯，匈牙利 (© Alexander Spatari/Getty Images)|
