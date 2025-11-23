@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![大自然的秘密代码](./archive/20251123.jpg)
+![岩石中的秘密](./archive/20251124.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20251124|岩石中的秘密|瓜廖尔堡, ‌中央邦, 印度 (© ImagesofIndia/Shutterstock)|
 |20251123|大自然的秘密代码|马达加斯加菊石化石 (© ThomasLENNE/Shutterstock)|
 |20251122|守护江河的佛像|乐山大佛, 四川, 中国 (© www.anotherdayattheoffice.org/Getty Images)|
 |20251121|带着“你好”的问候|罗伯特·摩西州立公园的港海豹, 长岛, 纽约, 美国 (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)|
