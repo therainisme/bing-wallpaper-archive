@@ -2,12 +2,13 @@
 
 Use Github Action to automatically crawl bing daily wallpaper.
 
-![岩石中的秘密](./archive/20251124.jpg)
+![爱情、幸运与硬币](./archive/20251125.jpg)
 
 ### List of Included Wallpapers
 
 |date|title|copyright|
 |---|---|---|
+|20251125|爱情、幸运与硬币|罗马的特雷维喷泉, 意大利 (© Nico De Pasquale Photography/Getty Images)|
 |20251124|岩石中的秘密|瓜廖尔堡, ‌中央邦, 印度 (© ImagesofIndia/Shutterstock)|
 |20251123|大自然的秘密代码|马达加斯加菊石化石 (© ThomasLENNE/Shutterstock)|
 |20251122|守护江河的佛像|乐山大佛, 四川, 中国 (© www.anotherdayattheoffice.org/Getty Images)|
